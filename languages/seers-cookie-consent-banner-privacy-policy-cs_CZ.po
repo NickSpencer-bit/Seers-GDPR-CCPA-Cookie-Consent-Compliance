@@ -1,0 +1,677 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: seers-cookie-consent-banner-privacy-policy\n"
+"POT-Creation-Date: 2022-03-16 17:05+0500\n"
+"PO-Revision-Date: 2022-03-30 04:43-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: seers-cookie-consent-banner-privacy-policy.pot\n"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:350
+msgid "Quick Feedback"
+msgstr "Rychlá zpětná vazba"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:351
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Pokud máte chvilku, dejte nám prosím vědět, proč se deaktivujete:"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:354
+#: inc/seers-cookie-consent-plugin-deactivate.php:355
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:154
+msgid "The banner is not in the required language"
+msgstr "Banner není v požadovaném jazyce"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:359
+msgid ""
+"The banner picks up your website language automatically. You can always sign-in on your Seers "
+"account"
+msgstr ""
+"Banner automaticky přebírá jazyk vaší webové stránky. Vždy se můžete přihlásit ke svému účtu "
+"Seers"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:359
+msgid "and choose the language you like. See the video"
+msgstr "a vyberte jazyk, který se vám líbí. Viz video"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:359
+#: inc/seers-cookie-consent-plugin-deactivate.php:381
+msgid "here"
+msgstr "tady"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:363
+#: inc/seers-cookie-consent-plugin-deactivate.php:364
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:163
+msgid "Banner did not appear"
+msgstr "Banner se neobjevil"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:367
+#: inc/seers-cookie-consent-plugin-deactivate.php:388
+msgid "Most of the times the compatibility issue can be fixed very quickly. Please contact"
+msgstr "Většinu času může být problém kompatibility velmi rychlé. Prosím kontaktujte"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:371
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:170
+msgid "Cookies are not showing in settings"
+msgstr "Cookies se zobrazují v nastavení"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:374
+msgid ""
+"We are scanning your website and it can take up to 12 hours for Cookies to appear. In a very few "
+"cases scanner miss a cookie. This"
+msgstr ""
+"Skenujeme vaše webové stránky a to může trvat až 12 hodin, než se cookies objeví. Ve velmi málo "
+"případech Scanner chybí cookie. Tento"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:374
+msgid "video"
+msgstr "video"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:374
+msgid "explains how to add cookies manually."
+msgstr "vysvětluje, jak přidat soubory cookie ručně."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:378
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:177
+msgid "The banner did not match website theme"
+msgstr "Banner neodpovídá tématu webu"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:381
+msgid "You can fully customize the banner. Please see the video"
+msgstr "Můžete plně přizpůsobit banner. Viz video"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:384
+#: inc/seers-cookie-consent-plugin-deactivate.php:385
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:184
+msgid "The plugin broke my site"
+msgstr "Plugin mi zlomil místo"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:392
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:191
+msgid "I have found a better plugin"
+msgstr "Našel jsem lepší plugin"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:395
+msgid "Plugin name"
+msgstr "Plugin Název"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:398
+msgid "The plugin is great, but i need specific feature that you do not support."
+msgstr "Plugin je skvělý, ale potřebuji specifickou funkci, kterou nepodporujete."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:399
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:198
+msgid "The plugin is great, but i need specific feature that you don't support."
+msgstr "Plugin je skvělý, ale potřebuji specifickou funkci, kterou nepodporujete."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:402
+msgid "Banner customisation."
+msgstr "Přizpůsobení banneru."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:406
+#: inc/seers-cookie-consent-plugin-deactivate.php:407
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:206
+msgid "Other"
+msgstr "Jiný"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:410
+msgid "Kindly tell us the reason so we can improve."
+msgstr "Laskavě nám řekněte ten důvod, abychom se mohli zlepšit."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:413
+msgid "Submit & Deactivate"
+msgstr "Odeslat & deaktivovat"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:414
+msgid "Cancel"
+msgstr "Zrušení"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:419
+msgid "Skip & Deactivate"
+msgstr "Přeskočit a deaktivovat"
+
+#: js/admin.js:15
+msgid "Dismiss this notice."
+msgstr "Odmítnout toto oznámení."
+
+#: seers-cookie-consent-banner-privacy-policy.php:133 templates/admin.php:97
+msgid "Settings"
+msgstr "Nastavení"
+
+#: seers-cookie-consent-banner-privacy-policy.php:139
+msgid "Upgrade Premium"
+msgstr "Upgrade premium"
+
+#: seers-cookie-consent-banner-privacy-policy.php:290 templates/admin.php:740
+#: templates/frontend-popup.php:1738 templates/frontend-popup.php:1759
+msgid "We use cookies to ensure you get the best experience"
+msgstr "Používáme soubory cookie, abychom vám zajistili co nejlepší zážitek"
+
+#: seers-cookie-consent-banner-privacy-policy.php:291 templates/admin.php:784
+#: templates/admin.php:785 templates/admin.php:787 templates/frontend-popup.php:1740
+#: templates/frontend-popup.php:1765
+msgid "Allow All"
+msgstr "Povolit vše"
+
+#: seers-cookie-consent-banner-privacy-policy.php:292 templates/admin.php:815
+#: templates/admin.php:816 templates/admin.php:818 templates/frontend-popup.php:1740
+#: templates/frontend-popup.php:1766
+msgid "Disable All"
+msgstr "Zakázat vše"
+
+#: seers-cookie-consent-banner-privacy-policy.php:293 templates/admin.php:847
+#: templates/frontend-popup.php:1740
+msgid "Preference"
+msgstr "Předvolby"
+
+#: seers-cookie-consent-banner-privacy-policy.php:416
+#: seers-cookie-consent-banner-privacy-policy.php:444
+#: seers-cookie-consent-banner-privacy-policy.php:450
+msgid "Cookies policy added successfully."
+msgstr "Zásady souborů cookie úspěšně přidalo."
+
+#: seers-cookie-consent-banner-privacy-policy.php:419
+msgid "Some thing went wrong. Please check url and try again"
+msgstr "Něco se pokazilo. Zkontrolujte prosím adresu URL a zkuste to znovu"
+
+#: seers-cookie-consent-banner-privacy-policy.php:670
+msgid "Some thing went wrong."
+msgstr "Něco se pokazilo."
+
+#: seers-cookie-consent-banner-privacy-policy.php:806
+msgid "Settings has been updated successfully"
+msgstr "Nastavení byla úspěšně aktualizována"
+
+#: templates/admin.php:92 templates/admin.php:1067
+msgid "Account Setup"
+msgstr "Nastavení účtu"
+
+#: templates/admin.php:100
+msgid "Policy"
+msgstr "Zásady"
+
+#: templates/admin.php:104
+msgid "User Guide"
+msgstr "Uživatelská příručka"
+
+#: templates/admin.php:119
+msgid "Your Seers Cookie Consent banner is activated."
+msgstr "Váš banner Seers Cookie Consent je aktivován."
+
+#: templates/admin.php:123
+msgid "Your Seers Cookie Consent Banner is NOT activated because"
+msgstr "Banner souhlasu se soubory cookie společnosti Seers NENÍ aktivován, protože"
+
+#: templates/admin.php:134
+msgid "Email"
+msgstr "E-mailem"
+
+#: templates/admin.php:145 templates/admin.php:162
+msgid "I agree Seers"
+msgstr "Souhlasím se Seers"
+
+#: templates/admin.php:146 templates/admin.php:163
+msgid "Terms & Condition"
+msgstr "Podmínky a podmínky"
+
+#: templates/admin.php:148 templates/admin.php:165
+msgid "and"
+msgstr "a"
+
+#: templates/admin.php:149 templates/admin.php:167
+msgid "Privacy Policy"
+msgstr "Zásady ochrany osobních údajů"
+
+#: templates/admin.php:154 templates/admin.php:172
+msgid "I agree Seers to use my email and url to create an account and power the cookie banner."
+msgstr "I agree Seers to use my email and url to create an account and power the cookie banner."
+
+#: templates/admin.php:178
+msgid "Create Account"
+msgstr "Vytvořit účet"
+
+#: templates/admin.php:181
+msgid "Cookie ID"
+msgstr "Cookie ID"
+
+#: templates/admin.php:182
+msgid "Seers Cookie ID will be received automatically after account creation"
+msgstr "ID souborů cookie Seers obdržíte automaticky po vytvoření účtu"
+
+#: templates/admin.php:197
+msgid "Powering all your"
+msgstr "Napájení všeho"
+
+#: templates/admin.php:198
+msgid "Privacy &amp; Data Security needs"
+msgstr "Soukromí a; Potřeby zabezpečení dat"
+
+#: templates/admin.php:199
+msgid "Gain access to an extensive range of GDPR, PECR, CCPA &amp; ePrivacy compliance tools,"
+msgstr "Získat přístup k rozsáhlému rozsahu GDPR, PREC, CCPA a; Nástroje pro dodržování ePrivacy,"
+
+#: templates/admin.php:200
+msgid "all"
+msgstr "všechno"
+
+#: templates/admin.php:201
+msgid ""
+"designed to take the hassle out of complying with the new data\n"
+"                                protection regulations."
+msgstr ""
+"navržen tak, aby se neobjevil v souladu s novými údaji\n"
+"                                Ochranné předpisy."
+
+#: templates/admin.php:206
+msgid "Policies Pack"
+msgstr "Zásady Pack"
+
+#: templates/admin.php:207
+msgid "Templates Pack"
+msgstr "Šablony Pack"
+
+#: templates/admin.php:208
+msgid "GDPR Staff eTraining"
+msgstr "GDPR personál Etraining"
+
+#: templates/admin.php:209
+msgid "Cookie Consent Management"
+msgstr "Správa souboru cookie"
+
+#: templates/admin.php:212
+msgid "DPIA"
+msgstr "Dpia"
+
+#: templates/admin.php:213
+msgid "GDPR Audit"
+msgstr "Audit GDPR"
+
+#: templates/admin.php:214
+msgid "Cyber Secure"
+msgstr "Cyber ​​Secure"
+
+#: templates/admin.php:215
+msgid "Subject Request Management"
+msgstr "Správa požadavků na předmět"
+
+#: templates/admin.php:217
+msgid "START FREE"
+msgstr "Začněte zdarma"
+
+#: templates/admin.php:223
+msgid ""
+"Data Privacy &amp;\n"
+"                                Compliance. Solved"
+msgstr ""
+"Ochrana osobních údajů a;\n"
+"                               Dodržování. Vyřešen"
+
+#: templates/admin.php:225
+msgid ""
+"Trust worlds leading privacy and consent management platform to help companies comply\n"
+"                                with GDPR, PECR, CCPA and ePrivacy"
+msgstr ""
+"Trust WorldS vedoucí platforma pro správu soukromí a souhlasu, která pomáhají společnostem "
+"dodržovat\n"
+"                                s GDPR, PREC, CCPA a EPRIVACY"
+
+#: templates/admin.php:227
+msgid "START PREMIUM TODAY"
+msgstr "Začněte pojistný dnes"
+
+#: templates/admin.php:230
+msgid "Seers Premium Plan"
+msgstr "Plán Seers Premium"
+
+#: templates/admin.php:232
+msgid "Branding"
+msgstr "Branding"
+
+#: templates/admin.php:233
+msgid "Multi Lingual"
+msgstr "Multi Lingual"
+
+#: templates/admin.php:234
+msgid "Consent Log"
+msgstr "Protokol souhlasu"
+
+#: templates/admin.php:235
+msgid "Cookie Policy"
+msgstr "Zásady cookie"
+
+#: templates/admin.php:236
+msgid "Prior Consent"
+msgstr "Předchozí souhlas"
+
+#: templates/admin.php:237
+msgid "6+ Design Layouts"
+msgstr "6+ rozložení designu"
+
+#: templates/admin.php:238
+msgid "Customer Support"
+msgstr "Zákaznická podpora"
+
+#: templates/admin.php:239
+msgid "Banner Customisation"
+msgstr "Přizpůsobení banneru"
+
+#: templates/admin.php:240
+msgid "Cookie Declaration Table"
+msgstr "Deklarace soubor cookie tabulka"
+
+#: templates/admin.php:241
+msgid ""
+"START PREMIUM\n"
+"                                TODAY"
+msgstr ""
+"\"Start premium\n"
+"                                DNES\""
+
+#: templates/admin.php:255
+msgid "Banner Settings"
+msgstr "Nastavení banneru"
+
+#: templates/admin.php:260
+msgid "Banner"
+msgstr "Prapor"
+
+#: templates/admin.php:260
+msgid "Enable/disable Cookie banner"
+msgstr "Povolit / Zakázat banner cookie"
+
+#: templates/admin.php:279
+msgid "Cookie Expiry"
+msgstr "Cookie Expiry"
+
+#: templates/admin.php:279
+msgid "Set your consent cookie to expire in days."
+msgstr "Nastavte svůj souhlas cookie, abyste vypršeli ve dnech."
+
+#: templates/admin.php:291
+msgid "Language"
+msgstr "Jazyk"
+
+#: templates/admin.php:291
+msgid "Choose a language for the banner."
+msgstr "Vyberte jazyk pro nastavení banneru> Obecné."
+
+#: templates/admin.php:701
+msgid "Show Badge"
+msgstr "Show Badge"
+
+#: templates/admin.php:701
+msgid "Show a badge to enable the cookie banner to appear post consent."
+msgstr "Ukažte odznak, který umožňuje, aby banner cookie objeví sešlá pošta."
+
+#: templates/admin.php:724
+msgid "Visual Settings"
+msgstr "Vizuální nastavení"
+
+#: templates/admin.php:729
+msgid "Banner Text"
+msgstr "Banner Text"
+
+#: templates/admin.php:729
+msgid "Text to appear on the banner:"
+msgstr "Text se zobrazí na banneru:"
+
+#: templates/admin.php:732 templates/admin.php:750
+msgid "Colour"
+msgstr "Barva"
+
+#: templates/admin.php:732
+msgid "The text colour to appear on the banner:"
+msgstr "Barva textu se zobrazí na banneru:"
+
+#: templates/admin.php:747
+msgid "Banner Background"
+msgstr "Banner Background"
+
+#: templates/admin.php:747
+msgid "You can change the background colour of the banner:"
+msgstr "Můžete změnit barvu pozadí banneru:"
+
+#: templates/admin.php:750
+msgid "The background colour of the banner:"
+msgstr "Barva pozadí banneru:"
+
+#: templates/admin.php:764
+msgid "Accept Button"
+msgstr "Přijmout tlačítko"
+
+#: templates/admin.php:764
+msgid "You can change text colour, button colour and text of the 'Accept All' button"
+msgstr "Můžete změnit barvu textu, barvu tlačítka a text 'Přijmout všechny'"
+
+#: templates/admin.php:767 templates/admin.php:798 templates/admin.php:829
+msgid "Text Colour"
+msgstr "Barva textu"
+
+#: templates/admin.php:767
+msgid "The text colour to appear on the 'Accept All' button:"
+msgstr "Barva textu se zobrazí na tlačítku 'Přijmout všechny':"
+
+#: templates/admin.php:777 templates/admin.php:808 templates/admin.php:839
+msgid "Button Colour"
+msgstr "Barva tlačítka"
+
+#: templates/admin.php:777
+msgid "The 'Accept All' button colour to appear on the banner:"
+msgstr "'Přijmout all' barvu pro zobrazení na banneru:"
+
+#: templates/admin.php:795
+msgid "Reject Button"
+msgstr "Tlačítko odmítnout"
+
+#: templates/admin.php:795
+msgid "You can change text colour, button colour and text of the 'Reject All' button"
+msgstr "Můžete změnit barvu textu, barvu tlačítka a text 'Odmítnout všechny'"
+
+#: templates/admin.php:798
+msgid "The text colour to appear on the 'Reject All' button:"
+msgstr "Barva textu se zobrazí na tlačítku 'Odmítnout všechny':"
+
+#: templates/admin.php:808
+msgid "The 'Reject All' button colour to appear on the banner:"
+msgstr "Barva 'Odmítnout all' pro zobrazení na banneru:"
+
+#: templates/admin.php:826
+msgid "Setting Button"
+msgstr "Tlačítko nastavení"
+
+#: templates/admin.php:826
+msgid "You can change text colour and text of the 'Setting' button"
+msgstr "Můžete změnit barvu textu a text tlačítka 'Nastavení'"
+
+#: templates/admin.php:829
+msgid "The text colour to appear on the 'Setting' button:"
+msgstr "Barva textu se zobrazí na tlačítku 'Nastavení':"
+
+#: templates/admin.php:839
+msgid "The 'Setting' button colour to appear on the banner:"
+msgstr "Barva 'Nastavení' se zobrazí na banneru:"
+
+#: templates/admin.php:850
+msgid "Setting"
+msgstr "Nastavení"
+
+#: templates/admin.php:858
+msgid "Fonts"
+msgstr "Fonts"
+
+#: templates/admin.php:858
+msgid "You can select a font for the text of the banner:"
+msgstr "Můžete vybrat písmo pro text banneru:"
+
+#: templates/admin.php:910
+msgid "Select Button"
+msgstr "Zvolte tlačítko"
+
+#: templates/admin.php:910
+msgid "You can select the shape of the buttons that appear on the banner."
+msgstr "Můžete vybrat tvar tlačítek, které se zobrazí na banneru."
+
+#: templates/admin.php:914
+msgid "Default"
+msgstr "Výchozí hodnota"
+
+#: templates/admin.php:918 templates/admin.php:928
+msgid "Flat"
+msgstr "Byt"
+
+#: templates/admin.php:921 templates/admin.php:931
+msgid "Rounded"
+msgstr "Zaoblený"
+
+#: templates/admin.php:924 templates/admin.php:934
+msgid "Stroke"
+msgstr "Stroke"
+
+#: templates/admin.php:952
+msgid "PREVIEW"
+msgstr "Náhled"
+
+#: templates/admin.php:953
+msgid "SAVE"
+msgstr "ULOŽIT"
+
+#: templates/admin.php:972
+msgid "Please create cookies policy page and enter URL below."
+msgstr "Vytvořte stránku Zásady cookies a zadejte adresu URL níže."
+
+#: templates/admin.php:976
+msgid "Enable Policy:"
+msgstr "Povolit politiku:"
+
+#: templates/admin.php:993
+msgid "Cookie Policy and declaration URL:"
+msgstr "Zásady a prohlášení URL prohlášení cookie:"
+
+#: templates/admin.php:996
+msgid "Policy URL"
+msgstr "Politika URL"
+
+#: templates/admin.php:1003
+msgid "Save"
+msgstr "ULOŽIT"
+
+#: templates/admin.php:1057
+msgid "Premium Plan"
+msgstr "Prémiový plán"
+
+#: templates/admin.php:1060 templates/admin.php:1249 templates/admin.php:1258
+#: templates/admin.php:1266
+msgid "Only the users with a paid account can avail this feature."
+msgstr "Tuto funkci mohou využít pouze uživatelé s placeným účtem."
+
+#: templates/admin.php:1065
+msgid "Ok"
+msgstr "OK"
+
+#: templates/frontend-popup.php:1751
+msgid "seers logo"
+msgstr "logo Seers"
+
+#: templates/frontend-popup.php:1756
+msgid "About Cookies"
+msgstr "O souborech cookie"
+
+#: templates/frontend-popup.php:1760
+msgid "Read Cookie Policy"
+msgstr "Číst zásady cookie"
+
+#: templates/frontend-popup.php:1772
+msgid "Necessary"
+msgstr "Nezbytné"
+
+#: templates/frontend-popup.php:1772
+msgid "Always Active"
+msgstr "Vždy aktivní"
+
+#: templates/frontend-popup.php:1774
+msgid ""
+"Necessary cookies help make a website usable by enabling basic functions like page navigation "
+"and access to secure areas of the website. The website cannot function properly without these "
+"cookies."
+msgstr ""
+"Nezbytné soubory cookie pomáhají učinit web použitelným tím, že umožňují základní funkce, jako "
+"je navigace na stránce a přístup k zabezpečeným oblastem webu. Bez těchto souborů cookie nemůže "
+"web správně fungovat."
+
+#: templates/frontend-popup.php:1774 templates/frontend-popup.php:1784
+#: templates/frontend-popup.php:1794 templates/frontend-popup.php:1804
+#: templates/frontend-popup.php:1812
+msgid "Cookies Detail"
+msgstr "Detail cookies"
+
+#: templates/frontend-popup.php:1778
+msgid "Preferences"
+msgstr "Předvolby"
+
+#: templates/frontend-popup.php:1784
+msgid ""
+"Preference cookies enable a website to remember information that changes the way the website "
+"behaves or looks, like your preferred language or the region that you are in."
+msgstr ""
+"Přednostní soubory cookie umožňují webové stránky zapamatovat si informace, které mění způsob, "
+"jakým web se chová nebo vypadá, jako je váš preferovaný jazyk nebo oblast, ve kterém jste."
+
+#: templates/frontend-popup.php:1788
+msgid "Statistics"
+msgstr "Statistiky"
+
+#: templates/frontend-popup.php:1794
+msgid ""
+"Statistic cookies help website owners to understand how visitors interact with websites by "
+"collecting and reporting information anonymously."
+msgstr ""
+"Statistické soubory cookie pomáhají majitelům webových stránek pochopit, jak návštěvníci "
+"interagují s webovými stránkami, a to prostřednictvím anonymního shromažďování a vykazování "
+"informací."
+
+#: templates/frontend-popup.php:1798
+msgid "Marketing"
+msgstr "Marketing"
+
+#: templates/frontend-popup.php:1804
+msgid ""
+"Marketing cookies are used to track visitors across websites. The intention is to display ads "
+"that are relevant and engaging for the individual user and thereby more valuable for publishers "
+"and third-party advertisers."
+msgstr ""
+"Marketingové soubory cookie se používají ke sledování návštěvníků na různých webových stránkách. "
+"Záměrem je zobrazovat reklamy, které jsou relevantní a zajímavé pro jednotlivé uživatele, a tím "
+"hodnotnější pro vydavatele a inzerenty třetích stran."
+
+#: templates/frontend-popup.php:1808
+msgid "Unclassified"
+msgstr "Nezařazené"
+
+#: templates/frontend-popup.php:1812
+msgid ""
+"Unclassified cookies are cookies that we are in the process of classifying, together with the "
+"providers of individual cookies."
+msgstr ""
+"Neklasifikované soubory cookie jsou soubory cookie, které právě klasifikujeme společně s "
+"poskytovateli jednotlivých souborů cookie."
+
+#: templates/frontend-popup.php:1819
+msgid "Save my choices"
+msgstr "Uložit mé volby"
+
+#: templates/frontend-popup.php:1825
+msgid "powered by"
+msgstr "powered by"
+
+#~ msgid "To get your Cookie ID click on Activate"
+#~ msgstr "To get your Cookie ID click on Activate"
+
+#~ msgid "Activate"
+#~ msgstr "Activate"

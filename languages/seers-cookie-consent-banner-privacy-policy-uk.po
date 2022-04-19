@@ -1,0 +1,644 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-03-16 17:05+0500\n"
+"PO-Revision-Date: 2022-03-30 05:00-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#VALUE!Project-Id-Version: seers-cookie-consent-banner-privacy-policy\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: seers-cookie-consent-banner-privacy-policy.pot\n"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:350
+msgid "Quick Feedback"
+msgstr "Швидкий відгук"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:351
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Якщо у вас є момент, повідомте нам, чому ви деактивуєте:"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:354
+#: inc/seers-cookie-consent-plugin-deactivate.php:355
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:154
+msgid "The banner is not in the required language"
+msgstr "Банер не є обов'язковою мовою"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:359
+msgid "The banner picks up your website language automatically. You can always sign-in on your Seers account"
+msgstr "Банер автоматично вибирає мову веб-сайту. Ви завжди можете увійти на свій рахунок SEERS"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:359
+msgid "and choose the language you like. See the video"
+msgstr "і вибрати потрібну мову. Перегляньте відео"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:359
+#: inc/seers-cookie-consent-plugin-deactivate.php:381
+msgid "here"
+msgstr "тут"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:363
+#: inc/seers-cookie-consent-plugin-deactivate.php:364
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:163
+msgid "Banner did not appear"
+msgstr "Банер не з'явився"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:367
+#: inc/seers-cookie-consent-plugin-deactivate.php:388
+msgid "Most of the times the compatibility issue can be fixed very quickly. Please contact"
+msgstr "Більшість разів питання сумісності може бути виправлена ​​дуже швидко. Будь ласка зв'яжіться"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:371
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:170
+msgid "Cookies are not showing in settings"
+msgstr "Cookies не відображаються в налаштуваннях"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:374
+msgid "We are scanning your website and it can take up to 12 hours for Cookies to appear. In a very few cases scanner miss a cookie. This"
+msgstr "Ми скануємо ваш веб-сайт, і для появи файлів cookie може знадобитися до 12 годин.У дуже небагатьох випадках сканер пропускає cookie.Цей"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:374
+msgid "video"
+msgstr "відеоролик"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:374
+msgid "explains how to add cookies manually."
+msgstr "пояснює, як додати файли cookie вручну."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:378
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:177
+msgid "The banner did not match website theme"
+msgstr "Банер не відповідає темі веб-сайту"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:381
+msgid "You can fully customize the banner. Please see the video"
+msgstr "Ви можете повністю налаштувати банер. Будь ласка, перегляньте відео"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:384
+#: inc/seers-cookie-consent-plugin-deactivate.php:385
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:184
+msgid "The plugin broke my site"
+msgstr "Плагін зламав мій сайт"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:392
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:191
+msgid "I have found a better plugin"
+msgstr "Я знайшов кращий плагін"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:395
+msgid "Plugin name"
+msgstr "Назва плагіна"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:398
+msgid "The plugin is great, but i need specific feature that you do not support."
+msgstr "Плагін великий, але мені потрібна конкретна особливість, яку ви не підтримуєте."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:399
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:198
+msgid "The plugin is great, but i need specific feature that you don't support."
+msgstr "Плагін великий, але мені потрібна конкретна особливість, яку ви не підтримуєте."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:402
+msgid "Banner customisation."
+msgstr "Налаштування банера."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:406
+#: inc/seers-cookie-consent-plugin-deactivate.php:407
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:206
+msgid "Other"
+msgstr "Інший"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:410
+msgid "Kindly tell us the reason so we can improve."
+msgstr "Будь ласка, повідомте нам, що ми можемо покращити."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:413
+msgid "Submit & Deactivate"
+msgstr "Надіслати та деактивувати"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:414
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:419
+msgid "Skip & Deactivate"
+msgstr "Пропустити та деактивувати"
+
+#: js/admin.js:15
+msgid "Dismiss this notice."
+msgstr "Відхилити це повідомлення."
+
+#: seers-cookie-consent-banner-privacy-policy.php:133 templates/admin.php:97
+msgid "Settings"
+msgstr "Налаштування"
+
+#: seers-cookie-consent-banner-privacy-policy.php:139
+msgid "Upgrade Premium"
+msgstr "Оновити премію"
+
+#: seers-cookie-consent-banner-privacy-policy.php:290 templates/admin.php:740
+#: templates/frontend-popup.php:1738 templates/frontend-popup.php:1759
+msgid "We use cookies to ensure you get the best experience"
+msgstr "Ми використовуємо файли cookie, щоб забезпечити найкращий досвід"
+
+#: seers-cookie-consent-banner-privacy-policy.php:291 templates/admin.php:784
+#: templates/admin.php:785 templates/admin.php:787
+#: templates/frontend-popup.php:1740 templates/frontend-popup.php:1765
+msgid "Allow All"
+msgstr "Допускати"
+
+#: seers-cookie-consent-banner-privacy-policy.php:292 templates/admin.php:815
+#: templates/admin.php:816 templates/admin.php:818
+#: templates/frontend-popup.php:1740 templates/frontend-popup.php:1766
+msgid "Disable All"
+msgstr "Відключити все"
+
+#: seers-cookie-consent-banner-privacy-policy.php:293 templates/admin.php:847
+#: templates/frontend-popup.php:1740
+msgid "Preference"
+msgstr "Перевага"
+
+#: seers-cookie-consent-banner-privacy-policy.php:416
+#: seers-cookie-consent-banner-privacy-policy.php:444
+#: seers-cookie-consent-banner-privacy-policy.php:450
+msgid "Cookies policy added successfully."
+msgstr "Політика файлів cookie успішно додана."
+
+#: seers-cookie-consent-banner-privacy-policy.php:419
+msgid "Some thing went wrong. Please check url and try again"
+msgstr "Щось пішло не так. Перевірте URL-адресу та повторіть спробу"
+
+#: seers-cookie-consent-banner-privacy-policy.php:670
+msgid "Some thing went wrong."
+msgstr "Щось пішло не так."
+
+#: seers-cookie-consent-banner-privacy-policy.php:806
+msgid "Settings has been updated successfully"
+msgstr "Установки успішно оновлено"
+
+#: templates/admin.php:92 templates/admin.php:1067
+msgid "Account Setup"
+msgstr "Налаштування облікового запису"
+
+#: templates/admin.php:100
+msgid "Policy"
+msgstr "Політика"
+
+#: templates/admin.php:104
+msgid "User Guide"
+msgstr "Керівництво користувача"
+
+#: templates/admin.php:119
+msgid "Your Seers Cookie Consent banner is activated."
+msgstr "Банер згоди Cookie ваш SEERS Cookie активується."
+
+#: templates/admin.php:123
+msgid "Your Seers Cookie Consent Banner is NOT activated because"
+msgstr "Ваші Seers Cookie Banner не активовано, тому що"
+
+#: templates/admin.php:134
+msgid "Email"
+msgstr "Електронна пошта"
+
+#: templates/admin.php:145 templates/admin.php:162
+msgid "I agree Seers"
+msgstr "Погоджуюся Seers"
+
+#: templates/admin.php:146 templates/admin.php:163
+msgid "Terms & Condition"
+msgstr "Умови та стан"
+
+#: templates/admin.php:148 templates/admin.php:165
+msgid "and"
+msgstr "і"
+
+#: templates/admin.php:149 templates/admin.php:167
+msgid "Privacy Policy"
+msgstr "Політика конфіденційності"
+
+#: templates/admin.php:154 templates/admin.php:172
+msgid "I agree Seers to use my email and url to create an account and power the cookie banner."
+msgstr "Я згоден, щоб використовувати мою електронну пошту та URL-адресу, щоб створити обліковий запис та потужність банера Cookie.I agree Seers to use my email and url to create an account and power the cookie banner."
+
+#: templates/admin.php:178
+msgid "Create Account"
+msgstr "Створити обліковий запис"
+
+#: templates/admin.php:181
+msgid "Cookie ID"
+msgstr "Cookie ID"
+
+#: templates/admin.php:182
+msgid "Seers Cookie ID will be received automatically after account creation"
+msgstr "Seers Cookie ID буде отримано автоматично після створення облікового запису"
+
+#: templates/admin.php:197
+msgid "Powering all your"
+msgstr "Живлення всіх ваших"
+
+#: templates/admin.php:198
+msgid "Privacy &amp; Data Security needs"
+msgstr "Конфіденційність та; Потреби безпеки даних"
+
+#: templates/admin.php:199
+msgid "Gain access to an extensive range of GDPR, PECR, CCPA &amp; ePrivacy compliance tools,"
+msgstr "Отримати доступ до широкого спектру GDPR, PRON, CCPA та; Інструменти дотримання епiвства,"
+
+#: templates/admin.php:200
+msgid "all"
+msgstr "все"
+
+#: templates/admin.php:201
+msgid ""
+"designed to take the hassle out of complying with the new data\n"
+"                                protection regulations."
+msgstr ""
+"призначений для того, щоб вийти з дотримання нових даних\n"
+"                                положення про захист."
+
+#: templates/admin.php:206
+msgid "Policies Pack"
+msgstr "Політика"
+
+#: templates/admin.php:207
+msgid "Templates Pack"
+msgstr "Шаблони упаковки"
+
+#: templates/admin.php:208
+msgid "GDPR Staff eTraining"
+msgstr "Персонал GDPR"
+
+#: templates/admin.php:209
+msgid "Cookie Consent Management"
+msgstr "Управління згоди Cookie"
+
+#: templates/admin.php:212
+msgid "DPIA"
+msgstr "Дріма"
+
+#: templates/admin.php:213
+msgid "GDPR Audit"
+msgstr "Аудит GDPR"
+
+#: templates/admin.php:214
+msgid "Cyber Secure"
+msgstr "Cyber ​​secure"
+
+#: templates/admin.php:215
+msgid "Subject Request Management"
+msgstr "Управління запитом"
+
+#: templates/admin.php:217
+msgid "START FREE"
+msgstr "Почати безкоштовно"
+
+#: templates/admin.php:223
+msgid ""
+"Data Privacy &amp;\n"
+"                                Compliance. Solved"
+msgstr ""
+"Конфіденційність даних та;\n"
+"                                Дотримання. Вирішений"
+
+#: templates/admin.php:225
+msgid ""
+"Trust worlds leading privacy and consent management platform to help companies comply\n"
+"                                with GDPR, PECR, CCPA and ePrivacy"
+msgstr ""
+"Довіряє провідну конфіденційність та платформу управління згоди, щоб допомогти компаніям дотримуватися\n"
+"                                З GDPR, PRON, CCPA та епiвництві"
+
+#: templates/admin.php:227
+msgid "START PREMIUM TODAY"
+msgstr "Початок преміум сьогодні"
+
+#: templates/admin.php:230
+msgid "Seers Premium Plan"
+msgstr "Seers Преміум-план"
+
+#: templates/admin.php:232
+msgid "Branding"
+msgstr "Брендинг"
+
+#: templates/admin.php:233
+msgid "Multi Lingual"
+msgstr "Багатомовний"
+
+#: templates/admin.php:234
+msgid "Consent Log"
+msgstr "Згода журналу"
+
+#: templates/admin.php:235
+msgid "Cookie Policy"
+msgstr "Cookie Політика"
+
+#: templates/admin.php:236
+msgid "Prior Consent"
+msgstr "Попередня згода"
+
+#: templates/admin.php:237
+msgid "6+ Design Layouts"
+msgstr "6+ макети дизайну"
+
+#: templates/admin.php:238
+msgid "Customer Support"
+msgstr "Підтримка клієнтів"
+
+#: templates/admin.php:239
+msgid "Banner Customisation"
+msgstr "Налаштування банера"
+
+#: templates/admin.php:240
+msgid "Cookie Declaration Table"
+msgstr "Таблиця декларації Cookie"
+
+#: templates/admin.php:241
+msgid ""
+"START PREMIUM\n"
+"                                TODAY"
+msgstr ""
+"START PREMIUM\n"
+"                                СЬОГОДНІ"
+
+#: templates/admin.php:255
+msgid "Banner Settings"
+msgstr "Налаштування банера"
+
+#: templates/admin.php:260
+msgid "Banner"
+msgstr "Банер"
+
+#: templates/admin.php:260
+msgid "Enable/disable Cookie banner"
+msgstr "Увімкнути / вимкнути банер cookie"
+
+#: templates/admin.php:279
+msgid "Cookie Expiry"
+msgstr "Термін дії файлів cookie"
+
+#: templates/admin.php:279
+msgid "Set your consent cookie to expire in days."
+msgstr "Встановіть вашу згоду Cookie, щоб закінчитися у днях."
+
+#: templates/admin.php:291
+msgid "Language"
+msgstr "Мову"
+
+#: templates/admin.php:291
+msgid "Choose a language for the banner."
+msgstr "Виберіть мову для банера."
+
+#: templates/admin.php:701
+msgid "Show Badge"
+msgstr "Показати значок"
+
+#: templates/admin.php:701
+msgid "Show a badge to enable the cookie banner to appear post consent."
+msgstr "Показати значок, щоб дозволити банню Cookie з'явитися після згоди."
+
+#: templates/admin.php:724
+msgid "Visual Settings"
+msgstr "Візуальні налаштування"
+
+#: templates/admin.php:729
+msgid "Banner Text"
+msgstr "Банер текст"
+
+#: templates/admin.php:729
+msgid "Text to appear on the banner:"
+msgstr "Текст, щоб з'явитися на банері:"
+
+#: templates/admin.php:732 templates/admin.php:750
+msgid "Colour"
+msgstr "Колір"
+
+#: templates/admin.php:732
+msgid "The text colour to appear on the banner:"
+msgstr "Колір тексту, який з'явиться на банері:"
+
+#: templates/admin.php:747
+msgid "Banner Background"
+msgstr "Банерний фон"
+
+#: templates/admin.php:747
+msgid "You can change the background colour of the banner:"
+msgstr "Ви можете змінити колір фону банера:"
+
+#: templates/admin.php:750
+msgid "The background colour of the banner:"
+msgstr "Фоновий колір банера:"
+
+#: templates/admin.php:764
+msgid "Accept Button"
+msgstr "Прийняти кнопку"
+
+#: templates/admin.php:764
+msgid "You can change text colour, button colour and text of the 'Accept All' button"
+msgstr "Ви можете змінити колір тексту, колір кнопки та текст кнопки 'Прийняти все'"
+
+#: templates/admin.php:767 templates/admin.php:798 templates/admin.php:829
+msgid "Text Colour"
+msgstr "Текстовий колір"
+
+#: templates/admin.php:767
+msgid "The text colour to appear on the 'Accept All' button:"
+msgstr "Колір тексту, який з'явиться на кнопці 'Прийняти все':"
+
+#: templates/admin.php:777 templates/admin.php:808 templates/admin.php:839
+msgid "Button Colour"
+msgstr "Кнопка кольору"
+
+#: templates/admin.php:777
+msgid "The 'Accept All' button colour to appear on the banner:"
+msgstr "Кнопка 'Прийняти все', щоб з'явитися на банері:"
+
+#: templates/admin.php:795
+msgid "Reject Button"
+msgstr "Кнопка відхилення"
+
+#: templates/admin.php:795
+msgid "You can change text colour, button colour and text of the 'Reject All' button"
+msgstr "Ви можете змінити колір тексту, колір кнопки та текст кнопки 'Відхилити все'"
+
+#: templates/admin.php:798
+msgid "The text colour to appear on the 'Reject All' button:"
+msgstr "Колір тексту, який з'явиться на кнопці 'Відхилити все':"
+
+#: templates/admin.php:808
+msgid "The 'Reject All' button colour to appear on the banner:"
+msgstr "Колір кнопки 'Відхилити все', щоб з'явитися на банері:"
+
+#: templates/admin.php:826
+msgid "Setting Button"
+msgstr "Кнопка налаштування"
+
+#: templates/admin.php:826
+msgid "You can change text colour and text of the 'Setting' button"
+msgstr "Ви можете змінити колір тексту та текст кнопки 'Налаштування'"
+
+#: templates/admin.php:829
+msgid "The text colour to appear on the 'Setting' button:"
+msgstr "Колір тексту, який з'явиться на кнопці 'Налаштування':"
+
+#: templates/admin.php:839
+msgid "The 'Setting' button colour to appear on the banner:"
+msgstr "Колір кнопки 'Налаштування', щоб з'явитися на банері:"
+
+#: templates/admin.php:850
+msgid "Setting"
+msgstr "Установка"
+
+#: templates/admin.php:858
+msgid "Fonts"
+msgstr "Шрифти"
+
+#: templates/admin.php:858
+msgid "You can select a font for the text of the banner:"
+msgstr "Ви можете вибрати шрифт для тексту банера:"
+
+#: templates/admin.php:910
+msgid "Select Button"
+msgstr "Виберіть кнопку"
+
+#: templates/admin.php:910
+msgid "You can select the shape of the buttons that appear on the banner."
+msgstr "Ви можете вибрати форму кнопок, які з'являються на банері."
+
+#: templates/admin.php:914
+msgid "Default"
+msgstr "За замовчуванням"
+
+#: templates/admin.php:918 templates/admin.php:928
+msgid "Flat"
+msgstr "Плоский"
+
+#: templates/admin.php:921 templates/admin.php:931
+msgid "Rounded"
+msgstr "Закруглений"
+
+#: templates/admin.php:924 templates/admin.php:934
+msgid "Stroke"
+msgstr "Stroke"
+
+#: templates/admin.php:952
+msgid "PREVIEW"
+msgstr "Попередній перегляд"
+
+#: templates/admin.php:953
+msgid "SAVE"
+msgstr "Урятувати"
+
+#: templates/admin.php:972
+msgid "Please create cookies policy page and enter URL below."
+msgstr "Будь ласка, створіть сторінку політики файлів cookie та введіть URL нижче."
+
+#: templates/admin.php:976
+msgid "Enable Policy:"
+msgstr "Увімкнути політику:"
+
+#: templates/admin.php:993
+msgid "Cookie Policy and declaration URL:"
+msgstr "Політика та декларація Cookie:"
+
+#: templates/admin.php:996
+msgid "Policy URL"
+msgstr "Політика URL"
+
+#: templates/admin.php:1003
+msgid "Save"
+msgstr "Урятувати"
+
+#: templates/admin.php:1057
+msgid "Premium Plan"
+msgstr "Плану преміум-класу"
+
+#: templates/admin.php:1060 templates/admin.php:1249 templates/admin.php:1258
+#: templates/admin.php:1266
+msgid "Only the users with a paid account can avail this feature."
+msgstr "Тільки користувачі з платного рахунку можуть скористатися цією функцією."
+
+#: templates/admin.php:1065
+msgid "Ok"
+msgstr "Гаразд"
+
+#: templates/frontend-popup.php:1751
+msgid "seers logo"
+msgstr "logo SEERS"
+
+#: templates/frontend-popup.php:1756
+msgid "About Cookies"
+msgstr "Про файли cookie"
+
+#: templates/frontend-popup.php:1760
+msgid "Read Cookie Policy"
+msgstr "Прочитайте політику cookie"
+
+#: templates/frontend-popup.php:1772
+msgid "Necessary"
+msgstr "Необхідний"
+
+#: templates/frontend-popup.php:1772
+msgid "Always Active"
+msgstr "Завжди активний"
+
+#: templates/frontend-popup.php:1774
+msgid "Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies."
+msgstr "Необхідні файли cookie допомагають зробити веб-сайт, який можна використовувати, увімкнувши основні функції, як навігація сторінка та доступ до безпечних областей веб-сайту. Веб-сайт не може працювати належним чином без цих файлів cookie."
+
+#: templates/frontend-popup.php:1774 templates/frontend-popup.php:1784
+#: templates/frontend-popup.php:1794 templates/frontend-popup.php:1804
+#: templates/frontend-popup.php:1812
+msgid "Cookies Detail"
+msgstr "Відомості про файли cookie"
+
+#: templates/frontend-popup.php:1778
+msgid "Preferences"
+msgstr "Уподобання"
+
+#: templates/frontend-popup.php:1784
+msgid "Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in."
+msgstr "Відповніть файли cookie дозволяють веб-сайт пам'ятати інформацію, яка змінює спосіб ведення веб-сайту або виглядає, як і ваша бажана мова або регіон, в якому ви перебуваєте."
+
+#: templates/frontend-popup.php:1788
+msgid "Statistics"
+msgstr "Статистика"
+
+#: templates/frontend-popup.php:1794
+msgid "Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously."
+msgstr "Статистичні файли cookie допомагають власникам веб-сайтів зрозуміти, як відвідувачі взаємодіють з веб-сайтами, збираючи та повідомляють про інформацію анонімно."
+
+#: templates/frontend-popup.php:1798
+msgid "Marketing"
+msgstr "Маркетинг"
+
+#: templates/frontend-popup.php:1804
+msgid "Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third-party advertisers."
+msgstr "Маркетингові файли cookie використовуються для відстеження відвідувачів у веб-сайтах. Намір полягає в тому, щоб відображати оголошення, які є актуальними та залучаються для окремих користувачів і тим самим більш цінним для видавців та сторонніх рекламодавців."
+
+#: templates/frontend-popup.php:1808
+msgid "Unclassified"
+msgstr "Некласний"
+
+#: templates/frontend-popup.php:1812
+msgid "Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies."
+msgstr "Некласифіковані файли cookie - це файли cookie, які ми знаходимо в процесі класифікації, разом з постачальниками окремих файлів cookie."
+
+#: templates/frontend-popup.php:1819
+msgid "Save my choices"
+msgstr "Зберегти мій вибір"
+
+#: templates/frontend-popup.php:1825
+msgid "powered by"
+msgstr "живлення"
+
+#~ msgid "To get your Cookie ID click on Activate"
+#~ msgstr "To get your Cookie ID click on Activate"
+
+#~ msgid "Activate"
+#~ msgstr "Activate"

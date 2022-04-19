@@ -1,0 +1,639 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: seers-cookie-consent-banner-privacy-policy\n"
+"POT-Creation-Date: 2022-03-25 17:21+0500\n"
+"PO-Revision-Date: 2022-04-03 22:07-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n>=3 && n<=6 ? 2 : n>=7 && n<=10 ? 3 : 4);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: inc\n"
+"X-Poedit-SearchPath-2: templates\n"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:382
+msgid "Quick Feedback"
+msgstr "Feedback malajr"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:383
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Jekk għandek mument, jekk jogħġbok għarrafna għaliex qed tiddiżattiva:"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:386
+#: inc/seers-cookie-consent-plugin-deactivate.php:387
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:154
+msgid "The banner is not in the required language"
+msgstr "Il-banner mhux fil-lingwa meħtieġa"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:391
+msgid "The banner picks up your website language automatically. You can always sign-in on your Seers account"
+msgstr "Il-banner jiġbor il-lingwa tal-websajt tiegħek awtomatikament. Inti tista 'dejjem tiffirma fuq il-kont tas-SEERS tiegħek"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:391
+msgid "and choose the language you like. See the video"
+msgstr "u agħżel il-lingwa li tixtieq. Ara l-video"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:391
+#: inc/seers-cookie-consent-plugin-deactivate.php:413
+msgid "here"
+msgstr "hawnhekk"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:395
+#: inc/seers-cookie-consent-plugin-deactivate.php:396
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:163
+msgid "Banner did not appear"
+msgstr "Banner ma deherx"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:399
+#: inc/seers-cookie-consent-plugin-deactivate.php:420
+msgid "Most of the times the compatibility issue can be fixed very quickly. Please contact"
+msgstr "Ħafna mill-ħinijiet il-kwistjoni tal-kompatibilità tista 'tiġi ffissata malajr ħafna. Jekk jogħġbok ikkuntattja"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:403
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:170
+msgid "Cookies are not showing in settings"
+msgstr "Cookies mhumiex juru fis-settings"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:406
+msgid "We are scanning your website and it can take up to 12 hours for Cookies to appear. In a very few cases scanner miss a cookie. This"
+msgstr "Qed niskannjaw il-websajt tiegħek u tista 'tieħu sa 12-il siegħa għall-cookies jidhru. Fi ftit każijiet skaner taqbeż cookie. Dan"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:406
+msgid "video"
+msgstr "video"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:406
+msgid "explains how to add cookies manually."
+msgstr "jispjega kif iżżid il-cookies manwalment."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:410
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:177
+msgid "The banner did not match website theme"
+msgstr "Il-banner ma jaqbilx mat-tema tal-websajt"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:413
+msgid "You can fully customize the banner. Please see the video"
+msgstr "Tista 'tibdel bis-sħiħ il-bandiera. Jekk jogħġbok ara l-video"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:416
+#: inc/seers-cookie-consent-plugin-deactivate.php:417
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:184
+msgid "The plugin broke my site"
+msgstr "Il-plugin kissru s-sit tiegħi"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:424
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:191
+msgid "I have found a better plugin"
+msgstr "Sibt plugin aħjar"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:427
+msgid "Plugin name"
+msgstr "Isem tal-Plugin"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:430
+msgid "The plugin is great, but i need specific feature that you do not support."
+msgstr "Il-plugin huwa kbir, imma għandi bżonn karatteristika speċifika li ma tappoġġjax."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:431
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:198
+msgid "The plugin is great, but i need specific feature that you don't support."
+msgstr "Il-plugin huwa kbir, imma għandi bżonn karatteristika speċifika li ma tappoġġjax."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:434
+msgid "Banner customisation."
+msgstr "Customisation banner."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:438
+#: inc/seers-cookie-consent-plugin-deactivate.php:439
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:206
+msgid "Other"
+msgstr "Oħrajn"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:442
+msgid "Kindly tell us the reason so we can improve."
+msgstr "Ġentilment tgħidilna r-raġuni sabiex inkunu nistgħu ntejbu."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:445
+msgid "Submit & Deactivate"
+msgstr "Issottometti & deattivat"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:446
+msgid "Cancel"
+msgstr "Ikkanċella"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:451
+msgid "Skip & Deactivate"
+msgstr "Skip & deattivat"
+
+#: js/admin.js:15
+msgid "Dismiss this notice."
+msgstr "Tiċħad dan l-avviż."
+
+#: seers-cookie-consent-banner-privacy-policy.php:135 templates/admin.php:97
+msgid "Settings"
+msgstr "Settings"
+
+#: seers-cookie-consent-banner-privacy-policy.php:141
+msgid "Upgrade Premium"
+msgstr "Upgrade Premium"
+
+#: seers-cookie-consent-banner-privacy-policy.php:292 templates/admin.php:514
+#: templates/frontend-popup.php:1738 templates/frontend-popup.php:1759
+msgid "We use cookies to ensure you get the best experience"
+msgstr "Aħna nużaw cookies biex niżguraw li jkollok l-aħjar esperjenza"
+
+#: seers-cookie-consent-banner-privacy-policy.php:293 templates/admin.php:558
+#: templates/admin.php:559 templates/admin.php:561
+#: templates/frontend-popup.php:1740 templates/frontend-popup.php:1765
+msgid "Allow All"
+msgstr "Ħalli Kollha"
+
+#: seers-cookie-consent-banner-privacy-policy.php:294 templates/admin.php:589
+#: templates/admin.php:590 templates/admin.php:592
+#: templates/frontend-popup.php:1740 templates/frontend-popup.php:1766
+msgid "Disable All"
+msgstr "Itfi Kollha"
+
+#: seers-cookie-consent-banner-privacy-policy.php:295 templates/admin.php:621
+#: templates/frontend-popup.php:1740
+msgid "Preference"
+msgstr "Preferenza"
+
+#: seers-cookie-consent-banner-privacy-policy.php:418
+#: seers-cookie-consent-banner-privacy-policy.php:446
+#: seers-cookie-consent-banner-privacy-policy.php:452
+msgid "Cookies policy added successfully."
+msgstr "Il-politika tal-cookies miżjuda b'suċċess."
+
+#: seers-cookie-consent-banner-privacy-policy.php:421
+msgid "Some thing went wrong. Please check url and try again"
+msgstr "Xi ħaġa marret ħażin. Jekk jogħġbok iċċekkja l-URL u erġa 'pprova"
+
+#: seers-cookie-consent-banner-privacy-policy.php:675
+msgid "Some thing went wrong."
+msgstr "Xi ħaġa marret ħażin."
+
+#: seers-cookie-consent-banner-privacy-policy.php:819
+msgid "Settings has been updated successfully"
+msgstr "Settings ġiet aġġornata b'suċċess"
+
+#: templates/admin.php:92 templates/admin.php:841
+msgid "Account Setup"
+msgstr "Setup tal-Kont"
+
+#: templates/admin.php:100
+msgid "Policy"
+msgstr "Politika"
+
+#: templates/admin.php:104
+msgid "User Guide"
+msgstr "Utent Gwida"
+
+#: templates/admin.php:119
+msgid "Your Seers Cookie Consent banner is activated."
+msgstr "Tha a’ bhratach cead “Seers Cookie” agad air a cur an gnìomh."
+
+#: templates/admin.php:123
+msgid "Your Seers Cookie Consent Banner is NOT activated because"
+msgstr "Il-banner tal-kunsens tal-cookie tas-seers tiegħek mhux attivat għax"
+
+#: templates/admin.php:134
+msgid "Email"
+msgstr "Email"
+
+#: templates/admin.php:145 templates/admin.php:162
+msgid "I agree Seers"
+msgstr "Tha mi ag aontachadh SEERS"
+
+#: templates/admin.php:146 templates/admin.php:163
+msgid "Terms & Condition"
+msgstr "Termini & Kundizzjoni"
+
+#: templates/admin.php:148 templates/admin.php:165
+msgid "and"
+msgstr "u"
+
+#: templates/admin.php:149 templates/admin.php:167
+msgid "Privacy Policy"
+msgstr "Regoli tal-privatezza"
+
+#: templates/admin.php:154 templates/admin.php:172
+msgid "I agree Seers to use my email and url to create an account and power the cookie banner."
+msgstr "Jiena naqbel li seers biex nużaw l-email u l-URL tiegħi biex noħloq kont u nqajjem il-banner tal-cookie."
+
+#: templates/admin.php:178
+msgid "Create Account"
+msgstr "Oħloq Kont"
+
+#: templates/admin.php:181
+msgid "Cookie ID"
+msgstr "Cookie Id"
+
+#: templates/admin.php:182
+msgid "Seers Cookie ID will be received automatically after account creation"
+msgstr "Seers Cookie ID se jkun riċevut awtomatikament wara l-ħolqien tal-kont"
+
+#: templates/admin.php:197
+msgid "Powering all your"
+msgstr "Qawwa kollha tiegħek"
+
+#: templates/admin.php:198
+msgid "Privacy &amp; Data Security needs"
+msgstr "Prìobhaideachd agus; Feumalachdan tèarainteachd dàta"
+
+#: templates/admin.php:199
+msgid "Gain access to an extensive range of GDPR, PECR, CCPA &amp; ePrivacy compliance tools,"
+msgstr "Faighinn a-mach gu raon farsaing de GDPP, PECR, CCPA agus; Innealan Giùlainidheach bìodachd,"
+
+#: templates/admin.php:200
+msgid "all"
+msgstr "kollha"
+
+#: templates/admin.php:201
+msgid ""
+"designed to take the hassle out of complying with the new data\n"
+"                                protection regulations."
+msgstr ""
+"deartha chun an hassle a thógáil as na sonraí nua a chomhlíonadh\n"
+"                                Rialacháin um Chosaint."
+
+#: templates/admin.php:206
+msgid "Policies Pack"
+msgstr "Politiki Pack"
+
+#: templates/admin.php:207
+msgid "Templates Pack"
+msgstr "Templates Pack"
+
+#: templates/admin.php:208
+msgid "GDPR Staff eTraining"
+msgstr "Persunal tal-GDPR etraining"
+
+#: templates/admin.php:209
+msgid "Cookie Consent Management"
+msgstr "Ġestjoni tal-kunsens tal-cookie"
+
+#: templates/admin.php:212
+msgid "DPIA"
+msgstr "Dpia"
+
+#: templates/admin.php:213
+msgid "GDPR Audit"
+msgstr "Verifika tal-GDPR"
+
+#: templates/admin.php:214
+msgid "Cyber Secure"
+msgstr "Cyber ​​Secure"
+
+#: templates/admin.php:215
+msgid "Subject Request Management"
+msgstr "Ġestjoni tat-Talba tas-Suġġett"
+
+#: templates/admin.php:217
+msgid "START FREE"
+msgstr "Ibda Free"
+
+#: templates/admin.php:223
+msgid ""
+"Data Privacy &amp;\n"
+"                                Compliance. Solved"
+msgstr ""
+"Príobháideacht sonraí agus;\n"
+"                                Comhlíonadh. Réitithe"
+
+#: templates/admin.php:225
+msgid ""
+"Trust worlds leading privacy and consent management platform to help companies comply\n"
+"                                with GDPR, PECR, CCPA and ePrivacy"
+msgstr ""
+"Iontaobhas Worlds Príobháideacht agus Toiliú Toilithe Ardán chun cabhrú le cuideachtaí\n"
+"                                le GDPR, PeCR, CCPA agus EPrivacy"
+
+#: templates/admin.php:227
+msgid "START PREMIUM TODAY"
+msgstr "Bidu Premium illum"
+
+#: templates/admin.php:230
+msgid "Seers Premium Plan"
+msgstr "Seers Pjan Premium"
+
+#: templates/admin.php:232
+msgid "Branding"
+msgstr "Branding"
+
+#: templates/admin.php:233
+msgid "Multi Lingual"
+msgstr "Multi Lingwa"
+
+#: templates/admin.php:234
+msgid "Consent Log"
+msgstr "Log Log"
+
+#: templates/admin.php:235
+msgid "Cookie Policy"
+msgstr "Politika tal-Cookie"
+
+#: templates/admin.php:236
+msgid "Prior Consent"
+msgstr "Kunsens minn qabel"
+
+#: templates/admin.php:237
+msgid "6+ Design Layouts"
+msgstr "6+ Layouts tad-Disinn"
+
+#: templates/admin.php:238
+msgid "Customer Support"
+msgstr "Appoġġ lill-Klijent"
+
+#: templates/admin.php:239
+msgid "Banner Customisation"
+msgstr "Gnàthachadh bratach"
+
+#: templates/admin.php:240
+msgid "Cookie Declaration Table"
+msgstr "Tabella tad-Dikjarazzjoni tal-Cookie"
+
+#: templates/admin.php:241
+msgid ""
+"START PREMIUM\n"
+"                                TODAY"
+msgstr ""
+"TÚS PREMIUM\n"
+"                                INNIU"
+
+#: templates/admin.php:255
+msgid "Banner Settings"
+msgstr "Settings tal-Banner"
+
+#: templates/admin.php:260
+msgid "Banner"
+msgstr "Banner"
+
+#: templates/admin.php:260
+msgid "Enable/disable Cookie banner"
+msgstr "Enable / Itfi banner tal-cookie"
+
+#: templates/admin.php:279
+msgid "Cookie Expiry"
+msgstr "Crìochnachadh cookie"
+
+#: templates/admin.php:279
+msgid "Set your consent cookie to expire in days."
+msgstr "Issettja l-cookie tal-kunsens tiegħek biex tiskadi fi ġranet."
+
+#: templates/admin.php:291
+msgid "Language"
+msgstr "Lingwa"
+
+#: templates/admin.php:291
+msgid "Choose a language for the banner Settings > General."
+msgstr "Agħżel lingwa għas-Settings tal-Banner> Ġenerali."
+
+#: templates/admin.php:475
+msgid "Show Badge"
+msgstr "Uri Badge"
+
+#: templates/admin.php:475
+msgid "Show a badge to enable the cookie banner to appear post consent."
+msgstr "Uri badge biex tippermetti lill-banner tal-cookie jidher il-kunsens wara."
+
+#: templates/admin.php:498
+msgid "Visual Settings"
+msgstr "Settings Viżwali"
+
+#: templates/admin.php:503
+msgid "Banner Text"
+msgstr "Banner Test"
+
+#: templates/admin.php:503
+msgid "Text to appear on the banner:"
+msgstr "Test li jidher fuq il-bandiera:"
+
+#: templates/admin.php:506 templates/admin.php:524
+msgid "Colour"
+msgstr "Kulur"
+
+#: templates/admin.php:506
+msgid "The text colour to appear on the banner:"
+msgstr "Il-kulur tat-test li jidher fuq il-bandiera:"
+
+#: templates/admin.php:521
+msgid "Banner Background"
+msgstr "Banner Sfond"
+
+#: templates/admin.php:521
+msgid "You can change the background colour of the banner:"
+msgstr "Tista 'tbiddel il-kulur ta' l-isfond tal-bandiera:"
+
+#: templates/admin.php:524
+msgid "The background colour of the banner:"
+msgstr "Dath cùl a 'bhratach:"
+
+#: templates/admin.php:538
+msgid "Accept Button"
+msgstr "Aċċetta l-buttuna"
+
+#: templates/admin.php:538
+msgid "You can change text colour, button colour and text of the 'Accept All' button"
+msgstr "Tista 'tbiddel il-kulur tat-test, il-kulur tal-buttuna u t-test tal-buttuna' Aċċetta Kollha '"
+
+#: templates/admin.php:541 templates/admin.php:572 templates/admin.php:603
+msgid "Text Colour"
+msgstr "Test Kulur"
+
+#: templates/admin.php:541
+msgid "The text colour to appear on the 'Accept All' button:"
+msgstr "Il-kulur tat-test li jidher fuq il-buttuna 'Aċċetta Kollha':"
+
+#: templates/admin.php:551 templates/admin.php:582 templates/admin.php:613
+msgid "Button Colour"
+msgstr "Buttuna Kulur"
+
+#: templates/admin.php:551
+msgid "The 'Accept All' button colour to appear on the banner:"
+msgstr "Il-kulur tal-buttuna 'Aċċetta kollox' biex jidher fuq il-bandiera:"
+
+#: templates/admin.php:569
+msgid "Reject Button"
+msgstr "Putan a dhiùltadh"
+
+#: templates/admin.php:569
+msgid "You can change text colour, button colour and text of the 'Reject All' button"
+msgstr "Tista 'tbiddel il-kulur tat-test, il-kulur tal-buttuna u t-test tal-buttuna' tirrifjuta Kollha '"
+
+#: templates/admin.php:572
+msgid "The text colour to appear on the 'Reject All' button:"
+msgstr "Il-kulur tat-test li jidher fuq il-buttuna 'tirrifjuta kollha':"
+
+#: templates/admin.php:582
+msgid "The 'Reject All' button colour to appear on the banner:"
+msgstr "Bidh dath a’ phutain ‘Diùlt na h-Uile’ a’ nochdadh air a’ bhratach:"
+
+#: templates/admin.php:600
+msgid "Setting Button"
+msgstr "Issettja l-buttuna"
+
+#: templates/admin.php:600
+msgid "You can change text colour and text of the 'Setting' button"
+msgstr "Tista 'tbiddel il-kulur tat-test u t-test tal-buttuna' issettjar '"
+
+#: templates/admin.php:603
+msgid "The text colour to appear on the 'Setting' button:"
+msgstr "Il-kulur tat-test li jidher fuq il-buttuna 'issettjar':"
+
+#: templates/admin.php:613
+msgid "The 'Setting' button colour to appear on the banner:"
+msgstr "Il- 'issettjar' buttuna buttuna li jidhru fuq il-bandiera:"
+
+#: templates/admin.php:624
+msgid "Setting"
+msgstr "Twaqqif"
+
+#: templates/admin.php:632
+msgid "Fonts"
+msgstr "Fonts"
+
+#: templates/admin.php:632
+msgid "You can select a font for the text of the banner:"
+msgstr "Tista 'tagħżel font għat-test tal-bandiera:"
+
+#: templates/admin.php:684
+msgid "Select Button"
+msgstr "Agħżel Button"
+
+#: templates/admin.php:684
+msgid "You can select the shape of the buttons that appear on the banner."
+msgstr "Faodaidh tu cumadh nan putanan a tha a 'nochdadh air a' bhratach a thaghadh."
+
+#: templates/admin.php:688
+msgid "Default"
+msgstr "Default"
+
+#: templates/admin.php:692 templates/admin.php:702
+msgid "Flat"
+msgstr "Ċatt"
+
+#: templates/admin.php:695 templates/admin.php:705
+msgid "Rounded"
+msgstr "Aġġustat"
+
+#: templates/admin.php:698 templates/admin.php:708
+msgid "Stroke"
+msgstr "Stroke"
+
+#: templates/admin.php:726
+msgid "PREVIEW"
+msgstr "Ro-shealladh"
+
+#: templates/admin.php:727
+msgid "SAVE"
+msgstr "Save"
+
+#: templates/admin.php:746
+msgid "Please create cookies policy page and enter URL below."
+msgstr "Jekk jogħġbok ħu l-paġna tal-politika tal-cookies u daħħal il-URL hawn taħt."
+
+#: templates/admin.php:750
+msgid "Enable Policy:"
+msgstr "Jippermettu l-politika:"
+
+#: templates/admin.php:767
+msgid "Cookie Policy and declaration URL:"
+msgstr "Politika tal-Cookie U URL Dikjarazzjoni:"
+
+#: templates/admin.php:770
+msgid "Policy URL"
+msgstr "URL POLITIKA"
+
+#: templates/admin.php:777
+msgid "Save"
+msgstr "Sàbhail"
+
+#: templates/admin.php:831
+msgid "Premium Plan"
+msgstr "Pjan Premium"
+
+#: templates/admin.php:834 templates/admin.php:1023 templates/admin.php:1032
+#: templates/admin.php:1040
+msgid "Only the users with a paid account can avail this feature."
+msgstr "L-utenti biss b'kont imħallas jistgħu jużaw din il-karatteristika."
+
+#: templates/admin.php:839
+msgid "Ok"
+msgstr "Kollox sew"
+
+#: templates/frontend-popup.php:1751
+msgid "seers logo"
+msgstr "seers loto"
+
+#: templates/frontend-popup.php:1756
+msgid "About Cookies"
+msgstr "Dwar Cookies"
+
+#: templates/frontend-popup.php:1760
+msgid "Read Cookie Policy"
+msgstr "Aqra l-Politika tal-Cookie"
+
+#: templates/frontend-popup.php:1772
+msgid "Necessary"
+msgstr "Meħtieġa"
+
+#: templates/frontend-popup.php:1772
+msgid "Always Active"
+msgstr "Dejjem Attiv"
+
+#: templates/frontend-popup.php:1774
+msgid "Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies."
+msgstr "Cookies meħtieġa jgħinu biex websajt tintuża billi tippermetti funzjonijiet bażiċi bħan-navigazzjoni tal-paġna u aċċess għal żoni siguri tal-websajt. Il-websajt ma tistax tiffunzjona sewwa mingħajr dawn il cookies."
+
+#: templates/frontend-popup.php:1774 templates/frontend-popup.php:1784
+#: templates/frontend-popup.php:1794 templates/frontend-popup.php:1804
+#: templates/frontend-popup.php:1812
+msgid "Cookies Detail"
+msgstr "Dettall tal-cookies"
+
+#: templates/frontend-popup.php:1778
+msgid "Preferences"
+msgstr "Preferenzi"
+
+#: templates/frontend-popup.php:1784
+msgid "Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in."
+msgstr "Cookies preferenza jippermettu websajt biex tiftakar informazzjoni li tbiddel il-mod kif jaġixxi jew jistenna, bħall-lingwa preferuta tiegħek jew ir-reġjun li inti fil."
+
+#: templates/frontend-popup.php:1788
+msgid "Statistics"
+msgstr "Statistika"
+
+#: templates/frontend-popup.php:1794
+msgid "Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously."
+msgstr "Cookies statistiċi jgħinu lis-sidien ta 'websajts jifhmu kif il-viżitaturi jinteraġixxu ma' websajts billi jiġbru u jirrappurtaw informazzjoni b'mod anonimu."
+
+#: templates/frontend-popup.php:1798
+msgid "Marketing"
+msgstr "Kummerċjalizzazzjoni"
+
+#: templates/frontend-popup.php:1804
+msgid "Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third-party advertisers."
+msgstr "Il- cookies tal-kummerċ huma użati biex isegwu l-viżitaturi minn websajts oħra. L-intenzjoni hija li jintwerew reklami li huma rilevanti u attraenti għall-utent individwali u b'hekk aktar siewja għall-pubblikaturi u għal dawk li jirreklamaw partijiet terzi."
+
+#: templates/frontend-popup.php:1808
+msgid "Unclassified"
+msgstr "Mhux ikklassifikat"
+
+#: templates/frontend-popup.php:1812
+msgid "Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies."
+msgstr "Cookies mhux ikklassifikati huma cookies li qegħdin fil-proċess li nikklassifikaw, flimkien mal-fornituri ta cookies individwali."
+
+#: templates/frontend-popup.php:1819
+msgid "Save my choices"
+msgstr "Salv l-għażliet tiegħi"
+
+#: templates/frontend-popup.php:1825
+msgid "powered by"
+msgstr "lmħaddem minn"

@@ -1,0 +1,683 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: seers-cookie-consent-banner-privacy-policy\n"
+"POT-Creation-Date: 2022-03-16 17:05+0500\n"
+"PO-Revision-Date: 2022-03-30 05:01-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: seers-cookie-consent-banner-privacy-policy.pot\n"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:350
+msgid "Quick Feedback"
+msgstr "快速反馈"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:351
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "如果你有一点时间，请告诉我们为什么要取消激活："
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:354
+#: inc/seers-cookie-consent-plugin-deactivate.php:355
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:154
+msgid "The banner is not in the required language"
+msgstr "横幅不是必需的语言"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:359
+msgid ""
+"The banner picks up your website language automatically. You can always sign-"
+"in on your Seers account"
+msgstr "横幅自动挑选您的网站语言。您可以随时登录您的Seers帐户"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:359
+msgid "and choose the language you like. See the video"
+msgstr "并选择你喜欢的语言。看视频"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:359
+#: inc/seers-cookie-consent-plugin-deactivate.php:381
+msgid "here"
+msgstr "这里"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:363
+#: inc/seers-cookie-consent-plugin-deactivate.php:364
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:163
+msgid "Banner did not appear"
+msgstr "横幅没有出现"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:367
+#: inc/seers-cookie-consent-plugin-deactivate.php:388
+msgid ""
+"Most of the times the compatibility issue can be fixed very quickly. Please "
+"contact"
+msgstr "大多数次数问题可以很快固定。请联系"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:371
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:170
+msgid "Cookies are not showing in settings"
+msgstr "Cookie在设置中没有显示"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:374
+msgid ""
+"We are scanning your website and it can take up to 12 hours for Cookies to "
+"appear. In a very few cases scanner miss a cookie. This"
+msgstr ""
+"我们正在扫描您的网站，Cookie 最多可能需要 12 小时才会出现。在极少数情况下，扫"
+"描仪会丢失 cookie。这"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:374
+msgid "video"
+msgstr "视频"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:374
+msgid "explains how to add cookies manually."
+msgstr "介绍如何手动添加cookie。"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:378
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:177
+msgid "The banner did not match website theme"
+msgstr "横幅与网站主题不匹配"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:381
+msgid "You can fully customize the banner. Please see the video"
+msgstr "您可以完全自定义横幅。请看视频"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:384
+#: inc/seers-cookie-consent-plugin-deactivate.php:385
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:184
+msgid "The plugin broke my site"
+msgstr "插件打破了我的网站"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:392
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:191
+msgid "I have found a better plugin"
+msgstr "我找到了一个更好的插件"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:395
+msgid "Plugin name"
+msgstr "插件名称"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:398
+msgid ""
+"The plugin is great, but i need specific feature that you do not support."
+msgstr "插件很棒，但我需要您不支持的特定功能。"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:399
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:198
+msgid ""
+"The plugin is great, but i need specific feature that you don't support."
+msgstr "插件很棒，但我需要您不支持的特定功能。"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:402
+msgid "Banner customisation."
+msgstr "横幅定制。"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:406
+#: inc/seers-cookie-consent-plugin-deactivate.php:407
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:206
+msgid "Other"
+msgstr "其他"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:410
+msgid "Kindly tell us the reason so we can improve."
+msgstr "请告诉我们原因，所以我们可以改进。"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:413
+msgid "Submit & Deactivate"
+msgstr "提交和停用"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:414
+msgid "Cancel"
+msgstr "取消"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:419
+msgid "Skip & Deactivate"
+msgstr "跳过和停用"
+
+#: js/admin.js:15
+msgid "Dismiss this notice."
+msgstr "驳回此通知。"
+
+#: seers-cookie-consent-banner-privacy-policy.php:133 templates/admin.php:97
+msgid "Settings"
+msgstr "设置"
+
+#: seers-cookie-consent-banner-privacy-policy.php:139
+msgid "Upgrade Premium"
+msgstr "升级溢价"
+
+#: seers-cookie-consent-banner-privacy-policy.php:290 templates/admin.php:740
+#: templates/frontend-popup.php:1738 templates/frontend-popup.php:1759
+msgid "We use cookies to ensure you get the best experience"
+msgstr "我们使用 cookie 来确保您获得最佳体验"
+
+#: seers-cookie-consent-banner-privacy-policy.php:291 templates/admin.php:784
+#: templates/admin.php:785 templates/admin.php:787
+#: templates/frontend-popup.php:1740 templates/frontend-popup.php:1765
+msgid "Allow All"
+msgstr "我同意"
+
+#: seers-cookie-consent-banner-privacy-policy.php:292 templates/admin.php:815
+#: templates/admin.php:816 templates/admin.php:818
+#: templates/frontend-popup.php:1740 templates/frontend-popup.php:1766
+msgid "Disable All"
+msgstr "我不同意"
+
+#: seers-cookie-consent-banner-privacy-policy.php:293 templates/admin.php:847
+#: templates/frontend-popup.php:1740
+msgid "Preference"
+msgstr "偏好设置"
+
+#: seers-cookie-consent-banner-privacy-policy.php:416
+#: seers-cookie-consent-banner-privacy-policy.php:444
+#: seers-cookie-consent-banner-privacy-policy.php:450
+msgid "Cookies policy added successfully."
+msgstr "Cookie策略已成功添加。"
+
+#: seers-cookie-consent-banner-privacy-policy.php:419
+msgid "Some thing went wrong. Please check url and try again"
+msgstr "有些不对劲。请检查网址并再试一次"
+
+#: seers-cookie-consent-banner-privacy-policy.php:670
+msgid "Some thing went wrong."
+msgstr "有些不对劲。"
+
+#: seers-cookie-consent-banner-privacy-policy.php:806
+msgid "Settings has been updated successfully"
+msgstr "设置已成功更新"
+
+#: templates/admin.php:92 templates/admin.php:1067
+msgid "Account Setup"
+msgstr "帐户设置"
+
+#: templates/admin.php:100
+msgid "Policy"
+msgstr "政策"
+
+#: templates/admin.php:104
+msgid "User Guide"
+msgstr "用户指南"
+
+#: templates/admin.php:119
+msgid "Your Seers Cookie Consent banner is activated."
+msgstr "您的Seers Cookie同意横幅被激活。"
+
+#: templates/admin.php:123
+msgid "Your Seers Cookie Consent Banner is NOT activated because"
+msgstr "您的Seers Cookie同意横幅未激活，因为"
+
+#: templates/admin.php:134
+msgid "Email"
+msgstr "电子邮件"
+
+#: templates/admin.php:145 templates/admin.php:162
+msgid "I agree Seers"
+msgstr "我同意 Seers"
+
+#: templates/admin.php:146 templates/admin.php:163
+msgid "Terms & Condition"
+msgstr "条款与协议"
+
+#: templates/admin.php:148 templates/admin.php:165
+msgid "and"
+msgstr "和"
+
+#: templates/admin.php:149 templates/admin.php:167
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+#: templates/admin.php:154 templates/admin.php:172
+msgid ""
+"I agree Seers to use my email and url to create an account and power the "
+"cookie banner."
+msgstr ""
+"我同意可以使用我的电子邮件和URL来创建一个帐户并为cookie横幅供电。I agree "
+"Seers to use my email and url to create an account and power the cookie "
+"banner."
+
+#: templates/admin.php:178
+msgid "Create Account"
+msgstr "创建帐号"
+
+#: templates/admin.php:181
+msgid "Cookie ID"
+msgstr "Cookie Id"
+
+#: templates/admin.php:182
+msgid "Seers Cookie ID will be received automatically after account creation"
+msgstr "在创建帐户后将自动收到Seers Cookie ID"
+
+#: templates/admin.php:197
+msgid "Powering all your"
+msgstr "推动你所有的"
+
+#: templates/admin.php:198
+msgid "Privacy &amp; Data Security needs"
+msgstr "隐私和;数据安全需求"
+
+#: templates/admin.php:199
+msgid ""
+"Gain access to an extensive range of GDPR, PECR, CCPA &amp; ePrivacy "
+"compliance tools,"
+msgstr "获得广泛的GDPR，PECR，CCPA和; eprivacy合规工具,"
+
+#: templates/admin.php:200
+msgid "all"
+msgstr "全部"
+
+#: templates/admin.php:201
+msgid ""
+"designed to take the hassle out of complying with the new data\n"
+"                                protection regulations."
+msgstr ""
+"旨在将麻烦遵守新数据\n"
+"                                保护法规。"
+
+#: templates/admin.php:206
+msgid "Policies Pack"
+msgstr "政策包"
+
+#: templates/admin.php:207
+msgid "Templates Pack"
+msgstr "模板包"
+
+#: templates/admin.php:208
+msgid "GDPR Staff eTraining"
+msgstr "GDPR员工etraing"
+
+#: templates/admin.php:209
+msgid "Cookie Consent Management"
+msgstr "Cookie同意管理"
+
+#: templates/admin.php:212
+msgid "DPIA"
+msgstr "DPIA"
+
+#: templates/admin.php:213
+msgid "GDPR Audit"
+msgstr "GDPR审计"
+
+#: templates/admin.php:214
+msgid "Cyber Secure"
+msgstr "网络安全"
+
+#: templates/admin.php:215
+msgid "Subject Request Management"
+msgstr "主题请求管理"
+
+#: templates/admin.php:217
+msgid "START FREE"
+msgstr "自由"
+
+#: templates/admin.php:223
+msgid ""
+"Data Privacy &amp;\n"
+"                                Compliance. Solved"
+msgstr ""
+"数据隐私和;\n"
+"                                遵守。解决了"
+
+#: templates/admin.php:225
+msgid ""
+"Trust worlds leading privacy and consent management platform to help "
+"companies comply\n"
+"                                with GDPR, PECR, CCPA and ePrivacy"
+msgstr ""
+"信任世界领先的隐私和同意管理平台，以帮助公司遵守\n"
+"                                与GDPR，PECR，CCPA和Eprivacy"
+
+#: templates/admin.php:227
+msgid "START PREMIUM TODAY"
+msgstr "今天启动溢价"
+
+#: templates/admin.php:230
+msgid "Seers Premium Plan"
+msgstr "Seers 高级计划"
+
+#: templates/admin.php:232
+msgid "Branding"
+msgstr "品牌"
+
+#: templates/admin.php:233
+msgid "Multi Lingual"
+msgstr "多语言"
+
+#: templates/admin.php:234
+msgid "Consent Log"
+msgstr "同意日志"
+
+#: templates/admin.php:235
+msgid "Cookie Policy"
+msgstr "Cookie政策"
+
+#: templates/admin.php:236
+msgid "Prior Consent"
+msgstr "事先同意"
+
+#: templates/admin.php:237
+msgid "6+ Design Layouts"
+msgstr "6+设计布局"
+
+#: templates/admin.php:238
+msgid "Customer Support"
+msgstr "客户支持"
+
+#: templates/admin.php:239
+msgid "Banner Customisation"
+msgstr "横幅定制"
+
+#: templates/admin.php:240
+msgid "Cookie Declaration Table"
+msgstr "Cookie申报表"
+
+#: templates/admin.php:241
+msgid ""
+"START PREMIUM\n"
+"                                TODAY"
+msgstr ""
+"开启高级版\n"
+"                                今天"
+
+#: templates/admin.php:255
+msgid "Banner Settings"
+msgstr "横幅设置"
+
+#: templates/admin.php:260
+msgid "Banner"
+msgstr "横幅"
+
+#: templates/admin.php:260
+msgid "Enable/disable Cookie banner"
+msgstr "启用/禁用cookie横幅"
+
+#: templates/admin.php:279
+msgid "Cookie Expiry"
+msgstr "Cookie到期"
+
+#: templates/admin.php:279
+msgid "Set your consent cookie to expire in days."
+msgstr "将同意cookie设置为在几天内过期。"
+
+#: templates/admin.php:291
+msgid "Language"
+msgstr "语言"
+
+#: templates/admin.php:291
+msgid "Choose a language for the banner."
+msgstr "为标语选择一种语言。"
+
+#: templates/admin.php:701
+msgid "Show Badge"
+msgstr "显示徽章"
+
+#: templates/admin.php:701
+msgid "Show a badge to enable the cookie banner to appear post consent."
+msgstr "显示一个徽章，以使Cookie横幅显示出现同意。"
+
+#: templates/admin.php:724
+msgid "Visual Settings"
+msgstr "视觉设置"
+
+#: templates/admin.php:729
+msgid "Banner Text"
+msgstr "横幅文本"
+
+#: templates/admin.php:729
+msgid "Text to appear on the banner:"
+msgstr "显示在横幅上的文本："
+
+#: templates/admin.php:732 templates/admin.php:750
+msgid "Colour"
+msgstr "颜色"
+
+#: templates/admin.php:732
+msgid "The text colour to appear on the banner:"
+msgstr "横幅上显示的文本颜色："
+
+#: templates/admin.php:747
+msgid "Banner Background"
+msgstr "横幅背景"
+
+#: templates/admin.php:747
+msgid "You can change the background colour of the banner:"
+msgstr "您可以更改横幅的背景颜色："
+
+#: templates/admin.php:750
+msgid "The background colour of the banner:"
+msgstr "横幅的背景颜色："
+
+#: templates/admin.php:764
+msgid "Accept Button"
+msgstr "接受按钮"
+
+#: templates/admin.php:764
+msgid ""
+"You can change text colour, button colour and text of the 'Accept All' button"
+msgstr "您可以更改“接受全部”按钮的文本颜色，按钮颜色和文本"
+
+#: templates/admin.php:767 templates/admin.php:798 templates/admin.php:829
+msgid "Text Colour"
+msgstr "文字颜色"
+
+#: templates/admin.php:767
+msgid "The text colour to appear on the 'Accept All' button:"
+msgstr "“接受全部”按钮上显示的文本颜色："
+
+#: templates/admin.php:777 templates/admin.php:808 templates/admin.php:839
+msgid "Button Colour"
+msgstr "按钮颜色"
+
+#: templates/admin.php:777
+msgid "The 'Accept All' button colour to appear on the banner:"
+msgstr "“接受所有”按钮颜色出现在横幅上："
+
+#: templates/admin.php:795
+msgid "Reject Button"
+msgstr "拒绝按钮"
+
+#: templates/admin.php:795
+msgid ""
+"You can change text colour, button colour and text of the 'Reject All' button"
+msgstr "您可以更改“拒绝全部”按钮的文本颜色，按钮颜色和文本"
+
+#: templates/admin.php:798
+msgid "The text colour to appear on the 'Reject All' button:"
+msgstr "“拒绝全部”按钮上显示的文本颜色："
+
+#: templates/admin.php:808
+msgid "The 'Reject All' button colour to appear on the banner:"
+msgstr "“拒绝所有”按钮颜色出现在横幅上："
+
+#: templates/admin.php:826
+msgid "Setting Button"
+msgstr "设置按钮"
+
+#: templates/admin.php:826
+msgid "You can change text colour and text of the 'Setting' button"
+msgstr "您可以更改“设置”按钮的文本颜色和文本"
+
+#: templates/admin.php:829
+msgid "The text colour to appear on the 'Setting' button:"
+msgstr "“设置”按钮上显示文本颜色："
+
+#: templates/admin.php:839
+msgid "The 'Setting' button colour to appear on the banner:"
+msgstr "横幅上显示“设置”按钮颜色："
+
+#: templates/admin.php:850
+msgid "Setting"
+msgstr "环境"
+
+#: templates/admin.php:858
+msgid "Fonts"
+msgstr "字体"
+
+#: templates/admin.php:858
+msgid "You can select a font for the text of the banner:"
+msgstr "您可以为横幅的文本选择一个字体："
+
+#: templates/admin.php:910
+msgid "Select Button"
+msgstr "选择按钮"
+
+#: templates/admin.php:910
+msgid "You can select the shape of the buttons that appear on the banner."
+msgstr "您可以选择横幅上显示的按钮的形状。"
+
+#: templates/admin.php:914
+msgid "Default"
+msgstr "默认"
+
+#: templates/admin.php:918 templates/admin.php:928
+msgid "Flat"
+msgstr "平坦的"
+
+#: templates/admin.php:921 templates/admin.php:931
+msgid "Rounded"
+msgstr "圆形的"
+
+#: templates/admin.php:924 templates/admin.php:934
+msgid "Stroke"
+msgstr "Stroke"
+
+#: templates/admin.php:952
+msgid "PREVIEW"
+msgstr "预习"
+
+#: templates/admin.php:953
+msgid "SAVE"
+msgstr "保存"
+
+#: templates/admin.php:972
+msgid "Please create cookies policy page and enter URL below."
+msgstr "请在下面创建cookie策略页面并输入URL。"
+
+#: templates/admin.php:976
+msgid "Enable Policy:"
+msgstr "启用策略："
+
+#: templates/admin.php:993
+msgid "Cookie Policy and declaration URL:"
+msgstr "Cookie策略和声明URL:"
+
+#: templates/admin.php:996
+msgid "Policy URL"
+msgstr "策略网址"
+
+#: templates/admin.php:1003
+msgid "Save"
+msgstr "保存"
+
+#: templates/admin.php:1057
+msgid "Premium Plan"
+msgstr "保费计划"
+
+#: templates/admin.php:1060 templates/admin.php:1249 templates/admin.php:1258
+#: templates/admin.php:1266
+msgid "Only the users with a paid account can avail this feature."
+msgstr "只有带薪帐户的用户只能使用此功能。"
+
+#: templates/admin.php:1065
+msgid "Ok"
+msgstr "好的"
+
+#: templates/frontend-popup.php:1751
+msgid "seers logo"
+msgstr "seers 商标"
+
+#: templates/frontend-popup.php:1756
+msgid "About Cookies"
+msgstr "关于 cookies"
+
+#: templates/frontend-popup.php:1760
+msgid "Read Cookie Policy"
+msgstr "阅读cookie政策"
+
+#: templates/frontend-popup.php:1772
+msgid "Necessary"
+msgstr "必要的"
+
+#: templates/frontend-popup.php:1772
+msgid "Always Active"
+msgstr "始终有效"
+
+#: templates/frontend-popup.php:1774
+msgid ""
+"Necessary cookies help make a website usable by enabling basic functions "
+"like page navigation and access to secure areas of the website. The website "
+"cannot function properly without these cookies."
+msgstr ""
+"必要的cookie能够通过启用诸如网页导航和访问网站的安全领域等基本功能以使网站可"
+"用。若没有这些cookie，网站将无法恰当运行。"
+
+#: templates/frontend-popup.php:1774 templates/frontend-popup.php:1784
+#: templates/frontend-popup.php:1794 templates/frontend-popup.php:1804
+#: templates/frontend-popup.php:1812
+msgid "Cookies Detail"
+msgstr "Cookie 细节"
+
+#: templates/frontend-popup.php:1778
+msgid "Preferences"
+msgstr "偏好设置"
+
+#: templates/frontend-popup.php:1784
+msgid ""
+"Preference cookies enable a website to remember information that changes the "
+"way the website behaves or looks, like your preferred language or the region "
+"that you are in."
+msgstr ""
+"首选项cookie使网站能够记住更改网站行为或外观的方式的信息，就像您所在的首选语"
+"言或所在的区域。"
+
+#: templates/frontend-popup.php:1788
+msgid "Statistics"
+msgstr "统计数据"
+
+#: templates/frontend-popup.php:1794
+msgid ""
+"Statistic cookies help website owners to understand how visitors interact "
+"with websites by collecting and reporting information anonymously."
+msgstr ""
+"统计cookie能够通过收集和匿名报告信息帮助网站拥有者了解访客与网站互动的方式。"
+
+#: templates/frontend-popup.php:1798
+msgid "Marketing"
+msgstr "营销"
+
+#: templates/frontend-popup.php:1804
+msgid ""
+"Marketing cookies are used to track visitors across websites. The intention "
+"is to display ads that are relevant and engaging for the individual user and "
+"thereby more valuable for publishers and third-party advertisers."
+msgstr ""
+"营销cookie用于对网站上的访客进行追踪。其目的是为了显示对个人用户来说相关及有"
+"吸引力的广告，因此，对于发布人和第三方广告商来说更为宝贵。"
+
+#: templates/frontend-popup.php:1808
+msgid "Unclassified"
+msgstr "未分类的"
+
+#: templates/frontend-popup.php:1812
+msgid ""
+"Unclassified cookies are cookies that we are in the process of classifying, "
+"together with the providers of individual cookies."
+msgstr "未分类的cookies是我们正在与个别cookies的提供者一起进行分类的cookies。"
+
+#: templates/frontend-popup.php:1819
+msgid "Save my choices"
+msgstr "保存我的选择"
+
+#: templates/frontend-popup.php:1825
+msgid "powered by"
+msgstr "提供者"
+
+#~ msgid "To get your Cookie ID click on Activate"
+#~ msgstr "To get your Cookie ID click on Activate"
+
+#~ msgid "Activate"
+#~ msgstr "Activate"

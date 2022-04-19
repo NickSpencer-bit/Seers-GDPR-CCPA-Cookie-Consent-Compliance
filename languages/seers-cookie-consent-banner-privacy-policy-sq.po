@@ -1,0 +1,643 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: seers-cookie-consent-banner-privacy-policy\n"
+"POT-Creation-Date: 2022-03-16 17:05+0500\n"
+"PO-Revision-Date: 2022-03-30 05:00-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sq_AL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: seers-cookie-consent-banner-privacy-policy.pot\n"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:350
+msgid "Quick Feedback"
+msgstr "Reagime të shpejta"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:351
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Nëse keni një moment, ju lutemi na tregoni pse jeni deaktivizuar:"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:354
+#: inc/seers-cookie-consent-plugin-deactivate.php:355
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:154
+msgid "The banner is not in the required language"
+msgstr "Banner nuk është në gjuhën e kërkuar"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:359
+msgid "The banner picks up your website language automatically. You can always sign-in on your Seers account"
+msgstr "Banner merr automatikisht gjuhën tuaj të internetit. Ju gjithmonë mund të regjistroheni në llogarinë tuaj Seers"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:359
+msgid "and choose the language you like. See the video"
+msgstr "dhe zgjidhni gjuhën që ju pëlqen. Shih videon"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:359
+#: inc/seers-cookie-consent-plugin-deactivate.php:381
+msgid "here"
+msgstr "këtu"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:363
+#: inc/seers-cookie-consent-plugin-deactivate.php:364
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:163
+msgid "Banner did not appear"
+msgstr "Banner nuk u shfaq"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:367
+#: inc/seers-cookie-consent-plugin-deactivate.php:388
+msgid "Most of the times the compatibility issue can be fixed very quickly. Please contact"
+msgstr "Shumica e kohës çështja e pajtueshmërisë mund të fiksohet shumë shpejt. Ju lutem kontaktoni"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:371
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:170
+msgid "Cookies are not showing in settings"
+msgstr "Cookies nuk po shfaqen në Settings"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:374
+msgid "We are scanning your website and it can take up to 12 hours for Cookies to appear. In a very few cases scanner miss a cookie. This"
+msgstr "Ne po skanojmë faqen tuaj te internetit dhe mund të zgjasë deri në 12 orë për të shfaqur cookies. Në një skaner shumë pak raste të humbasë një cookie. Kjo"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:374
+msgid "video"
+msgstr "video"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:374
+msgid "explains how to add cookies manually."
+msgstr "shpjegon se si të shtoni manualisht cookies."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:378
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:177
+msgid "The banner did not match website theme"
+msgstr "Banner nuk përputhet me temën e internetit"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:381
+msgid "You can fully customize the banner. Please see the video"
+msgstr "Ju mund të rregulloje plotësisht flamurin. Ju lutem shihni videon"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:384
+#: inc/seers-cookie-consent-plugin-deactivate.php:385
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:184
+msgid "The plugin broke my site"
+msgstr "Plugin theu faqen time"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:392
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:191
+msgid "I have found a better plugin"
+msgstr "Kam gjetur një plugin më të mirë"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:395
+msgid "Plugin name"
+msgstr "Emri i plugin"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:398
+msgid "The plugin is great, but i need specific feature that you do not support."
+msgstr "Shtojca është e mrekullueshme, por kam nevojë për veçori specifike që nuk e mbështetni."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:399
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:198
+msgid "The plugin is great, but i need specific feature that you don't support."
+msgstr "Plugin është i madh, por kam nevojë për veçori specifike që nuk e mbështetni."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:402
+msgid "Banner customisation."
+msgstr "Customization Banner."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:406
+#: inc/seers-cookie-consent-plugin-deactivate.php:407
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:206
+msgid "Other"
+msgstr "Tjetri"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:410
+msgid "Kindly tell us the reason so we can improve."
+msgstr "Mirësi na tregoni arsyen që ne mund të përmirësojmë."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:413
+msgid "Submit & Deactivate"
+msgstr "Dërgoni dhe çaktivizoni"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:414
+msgid "Cancel"
+msgstr "Anuloj"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:419
+msgid "Skip & Deactivate"
+msgstr "Kalo dhe çaktivizo"
+
+#: js/admin.js:15
+msgid "Dismiss this notice."
+msgstr "Hidhni këtë njoftim."
+
+#: seers-cookie-consent-banner-privacy-policy.php:133 templates/admin.php:97
+msgid "Settings"
+msgstr "Parametrat"
+
+#: seers-cookie-consent-banner-privacy-policy.php:139
+msgid "Upgrade Premium"
+msgstr "Upgrade Premium"
+
+#: seers-cookie-consent-banner-privacy-policy.php:290 templates/admin.php:740
+#: templates/frontend-popup.php:1738 templates/frontend-popup.php:1759
+msgid "We use cookies to ensure you get the best experience"
+msgstr "Ne përdorim cookie për t'u siguruar që ju të keni përvojën më të mirë"
+
+#: seers-cookie-consent-banner-privacy-policy.php:291 templates/admin.php:784
+#: templates/admin.php:785 templates/admin.php:787
+#: templates/frontend-popup.php:1740 templates/frontend-popup.php:1765
+msgid "Allow All"
+msgstr "Lejo të gjitha"
+
+#: seers-cookie-consent-banner-privacy-policy.php:292 templates/admin.php:815
+#: templates/admin.php:816 templates/admin.php:818
+#: templates/frontend-popup.php:1740 templates/frontend-popup.php:1766
+msgid "Disable All"
+msgstr "Çaktivzo të gjitha"
+
+#: seers-cookie-consent-banner-privacy-policy.php:293 templates/admin.php:847
+#: templates/frontend-popup.php:1740
+msgid "Preference"
+msgstr "Preferencat"
+
+#: seers-cookie-consent-banner-privacy-policy.php:416
+#: seers-cookie-consent-banner-privacy-policy.php:444
+#: seers-cookie-consent-banner-privacy-policy.php:450
+msgid "Cookies policy added successfully."
+msgstr "Politika e cookie shtohet me sukses."
+
+#: seers-cookie-consent-banner-privacy-policy.php:419
+msgid "Some thing went wrong. Please check url and try again"
+msgstr "Dicka shkoi keq. Ju lutem kontrolloni url dhe provoni përsëri"
+
+#: seers-cookie-consent-banner-privacy-policy.php:670
+msgid "Some thing went wrong."
+msgstr "Dicka shkoi keq."
+
+#: seers-cookie-consent-banner-privacy-policy.php:806
+msgid "Settings has been updated successfully"
+msgstr "Cilësimet është përditësuar me sukses"
+
+#: templates/admin.php:92 templates/admin.php:1067
+msgid "Account Setup"
+msgstr "Konfigurim"
+
+#: templates/admin.php:100
+msgid "Policy"
+msgstr "Politike"
+
+#: templates/admin.php:104
+msgid "User Guide"
+msgstr "Udhëzues Përdorues"
+
+#: templates/admin.php:119
+msgid "Your Seers Cookie Consent banner is activated."
+msgstr "Baneri juaj i pëlqimit të Seers Cookie është aktivizuar."
+
+#: templates/admin.php:123
+msgid "Your Seers Cookie Consent Banner is NOT activated because"
+msgstr "Seers Cookie Pëlqim Banner nuk është aktivizuar sepse"
+
+#: templates/admin.php:134
+msgid "Email"
+msgstr "Email"
+
+#: templates/admin.php:145 templates/admin.php:162
+msgid "I agree Seers"
+msgstr "Jam dakord Seers"
+
+#: templates/admin.php:146 templates/admin.php:163
+msgid "Terms & Condition"
+msgstr "Termat & Kushti"
+
+#: templates/admin.php:148 templates/admin.php:165
+msgid "and"
+msgstr "dhe"
+
+#: templates/admin.php:149 templates/admin.php:167
+msgid "Privacy Policy"
+msgstr "Politika e privatësisë"
+
+#: templates/admin.php:154 templates/admin.php:172
+msgid "I agree Seers to use my email and url to create an account and power the cookie banner."
+msgstr "Unë pajtohem shikuesit për të përdorur emailin tim dhe URL për të krijuar një llogari dhe për të pushtuar bannerin e cookie.I agree Seers to use my email and url to create an account and power the cookie banner."
+
+#: templates/admin.php:178
+msgid "Create Account"
+msgstr "Krijo llogari"
+
+#: templates/admin.php:181
+msgid "Cookie ID"
+msgstr "Id cookie"
+
+#: templates/admin.php:182
+msgid "Seers Cookie ID will be received automatically after account creation"
+msgstr "Seers Cookie ID do të merret automatikisht pas krijimit të llogarisë"
+
+#: templates/admin.php:197
+msgid "Powering all your"
+msgstr "Powering të gjitha tuajat"
+
+#: templates/admin.php:198
+msgid "Privacy &amp; Data Security needs"
+msgstr "Privatësia dhe; Nevojat e sigurisë së të dhënave"
+
+#: templates/admin.php:199
+msgid "Gain access to an extensive range of GDPR, PECR, CCPA &amp; ePrivacy compliance tools,"
+msgstr "Të fitojë qasje në një gamë të gjerë të GDPR, PEC, CCPA dhe; Mjetet e pajtueshmërisë së eprivacy,"
+
+#: templates/admin.php:200
+msgid "all"
+msgstr "të gjithë"
+
+#: templates/admin.php:201
+msgid ""
+"designed to take the hassle out of complying with the new data\n"
+"                                protection regulations."
+msgstr ""
+"i projektuar për të marrë sherr nga përputhja me të dhënat e reja\n"
+"                                Rregulloret e mbrojtjes."
+
+#: templates/admin.php:206
+msgid "Policies Pack"
+msgstr "Politikat Pack"
+
+#: templates/admin.php:207
+msgid "Templates Pack"
+msgstr "Templates paketë"
+
+#: templates/admin.php:208
+msgid "GDPR Staff eTraining"
+msgstr "Stafi i GDPR ETRAING"
+
+#: templates/admin.php:209
+msgid "Cookie Consent Management"
+msgstr "Menaxhimi i pëlqimit të cookie"
+
+#: templates/admin.php:212
+msgid "DPIA"
+msgstr "Dpi"
+
+#: templates/admin.php:213
+msgid "GDPR Audit"
+msgstr "Auditimi i GDPR"
+
+#: templates/admin.php:214
+msgid "Cyber Secure"
+msgstr "Cyber ​​Secure"
+
+#: templates/admin.php:215
+msgid "Subject Request Management"
+msgstr "Menaxhimi i kërkesës për lëndë"
+
+#: templates/admin.php:217
+msgid "START FREE"
+msgstr "Filloj"
+
+#: templates/admin.php:223
+msgid ""
+"Data Privacy &amp;\n"
+"                                Compliance. Solved"
+msgstr ""
+"Privatësia e të dhënave dhe;\n"
+"                                Pajtueshmëri. I zgjidhur"
+
+#: templates/admin.php:225
+msgid ""
+"Trust worlds leading privacy and consent management platform to help companies comply\n"
+"                                with GDPR, PECR, CCPA and ePrivacy"
+msgstr ""
+"Besimi Botët kryesorë të privatësisë dhe platformës së menaxhimit të pëlqimit për të ndihmuar kompanitë në përputhje\n"
+"                                me GDPR, PEC, CCPA dhe Eprivacy"
+
+#: templates/admin.php:227
+msgid "START PREMIUM TODAY"
+msgstr "Filloni Premium sot"
+
+#: templates/admin.php:230
+msgid "Seers Premium Plan"
+msgstr "Seers Premium Plan"
+
+#: templates/admin.php:232
+msgid "Branding"
+msgstr "Branding"
+
+#: templates/admin.php:233
+msgid "Multi Lingual"
+msgstr "Shumë gjuhësor"
+
+#: templates/admin.php:234
+msgid "Consent Log"
+msgstr "Log"
+
+#: templates/admin.php:235
+msgid "Cookie Policy"
+msgstr "Politika e Cookie"
+
+#: templates/admin.php:236
+msgid "Prior Consent"
+msgstr "Pëlqim paraprak"
+
+#: templates/admin.php:237
+msgid "6+ Design Layouts"
+msgstr "6+ Layouts Design"
+
+#: templates/admin.php:238
+msgid "Customer Support"
+msgstr "Mbështetja e klientit"
+
+#: templates/admin.php:239
+msgid "Banner Customisation"
+msgstr "Customization Banner"
+
+#: templates/admin.php:240
+msgid "Cookie Declaration Table"
+msgstr "Tabela e deklarimit të cookie"
+
+#: templates/admin.php:241
+msgid ""
+"START PREMIUM\n"
+"                                TODAY"
+msgstr ""
+"START PREMIUM\n"
+"                                SOT"
+
+#: templates/admin.php:255
+msgid "Banner Settings"
+msgstr "Cilësimet e Banner"
+
+#: templates/admin.php:260
+msgid "Banner"
+msgstr "Flamur"
+
+#: templates/admin.php:260
+msgid "Enable/disable Cookie banner"
+msgstr "Aktivizo / çaktivizo Banner Cookie"
+
+#: templates/admin.php:279
+msgid "Cookie Expiry"
+msgstr "Skadim cookie"
+
+#: templates/admin.php:279
+msgid "Set your consent cookie to expire in days."
+msgstr "Vendosni cookie tuaj të pëlqimit për të skaduar në ditë."
+
+#: templates/admin.php:291
+msgid "Language"
+msgstr "Gjuhe"
+
+#: templates/admin.php:291
+msgid "Choose a language for the banner."
+msgstr "Zgjidhni një gjuhë për banerin."
+
+#: templates/admin.php:701
+msgid "Show Badge"
+msgstr "Tregojnë simbol"
+
+#: templates/admin.php:701
+msgid "Show a badge to enable the cookie banner to appear post consent."
+msgstr "Tregoni një simbol për të mundësuar që flamuri cookie të shfaqet POST PLOT."
+
+#: templates/admin.php:724
+msgid "Visual Settings"
+msgstr "Cilësimet vizuale"
+
+#: templates/admin.php:729
+msgid "Banner Text"
+msgstr "Tekst banner"
+
+#: templates/admin.php:729
+msgid "Text to appear on the banner:"
+msgstr "Teksti për t'u shfaqur në banner:"
+
+#: templates/admin.php:732 templates/admin.php:750
+msgid "Colour"
+msgstr "Ngjyrë"
+
+#: templates/admin.php:732
+msgid "The text colour to appear on the banner:"
+msgstr "Ngjyra e tekstit për t'u shfaqur në flamurin:"
+
+#: templates/admin.php:747
+msgid "Banner Background"
+msgstr "Sfond banner"
+
+#: templates/admin.php:747
+msgid "You can change the background colour of the banner:"
+msgstr "Ju mund të ndryshoni ngjyrën e sfondit të flamurit:"
+
+#: templates/admin.php:750
+msgid "The background colour of the banner:"
+msgstr "Ngjyra e sfondit të flamurit:"
+
+#: templates/admin.php:764
+msgid "Accept Button"
+msgstr "Pranoj butonin"
+
+#: templates/admin.php:764
+msgid "You can change text colour, button colour and text of the 'Accept All' button"
+msgstr "Ju mund të ndryshoni ngjyrën e tekstit, ngjyrën e butonave dhe tekstin e butonit 'Pranoni të gjitha'"
+
+#: templates/admin.php:767 templates/admin.php:798 templates/admin.php:829
+msgid "Text Colour"
+msgstr "Ngjyra e tekstit"
+
+#: templates/admin.php:767
+msgid "The text colour to appear on the 'Accept All' button:"
+msgstr "Ngjyra e tekstit për t'u shfaqur në butonin 'Prano të gjitha':"
+
+#: templates/admin.php:777 templates/admin.php:808 templates/admin.php:839
+msgid "Button Colour"
+msgstr "Ngjyra e butonit"
+
+#: templates/admin.php:777
+msgid "The 'Accept All' button colour to appear on the banner:"
+msgstr "Ngjyra 'pranoni të gjitha' butonin për t'u shfaqur në banner:"
+
+#: templates/admin.php:795
+msgid "Reject Button"
+msgstr "Refuzoni butonin"
+
+#: templates/admin.php:795
+msgid "You can change text colour, button colour and text of the 'Reject All' button"
+msgstr "Ju mund të ndryshoni ngjyrën e tekstit, ngjyrën e butonit dhe tekstin e butonit 'Refuzoni të gjitha'"
+
+#: templates/admin.php:798
+msgid "The text colour to appear on the 'Reject All' button:"
+msgstr "Ngjyra e tekstit për t'u shfaqur në butonin 'Refuzo të gjitha':"
+
+#: templates/admin.php:808
+msgid "The 'Reject All' button colour to appear on the banner:"
+msgstr "'Refuzimi i ngjyrës së butonit' të shfaqet në flamurin:"
+
+#: templates/admin.php:826
+msgid "Setting Button"
+msgstr "Vendosja e butonit"
+
+#: templates/admin.php:826
+msgid "You can change text colour and text of the 'Setting' button"
+msgstr "Ju mund të ndryshoni ngjyrën e tekstit dhe tekstin e butonit 'Vendosja'"
+
+#: templates/admin.php:829
+msgid "The text colour to appear on the 'Setting' button:"
+msgstr "Ngjyra e tekstit për t'u shfaqur në butonin 'Vendosja':"
+
+#: templates/admin.php:839
+msgid "The 'Setting' button colour to appear on the banner:"
+msgstr "Ngjyra e butonit 'vendosja' për t'u shfaqur në flamurin:"
+
+#: templates/admin.php:850
+msgid "Setting"
+msgstr "Vendosje"
+
+#: templates/admin.php:858
+msgid "Fonts"
+msgstr "Fonts"
+
+#: templates/admin.php:858
+msgid "You can select a font for the text of the banner:"
+msgstr "Ju mund të zgjidhni një font për tekstin e flamurit:"
+
+#: templates/admin.php:910
+msgid "Select Button"
+msgstr "Zgjidh butonin"
+
+#: templates/admin.php:910
+msgid "You can select the shape of the buttons that appear on the banner."
+msgstr "Ju mund të zgjidhni formën e butonave që shfaqen në flamurin."
+
+#: templates/admin.php:914
+msgid "Default"
+msgstr "Default"
+
+#: templates/admin.php:918 templates/admin.php:928
+msgid "Flat"
+msgstr "I sheshtë"
+
+#: templates/admin.php:921 templates/admin.php:931
+msgid "Rounded"
+msgstr "I rrumbullakët"
+
+#: templates/admin.php:924 templates/admin.php:934
+msgid "Stroke"
+msgstr "Stroke"
+
+#: templates/admin.php:952
+msgid "PREVIEW"
+msgstr "Vrojtim"
+
+#: templates/admin.php:953
+msgid "SAVE"
+msgstr "Shpëtoj"
+
+#: templates/admin.php:972
+msgid "Please create cookies policy page and enter URL below."
+msgstr "Ju lutemi krijoni faqen e politikës së cookies dhe futni URL më poshtë."
+
+#: templates/admin.php:976
+msgid "Enable Policy:"
+msgstr "Aktivizo politikën:"
+
+#: templates/admin.php:993
+msgid "Cookie Policy and declaration URL:"
+msgstr "Politika e Cookie dhe Deklarata URL:"
+
+#: templates/admin.php:996
+msgid "Policy URL"
+msgstr "URL e politikave"
+
+#: templates/admin.php:1003
+msgid "Save"
+msgstr "Shpëtoj"
+
+#: templates/admin.php:1057
+msgid "Premium Plan"
+msgstr "Plani Premium"
+
+#: templates/admin.php:1060 templates/admin.php:1249 templates/admin.php:1258
+#: templates/admin.php:1266
+msgid "Only the users with a paid account can avail this feature."
+msgstr "Vetëm përdoruesit me një llogari të paguar mund të përfitojnë nga kjo veçori."
+
+#: templates/admin.php:1065
+msgid "Ok"
+msgstr "Ne rregull"
+
+#: templates/frontend-popup.php:1751
+msgid "seers logo"
+msgstr "seers logo"
+
+#: templates/frontend-popup.php:1756
+msgid "About Cookies"
+msgstr "Rreth Cookies"
+
+#: templates/frontend-popup.php:1760
+msgid "Read Cookie Policy"
+msgstr "Lexoni Politikën e Cookie"
+
+#: templates/frontend-popup.php:1772
+msgid "Necessary"
+msgstr "Të domosdoshme"
+
+#: templates/frontend-popup.php:1772
+msgid "Always Active"
+msgstr "Gjithmonë aktiv"
+
+#: templates/frontend-popup.php:1774
+msgid "Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies."
+msgstr "Kukit e nevojshëm ndihmojnë për ta bërë një faqe interneti të përdorshme duke mundësuar funksione bazë si navigimi i faqeve dhe aksesi në zona të sigurta të faqes së internetit. Faqja e internetit nuk mund të funksionojë siç duhet pa këto cookie."
+
+#: templates/frontend-popup.php:1774 templates/frontend-popup.php:1784
+#: templates/frontend-popup.php:1794 templates/frontend-popup.php:1804
+#: templates/frontend-popup.php:1812
+msgid "Cookies Detail"
+msgstr "Detaje Cookies"
+
+#: templates/frontend-popup.php:1778
+msgid "Preferences"
+msgstr "Preferencat"
+
+#: templates/frontend-popup.php:1784
+msgid "Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in."
+msgstr "Cookies preferenciale mundësojnë një faqe interneti për të kujtuar informacionin që ndryshon mënyrën se si sillet ose duket e internetit, si gjuha juaj e preferuar ose rajoni që jeni."
+
+#: templates/frontend-popup.php:1788
+msgid "Statistics"
+msgstr "Statistika"
+
+#: templates/frontend-popup.php:1794
+msgid "Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously."
+msgstr "Cookie Statistika ndihmojë pronarët e internetit për të kuptuar se si vizitorët ndërveprojnë me faqet e internetit me mbledhjen dhe raportimin e informacioneve anonime."
+
+#: templates/frontend-popup.php:1798
+msgid "Marketing"
+msgstr "Marketingu"
+
+#: templates/frontend-popup.php:1804
+msgid "Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third-party advertisers."
+msgstr "Marketingu cookies është përdorur për të ndjekur vizitorët nëpër faqet e internetit. Qëllimi është për të shfaqur reklama që janë relevante dhe të angazhohen për përdoruesit individual dhe në këtë mënyrë më e vlefshme për botuesit dhe reklamuesit e palës së tretë."
+
+#: templates/frontend-popup.php:1808
+msgid "Unclassified"
+msgstr "Të paklasifikuara"
+
+#: templates/frontend-popup.php:1812
+msgid "Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies."
+msgstr "Cookie e paklasifikuar janë skedarë të cilët ne jemi në procesin duke i klasifikuar, së bashku me provajderët e skedarëve individual."
+
+#: templates/frontend-popup.php:1819
+msgid "Save my choices"
+msgstr "Ruaj zgjedhjet e mia"
+
+#: templates/frontend-popup.php:1825
+msgid "powered by"
+msgstr "mundësuar nga"
+
+#~ msgid "To get your Cookie ID click on Activate"
+#~ msgstr "To get your Cookie ID click on Activate"
+
+#~ msgid "Activate"
+#~ msgstr "Activate"

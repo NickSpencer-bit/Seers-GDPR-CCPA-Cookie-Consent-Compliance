@@ -1,0 +1,639 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: seers-cookie-consent-banner-privacy-policy\n"
+"POT-Creation-Date: 2022-03-25 17:21+0500\n"
+"PO-Revision-Date: 2022-03-30 04:57-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n>=3 && n<=6 ? 2 : n>=7 && n<=10 ? 3 : 4);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: inc\n"
+"X-Poedit-SearchPath-2: templates\n"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:382
+msgid "Quick Feedback"
+msgstr "Aiseolas tapaidh"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:383
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Má tá nóiméad agat, cuir in iúl dúinn cén fáth a bhfuil tú ag díghníomhú:"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:386
+#: inc/seers-cookie-consent-plugin-deactivate.php:387
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:154
+msgid "The banner is not in the required language"
+msgstr "Níl an banner sa teanga riachtanach"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:391
+msgid "The banner picks up your website language automatically. You can always sign-in on your Seers account"
+msgstr "Tógann an banner do theanga an láithreáin ghréasáin go huathoibríoch. Is féidir leat clárú i gcónaí ar do chuntas do Seers"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:391
+msgid "and choose the language you like. See the video"
+msgstr "agus roghnaigh an teanga is mian leat. Féach an físeán"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:391
+#: inc/seers-cookie-consent-plugin-deactivate.php:413
+msgid "here"
+msgstr "an áit seo"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:395
+#: inc/seers-cookie-consent-plugin-deactivate.php:396
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:163
+msgid "Banner did not appear"
+msgstr "Níor tháinig Banner le feiceáil"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:399
+#: inc/seers-cookie-consent-plugin-deactivate.php:420
+msgid "Most of the times the compatibility issue can be fixed very quickly. Please contact"
+msgstr "An chuid is mó de na hamanna is féidir an tsaincheist chomhoiriúnachta a shocrú go han-tapa. Téigh i dteagmháil le do thoil"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:403
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:170
+msgid "Cookies are not showing in settings"
+msgstr "Níl na cookies ag taispeáint i suíomhanna"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:406
+msgid "We are scanning your website and it can take up to 12 hours for Cookies to appear. In a very few cases scanner miss a cookie. This"
+msgstr "Táimid ag scanadh do láithreán gréasáin agus is féidir leis suas le 12 uair an chloig a ghlacadh le haghaidh cookies le feiceáil. I líon beag cásanna, cailleann scanóir cookie. Seo"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:406
+msgid "video"
+msgstr "físiúlacht"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:406
+msgid "explains how to add cookies manually."
+msgstr "míníonn conas cookies a chur leis de láimh."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:410
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:177
+msgid "The banner did not match website theme"
+msgstr "Níor mheaitseáil an banner téama an láithreáin ghréasáin"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:413
+msgid "You can fully customize the banner. Please see the video"
+msgstr "Is féidir leat an banner a shaincheapadh go hiomlán. Féach an físeán le do thoil"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:416
+#: inc/seers-cookie-consent-plugin-deactivate.php:417
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:184
+msgid "The plugin broke my site"
+msgstr "Bhris an breiseán mo shuíomh"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:424
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:191
+msgid "I have found a better plugin"
+msgstr "Tá plugin níos fearr agam"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:427
+msgid "Plugin name"
+msgstr "Plugin Ainm"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:430
+msgid "The plugin is great, but i need specific feature that you do not support."
+msgstr "Tá an breiseán iontach, ach tá gné shonrach de dhíth orm nach dtacaíonn tú leis."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:431
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:198
+msgid "The plugin is great, but i need specific feature that you don't support."
+msgstr "Tá an breiseán mór, ach tá gné shonrach de dhíth orm nach dtacaíonn tú leis."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:434
+msgid "Banner customisation."
+msgstr "Customization Banner."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:438
+#: inc/seers-cookie-consent-plugin-deactivate.php:439
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:206
+msgid "Other"
+msgstr "Eile"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:442
+msgid "Kindly tell us the reason so we can improve."
+msgstr "Inis dúinn an chúis ionas gur féidir linn a fheabhsú."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:445
+msgid "Submit & Deactivate"
+msgstr "Cuir isteach & Díghníomhachtaigh"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:446
+msgid "Cancel"
+msgstr "Cealaigh"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:451
+msgid "Skip & Deactivate"
+msgstr "Scipeáil & Díghníomhachtaigh"
+
+#: js/admin.js:15
+msgid "Dismiss this notice."
+msgstr "Dífhostú an fógra seo."
+
+#: seers-cookie-consent-banner-privacy-policy.php:135 templates/admin.php:97
+msgid "Settings"
+msgstr "Settings"
+
+#: seers-cookie-consent-banner-privacy-policy.php:141
+msgid "Upgrade Premium"
+msgstr "Uasghrádú a dhéanamh ar phréimh"
+
+#: seers-cookie-consent-banner-privacy-policy.php:292 templates/admin.php:514
+#: templates/frontend-popup.php:1738 templates/frontend-popup.php:1759
+msgid "We use cookies to ensure you get the best experience"
+msgstr "Úsáidimid cookies chun a chinntiú go bhfaighidh tú an taithí is fearr"
+
+#: seers-cookie-consent-banner-privacy-policy.php:293 templates/admin.php:558
+#: templates/admin.php:559 templates/admin.php:561
+#: templates/frontend-popup.php:1740 templates/frontend-popup.php:1765
+msgid "Allow All"
+msgstr "Lig Uile"
+
+#: seers-cookie-consent-banner-privacy-policy.php:294 templates/admin.php:589
+#: templates/admin.php:590 templates/admin.php:592
+#: templates/frontend-popup.php:1740 templates/frontend-popup.php:1766
+msgid "Disable All"
+msgstr "Díchumasaigh Gach"
+
+#: seers-cookie-consent-banner-privacy-policy.php:295 templates/admin.php:621
+#: templates/frontend-popup.php:1740
+msgid "Preference"
+msgstr "Socruithe"
+
+#: seers-cookie-consent-banner-privacy-policy.php:418
+#: seers-cookie-consent-banner-privacy-policy.php:446
+#: seers-cookie-consent-banner-privacy-policy.php:452
+msgid "Cookies policy added successfully."
+msgstr "Beartas cookies curtha leis go rathúil."
+
+#: seers-cookie-consent-banner-privacy-policy.php:421
+msgid "Some thing went wrong. Please check url and try again"
+msgstr "Chuaigh rud eigin mícheart. Seiceáil le do thoil URL agus bain triail as arís"
+
+#: seers-cookie-consent-banner-privacy-policy.php:675
+msgid "Some thing went wrong."
+msgstr "Chuaigh rud eigin mícheart."
+
+#: seers-cookie-consent-banner-privacy-policy.php:819
+msgid "Settings has been updated successfully"
+msgstr "Rinneadh suímh a nuashonrú go rathúil"
+
+#: templates/admin.php:92 templates/admin.php:841
+msgid "Account Setup"
+msgstr "Socrú Cuntais"
+
+#: templates/admin.php:100
+msgid "Policy"
+msgstr "Beartas"
+
+#: templates/admin.php:104
+msgid "User Guide"
+msgstr "Treoir Úsáideora"
+
+#: templates/admin.php:119
+msgid "Your Seers Cookie Consent banner is activated."
+msgstr "Tá do bhratach Toilithe Cookie Seers i ngníomh."
+
+#: templates/admin.php:123
+msgid "Your Seers Cookie Consent Banner is NOT activated because"
+msgstr "NÍL do Meirge Toilithe Cookie Seer gníomhachtaithe mar gheall ar"
+
+#: templates/admin.php:134
+msgid "Email"
+msgstr "Ríomhphost a chur chuig"
+
+#: templates/admin.php:145 templates/admin.php:162
+msgid "I agree Seers"
+msgstr "Aontaím Seers"
+
+#: templates/admin.php:146 templates/admin.php:163
+msgid "Terms & Condition"
+msgstr "Téarmaí & Coinníoll"
+
+#: templates/admin.php:148 templates/admin.php:165
+msgid "and"
+msgstr "agus"
+
+#: templates/admin.php:149 templates/admin.php:167
+msgid "Privacy Policy"
+msgstr "Beartas Príobháideachais"
+
+#: templates/admin.php:154 templates/admin.php:172
+msgid "I agree Seers to use my email and url to create an account and power the cookie banner."
+msgstr "Aontaím Seers chun mo ríomhphost agus mo URL a úsáid chun cuntas a chruthú agus cumhacht a thabhairt don bhratach cookie."
+
+#: templates/admin.php:178
+msgid "Create Account"
+msgstr "Cruthaigh cuntas"
+
+#: templates/admin.php:181
+msgid "Cookie ID"
+msgstr "Cookie ID"
+
+#: templates/admin.php:182
+msgid "Seers Cookie ID will be received automatically after account creation"
+msgstr "Fuarthas ID Cookie Seers go huathoibríoch tar éis cruthú cuntas"
+
+#: templates/admin.php:197
+msgid "Powering all your"
+msgstr "Ag cumhachtáil do gach duine"
+
+#: templates/admin.php:198
+msgid "Privacy &amp; Data Security needs"
+msgstr "Príobháideachas agus; Riachtanais slándála sonraí"
+
+#: templates/admin.php:199
+msgid "Gain access to an extensive range of GDPR, PECR, CCPA &amp; ePrivacy compliance tools,"
+msgstr "Rochtain a fháil ar réimse leathan GDPR, PeCR, CCPA agus; Uirlisí Comhlíonta Eprivacy,"
+
+#: templates/admin.php:200
+msgid "all"
+msgstr "fíor-"
+
+#: templates/admin.php:201
+msgid ""
+"designed to take the hassle out of complying with the new data\n"
+"                                protection regulations."
+msgstr ""
+"deartha chun an hassle a thógáil as na sonraí nua a chomhlíonadh\n"
+"                                Rialacháin um Chosaint."
+
+#: templates/admin.php:206
+msgid "Policies Pack"
+msgstr "Pacáiste Polasaithe"
+
+#: templates/admin.php:207
+msgid "Templates Pack"
+msgstr "Pacáiste Teimpléid"
+
+#: templates/admin.php:208
+msgid "GDPR Staff eTraining"
+msgstr "Foireann GDPR"
+
+#: templates/admin.php:209
+msgid "Cookie Consent Management"
+msgstr "Bainistíocht Toilithe Cookie"
+
+#: templates/admin.php:212
+msgid "DPIA"
+msgstr "Dpia"
+
+#: templates/admin.php:213
+msgid "GDPR Audit"
+msgstr "Iniúchadh GDPR"
+
+#: templates/admin.php:214
+msgid "Cyber Secure"
+msgstr "Cibearshlán slán"
+
+#: templates/admin.php:215
+msgid "Subject Request Management"
+msgstr "Bainistíocht Iarratais Ábhair"
+
+#: templates/admin.php:217
+msgid "START FREE"
+msgstr "Tús a chur le saor in aisce"
+
+#: templates/admin.php:223
+msgid ""
+"Data Privacy &amp;\n"
+"                                Compliance. Solved"
+msgstr ""
+"Príobháideacht sonraí agus;\n"
+"                                Comhlíonadh. Réitithe"
+
+#: templates/admin.php:225
+msgid ""
+"Trust worlds leading privacy and consent management platform to help companies comply\n"
+"                                with GDPR, PECR, CCPA and ePrivacy"
+msgstr ""
+"Iontaobhas Worlds Príobháideacht agus Toiliú Toilithe Ardán chun cabhrú le cuideachtaí\n"
+"                                le GDPR, PeCR, CCPA agus EPrivacy"
+
+#: templates/admin.php:227
+msgid "START PREMIUM TODAY"
+msgstr "Tosaigh Préimh inniu"
+
+#: templates/admin.php:230
+msgid "Seers Premium Plan"
+msgstr "Plean Préimhe Seers"
+
+#: templates/admin.php:232
+msgid "Branding"
+msgstr "Bradán"
+
+#: templates/admin.php:233
+msgid "Multi Lingual"
+msgstr "Iltheangach"
+
+#: templates/admin.php:234
+msgid "Consent Log"
+msgstr "Logáil isteach Toilithe"
+
+#: templates/admin.php:235
+msgid "Cookie Policy"
+msgstr "Polasaí Cookie"
+
+#: templates/admin.php:236
+msgid "Prior Consent"
+msgstr "Toiliú roimh ré"
+
+#: templates/admin.php:237
+msgid "6+ Design Layouts"
+msgstr "6+ leagan amach dearaidh"
+
+#: templates/admin.php:238
+msgid "Customer Support"
+msgstr "Tacaíocht chustaiméirí"
+
+#: templates/admin.php:239
+msgid "Banner Customisation"
+msgstr "Customization Banner"
+
+#: templates/admin.php:240
+msgid "Cookie Declaration Table"
+msgstr "Tábla dearbhaithe Cookie"
+
+#: templates/admin.php:241
+msgid ""
+"START PREMIUM\n"
+"                                TODAY"
+msgstr ""
+"TÚS PREMIUM\n"
+"                                INNIU"
+
+#: templates/admin.php:255
+msgid "Banner Settings"
+msgstr "Socruithe Banner"
+
+#: templates/admin.php:260
+msgid "Banner"
+msgstr "Bean bhailte"
+
+#: templates/admin.php:260
+msgid "Enable/disable Cookie banner"
+msgstr "Cumasaigh / Díchumasaigh Banner Cookie"
+
+#: templates/admin.php:279
+msgid "Cookie Expiry"
+msgstr "Cookie éaga"
+
+#: templates/admin.php:279
+msgid "Set your consent cookie to expire in days."
+msgstr "Socraigh do cookie toilithe le dul in éag i laethanta."
+
+#: templates/admin.php:291
+msgid "Language"
+msgstr "Teanga"
+
+#: templates/admin.php:291
+msgid "Choose a language for the banner Settings > General."
+msgstr "Roghnaigh teanga do na Settings Banner> Ginearálta."
+
+#: templates/admin.php:475
+msgid "Show Badge"
+msgstr "Taispeáin suaitheantas"
+
+#: templates/admin.php:475
+msgid "Show a badge to enable the cookie banner to appear post consent."
+msgstr "Taispeáin suaitheantas chun cur ar chumas an banner cookie a bheith le feiceáil."
+
+#: templates/admin.php:498
+msgid "Visual Settings"
+msgstr "Socruithe Amhairc"
+
+#: templates/admin.php:503
+msgid "Banner Text"
+msgstr "Téacs Banner"
+
+#: templates/admin.php:503
+msgid "Text to appear on the banner:"
+msgstr "Téacs le feiceáil ar an mbratach:"
+
+#: templates/admin.php:506 templates/admin.php:524
+msgid "Colour"
+msgstr "Dath a chur ar"
+
+#: templates/admin.php:506
+msgid "The text colour to appear on the banner:"
+msgstr "An dath téacs le feiceáil ar an mbratach:"
+
+#: templates/admin.php:521
+msgid "Banner Background"
+msgstr "Banner Cúlra"
+
+#: templates/admin.php:521
+msgid "You can change the background colour of the banner:"
+msgstr "Is féidir leat dath cúlra an bhratach a athrú:"
+
+#: templates/admin.php:524
+msgid "The background colour of the banner:"
+msgstr "Dath cúlra an bhratach:"
+
+#: templates/admin.php:538
+msgid "Accept Button"
+msgstr "Glac leis an gcnaipe"
+
+#: templates/admin.php:538
+msgid "You can change text colour, button colour and text of the 'Accept All' button"
+msgstr "Is féidir leat dath téacs, dath an chnaipe agus téacs an chnaipe 'Glac All' a athrú"
+
+#: templates/admin.php:541 templates/admin.php:572 templates/admin.php:603
+msgid "Text Colour"
+msgstr "Dath téacs"
+
+#: templates/admin.php:541
+msgid "The text colour to appear on the 'Accept All' button:"
+msgstr "An dath téacs le feiceáil ar an gcnaipe 'glacadh le gach rud':"
+
+#: templates/admin.php:551 templates/admin.php:582 templates/admin.php:613
+msgid "Button Colour"
+msgstr "Dath an chnaipe"
+
+#: templates/admin.php:551
+msgid "The 'Accept All' button colour to appear on the banner:"
+msgstr "An dath cnaipe 'glacadh le gach' le feiceáil ar an mbratach:"
+
+#: templates/admin.php:569
+msgid "Reject Button"
+msgstr "Diúltaigh an cnaipe"
+
+#: templates/admin.php:569
+msgid "You can change text colour, button colour and text of the 'Reject All' button"
+msgstr "Is féidir leat dath téacs a athrú, dath an chnaipe agus téacs an chnaipe 'Diúltaigh All'"
+
+#: templates/admin.php:572
+msgid "The text colour to appear on the 'Reject All' button:"
+msgstr "An dath téacs le feiceáil ar an gcnaipe 'Diúltú Uile':"
+
+#: templates/admin.php:582
+msgid "The 'Reject All' button colour to appear on the banner:"
+msgstr "Dath an chnaipe 'Diúltaigh All' le feiceáil ar an mbratach:"
+
+#: templates/admin.php:600
+msgid "Setting Button"
+msgstr "Cnaipe a leagan síos"
+
+#: templates/admin.php:600
+msgid "You can change text colour and text of the 'Setting' button"
+msgstr "Is féidir leat dath téacs agus téacs an chnaipe 'Socrú' a athrú"
+
+#: templates/admin.php:603
+msgid "The text colour to appear on the 'Setting' button:"
+msgstr "An dath téacs le feiceáil ar an gcnaipe 'suíomh':"
+
+#: templates/admin.php:613
+msgid "The 'Setting' button colour to appear on the banner:"
+msgstr "Dath an cnaipe 'Socraíonn' le feiceáil ar an mbratach:"
+
+#: templates/admin.php:624
+msgid "Setting"
+msgstr "Leagan"
+
+#: templates/admin.php:632
+msgid "Fonts"
+msgstr "Clónna"
+
+#: templates/admin.php:632
+msgid "You can select a font for the text of the banner:"
+msgstr "Is féidir leat cló a roghnú do théacs an bhratach:"
+
+#: templates/admin.php:684
+msgid "Select Button"
+msgstr "Roghnaigh an cnaipe"
+
+#: templates/admin.php:684
+msgid "You can select the shape of the buttons that appear on the banner."
+msgstr "Is féidir leat cruth na cnaipí atá le feiceáil ar an mbratach a roghnú."
+
+#: templates/admin.php:688
+msgid "Default"
+msgstr "Réamh-réad"
+
+#: templates/admin.php:692 templates/admin.php:702
+msgid "Flat"
+msgstr "Cothrom"
+
+#: templates/admin.php:695 templates/admin.php:705
+msgid "Rounded"
+msgstr "Cruinn"
+
+#: templates/admin.php:698 templates/admin.php:708
+msgid "Stroke"
+msgstr "Stroke"
+
+#: templates/admin.php:726
+msgid "PREVIEW"
+msgstr "Réamhamharc"
+
+#: templates/admin.php:727
+msgid "SAVE"
+msgstr "Sáraigh"
+
+#: templates/admin.php:746
+msgid "Please create cookies policy page and enter URL below."
+msgstr "Cruthaigh leathanach Polasaí cookie agus cuir isteach URL thíos."
+
+#: templates/admin.php:750
+msgid "Enable Policy:"
+msgstr "Cumasaigh Beartas:"
+
+#: templates/admin.php:767
+msgid "Cookie Policy and declaration URL:"
+msgstr "Beartas cookie agus Dearbhú URL:"
+
+#: templates/admin.php:770
+msgid "Policy URL"
+msgstr "URL beartais"
+
+#: templates/admin.php:777
+msgid "Save"
+msgstr "Sáraigh"
+
+#: templates/admin.php:831
+msgid "Premium Plan"
+msgstr "Plean préimhe"
+
+#: templates/admin.php:834 templates/admin.php:1023 templates/admin.php:1032
+#: templates/admin.php:1040
+msgid "Only the users with a paid account can avail this feature."
+msgstr "Ní féidir ach le húsáideoirí a bhfuil cuntas íoctha acu leas a bhaint as an ngné seo."
+
+#: templates/admin.php:839
+msgid "Ok"
+msgstr "Ceart go leor"
+
+#: templates/frontend-popup.php:1751
+msgid "seers logo"
+msgstr "lógó Seers"
+
+#: templates/frontend-popup.php:1756
+msgid "About Cookies"
+msgstr "Maidir cookies"
+
+#: templates/frontend-popup.php:1760
+msgid "Read Cookie Policy"
+msgstr "Léigh Polasaí Cookie"
+
+#: templates/frontend-popup.php:1772
+msgid "Necessary"
+msgstr "Riachtanach"
+
+#: templates/frontend-popup.php:1772
+msgid "Always Active"
+msgstr "I gcónaí Gníomhach"
+
+#: templates/frontend-popup.php:1774
+msgid "Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies."
+msgstr "Cuidíonn cookies riachtanacha le suíomh Gréasáin a úsáid trí fheidhmeanna bunúsacha mar nascleanúint leathanaigh agus rochtain ar chodanna slána den láithreán gréasáin a chumasú. Ní féidir leis an suíomh Gréasáin feidhmiú i gceart gan na cookies seo."
+
+#: templates/frontend-popup.php:1774 templates/frontend-popup.php:1784
+#: templates/frontend-popup.php:1794 templates/frontend-popup.php:1804
+#: templates/frontend-popup.php:1812
+msgid "Cookies Detail"
+msgstr "Cookies Sonraigh"
+
+#: templates/frontend-popup.php:1778
+msgid "Preferences"
+msgstr "Sainroghanna"
+
+#: templates/frontend-popup.php:1784
+msgid "Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in."
+msgstr "Cuireann cookies tosaíochta ar chumas suíomh Gréasáin cuimhneamh ar fhaisnéis a athraíonn an dóigh a n-iompraíonn nó a bhreathnaíonn an suíomh Gréasáin, cosúil le do rogha teanga nó an réigiún ina bhfuil tú."
+
+#: templates/frontend-popup.php:1788
+msgid "Statistics"
+msgstr "Staitisticí"
+
+#: templates/frontend-popup.php:1794
+msgid "Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously."
+msgstr "Cuidíonn cookies staitistiúla le húinéirí láithreán gréasáin tuiscint a fháil ar an gcaoi a n-idirghníomhaíonn cuairteoirí le láithreáin ghréasáin trí fhaisnéis a bhailiú agus a thuairisciú gan ainm."
+
+#: templates/frontend-popup.php:1798
+msgid "Marketing"
+msgstr "Margaíocht"
+
+#: templates/frontend-popup.php:1804
+msgid "Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third-party advertisers."
+msgstr "Úsáidtear cookies margaíochta chun cuairteoirí a rianú ar láithreáin ghréasáin. Is é atá i gceist ná fógraí atá ábhartha agus tarraingteach don úsáideoir aonair a thaispeáint agus ar an gcaoi sin níos luachmhaire d’fhoilsitheoirí agus d’fhógróirí tríú páirtí."
+
+#: templates/frontend-popup.php:1808
+msgid "Unclassified"
+msgstr "Neamhrangaithe"
+
+#: templates/frontend-popup.php:1812
+msgid "Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies."
+msgstr "Is éard is cookies neamhrangaithe ann ná cookies atá á rangú againn, mar aon le soláthraithe cookies aonair."
+
+#: templates/frontend-popup.php:1819
+msgid "Save my choices"
+msgstr "Sábháil mo roghanna"
+
+#: templates/frontend-popup.php:1825
+msgid "powered by"
+msgstr "cumhachtaithe ag"

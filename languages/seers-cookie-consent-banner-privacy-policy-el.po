@@ -1,0 +1,718 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: seers-cookie-consent-banner-privacy-policy\n"
+"POT-Creation-Date: 2022-03-25 17:21+0500\n"
+"PO-Revision-Date: 2022-03-30 17:28+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: seers-cookie-consent-banner-privacy-policy.pot\n"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:382
+msgid "Quick Feedback"
+msgstr "Γρήγορη ανατροφοδότηση"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:383
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Εάν έχετε μια στιγμή, ενημερώστε μας γιατί είστε απενεργοποιημένοι:"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:386
+#: inc/seers-cookie-consent-plugin-deactivate.php:387
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:154
+msgid "The banner is not in the required language"
+msgstr "Το banner δεν είναι στην απαιτούμενη γλώσσα"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:391
+msgid ""
+"The banner picks up your website language automatically. You can always sign-"
+"in on your Seers account"
+msgstr ""
+"Το banner συλλέγει αυτόματα τη γλώσσα του ιστότοπού σας. Μπορείτε πάντα να "
+"συνδεθείτε στο λογαριασμό σας SEERS"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:391
+msgid "and choose the language you like. See the video"
+msgstr "και επιλέξτε τη γλώσσα που σας αρέσει. Δείτε το βίντεο"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:391
+#: inc/seers-cookie-consent-plugin-deactivate.php:413
+msgid "here"
+msgstr "εδώ"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:395
+#: inc/seers-cookie-consent-plugin-deactivate.php:396
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:163
+msgid "Banner did not appear"
+msgstr "Το Banner δεν εμφανίστηκε"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:399
+#: inc/seers-cookie-consent-plugin-deactivate.php:420
+msgid ""
+"Most of the times the compatibility issue can be fixed very quickly. Please "
+"contact"
+msgstr ""
+"Τις περισσότερες φορές το ζήτημα της συμβατότητας μπορεί να καθοριστεί πολύ "
+"γρήγορα. Παρακαλώ επικοινώνησε"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:403
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:170
+msgid "Cookies are not showing in settings"
+msgstr "Τα cookies δεν εμφανίζονται στις ρυθμίσεις"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:406
+msgid ""
+"We are scanning your website and it can take up to 12 hours for Cookies to "
+"appear. In a very few cases scanner miss a cookie. This"
+msgstr ""
+"Σανίζουμε τον ιστότοπό σας και μπορεί να χρειαστούν έως και 12 ώρες για να "
+"εμφανιστούν τα cookies. Σε πολύ λίγες περιπτώσεις σαρωτής χάσει ένα cookie. "
+"Αυτό"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:406
+msgid "video"
+msgstr "βίντεο"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:406
+msgid "explains how to add cookies manually."
+msgstr "eξηγεί πώς να προσθέτετε τα cookies χειροκίνητα."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:410
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:177
+msgid "The banner did not match website theme"
+msgstr "Το banner δεν ταιριάζει με το θέμα της ιστοσελίδας"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:413
+msgid "You can fully customize the banner. Please see the video"
+msgstr "Μπορείτε να προσαρμόσετε πλήρως το banner. Δείτε το βίντεο"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:416
+#: inc/seers-cookie-consent-plugin-deactivate.php:417
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:184
+msgid "The plugin broke my site"
+msgstr "Το plugin έσπασε τον ιστότοπό μου"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:424
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:191
+msgid "I have found a better plugin"
+msgstr "Βρήκα ένα καλύτερο plugin"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:427
+msgid "Plugin name"
+msgstr "Όνομα προσφοράς"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:430
+msgid ""
+"The plugin is great, but i need specific feature that you do not support."
+msgstr ""
+"Το plugin είναι υπέροχο, αλλά χρειάζομαι συγκεκριμένη λειτουργία που δεν "
+"υποστηρίζετε."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:431
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:198
+msgid ""
+"The plugin is great, but i need specific feature that you don't support."
+msgstr ""
+"Το plugin είναι υπέροχο, αλλά χρειάζομαι συγκεκριμένη λειτουργία που δεν "
+"υποστηρίζετε."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:434
+msgid "Banner customisation."
+msgstr "Προσαρμογή πανό."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:438
+#: inc/seers-cookie-consent-plugin-deactivate.php:439
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:206
+msgid "Other"
+msgstr "Αλλα"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:442
+msgid "Kindly tell us the reason so we can improve."
+msgstr "Παρακαλείστε να μας πείτε το λόγο για να μπορέσουμε να βελτιωθούμε."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:445
+msgid "Submit & Deactivate"
+msgstr "Υποβολή & απενεργοποίηση"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:446
+msgid "Cancel"
+msgstr "Ματαίωση"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:451
+msgid "Skip & Deactivate"
+msgstr "Skip & απενεργοποιήστε"
+
+#: js/admin.js:15
+msgid "Dismiss this notice."
+msgstr "Απορρίψτε την παρούσα ειδοποίηση."
+
+#: seers-cookie-consent-banner-privacy-policy.php:135 templates/admin.php:97
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: seers-cookie-consent-banner-privacy-policy.php:141
+msgid "Upgrade Premium"
+msgstr "Αναβαθμίστε το Premium"
+
+#: seers-cookie-consent-banner-privacy-policy.php:292 templates/admin.php:514
+#: templates/frontend-popup.php:1738 templates/frontend-popup.php:1759
+msgid "We use cookies to ensure you get the best experience"
+msgstr ""
+"Χρησιμοποιούμε cookies για να διασφαλίσουμε ότι θα έχετε την καλύτερη "
+"εμπειρία"
+
+#: seers-cookie-consent-banner-privacy-policy.php:293 templates/admin.php:558
+#: templates/admin.php:559 templates/admin.php:561
+#: templates/frontend-popup.php:1740 templates/frontend-popup.php:1765
+msgid "Allow All"
+msgstr "Επιτρέπονται όλα"
+
+#: seers-cookie-consent-banner-privacy-policy.php:294 templates/admin.php:589
+#: templates/admin.php:590 templates/admin.php:592
+#: templates/frontend-popup.php:1740 templates/frontend-popup.php:1766
+msgid "Disable All"
+msgstr "Απενεργοποίηση όλων"
+
+#: seers-cookie-consent-banner-privacy-policy.php:295 templates/admin.php:621
+#: templates/frontend-popup.php:1740
+msgid "Preference"
+msgstr "Προσαρμογή ρυθμίσεων"
+
+#: seers-cookie-consent-banner-privacy-policy.php:418
+#: seers-cookie-consent-banner-privacy-policy.php:446
+#: seers-cookie-consent-banner-privacy-policy.php:452
+msgid "Cookies policy added successfully."
+msgstr "Η πολιτική των cookies προστέθηκε με επιτυχία."
+
+#: seers-cookie-consent-banner-privacy-policy.php:421
+msgid "Some thing went wrong. Please check url and try again"
+msgstr "Κάτι πήγε στραβά. Ελέγξτε τη διεύθυνση URL και δοκιμάστε ξανά"
+
+#: seers-cookie-consent-banner-privacy-policy.php:675
+msgid "Some thing went wrong."
+msgstr "Κάτι πήγε στραβά."
+
+#: seers-cookie-consent-banner-privacy-policy.php:819
+msgid "Settings has been updated successfully"
+msgstr "Οι ρυθμίσεις ενημερώνονται με επιτυχία"
+
+#: templates/admin.php:92 templates/admin.php:841
+msgid "Account Setup"
+msgstr "Ρύθμιση λογαριασμού"
+
+#: templates/admin.php:100
+msgid "Policy"
+msgstr "Πολιτική"
+
+#: templates/admin.php:104
+msgid "User Guide"
+msgstr "ΟΔΗΓΟΣ ΧΡΗΣΤΗ"
+
+#: templates/admin.php:119
+msgid "Your Seers Cookie Consent banner is activated."
+msgstr "Το πανό συγκατάθεσης cookie της Seers είναι ενεργοποιημένο."
+
+#: templates/admin.php:123
+msgid "Your Seers Cookie Consent Banner is NOT activated because"
+msgstr "Το Banner συγκατάθεσης Cookie SEERS δεν ενεργοποιείται επειδή"
+
+#: templates/admin.php:134
+msgid "Email"
+msgstr "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
+
+#: templates/admin.php:145 templates/admin.php:162
+msgid "I agree Seers"
+msgstr "Συμφωνώ τους SEERS"
+
+#: templates/admin.php:146 templates/admin.php:163
+msgid "Terms & Condition"
+msgstr "Όροι & Κατάσταση"
+
+#: templates/admin.php:148 templates/admin.php:165
+msgid "and"
+msgstr "και"
+
+#: templates/admin.php:149 templates/admin.php:167
+msgid "Privacy Policy"
+msgstr "Πολιτική απορρήτου"
+
+#: templates/admin.php:154 templates/admin.php:172
+msgid ""
+"I agree Seers to use my email and url to create an account and power the "
+"cookie banner."
+msgstr ""
+"Συμφωνώ οι Seers να χρησιμοποιήσουν το email και το url μου για να "
+"δημιουργήσουν λογαριασμό και να ενεργοποιήσουν το cookie banner."
+
+#: templates/admin.php:178
+msgid "Create Account"
+msgstr "Δημιουργήστε λογαριασμό"
+
+#: templates/admin.php:181
+msgid "Cookie ID"
+msgstr "Id cookie"
+
+#: templates/admin.php:182
+msgid "Seers Cookie ID will be received automatically after account creation"
+msgstr "Τα SEERS Cookie ID θα ληφθούν αυτόματα μετά τη δημιουργία λογαριασμού"
+
+#: templates/admin.php:197
+msgid "Powering all your"
+msgstr "Τροφοδοτώντας όλα σας"
+
+#: templates/admin.php:198
+msgid "Privacy &amp; Data Security needs"
+msgstr "Απόρρητο και? Ανάγκες ασφαλείας δεδομένων"
+
+#: templates/admin.php:199
+msgid ""
+"Gain access to an extensive range of GDPR, PECR, CCPA &amp; ePrivacy "
+"compliance tools,"
+msgstr ""
+"Αποκτήστε πρόσβαση σε ένα εκτεταμένο φάσμα GDPR, PECR, CCPA και? Εργαλεία "
+"συμμόρφωσης EPrivacy,"
+
+#: templates/admin.php:200
+msgid "all"
+msgstr "όλα"
+
+#: templates/admin.php:201
+msgid ""
+"designed to take the hassle out of complying with the new data\n"
+"                                protection regulations."
+msgstr ""
+"σχεδιασμένο για να πάρει την ταλαιπωρία από τη συμμόρφωση με τα νέα "
+"δεδομένα\n"
+"                                Κανονισμοί προστασίας."
+
+#: templates/admin.php:206
+msgid "Policies Pack"
+msgstr "Πολιτικές πακέτο"
+
+#: templates/admin.php:207
+msgid "Templates Pack"
+msgstr "Πακέτο προτύπων"
+
+#: templates/admin.php:208
+msgid "GDPR Staff eTraining"
+msgstr "Προσωπικό GDPR Etraining"
+
+#: templates/admin.php:209
+msgid "Cookie Consent Management"
+msgstr "Διαχείριση συναίνεσης cookie"
+
+#: templates/admin.php:212
+msgid "DPIA"
+msgstr "Dpia"
+
+#: templates/admin.php:213
+msgid "GDPR Audit"
+msgstr "Έλεγχος του GDPR"
+
+#: templates/admin.php:214
+msgid "Cyber Secure"
+msgstr "Cyber ​​ασφαλής"
+
+#: templates/admin.php:215
+msgid "Subject Request Management"
+msgstr "Θέμα διαχείρισης αίτησης"
+
+#: templates/admin.php:217
+msgid "START FREE"
+msgstr "Ξεκινήστε δωρεάν"
+
+#: templates/admin.php:223
+msgid ""
+"Data Privacy &amp;\n"
+"                                Compliance. Solved"
+msgstr ""
+"Απορρήτου δεδομένων και?\n"
+"                               Συμμόρφωση. Λυώ"
+
+#: templates/admin.php:225
+msgid ""
+"Trust worlds leading privacy and consent management platform to help "
+"companies comply\n"
+"                                with GDPR, PECR, CCPA and ePrivacy"
+msgstr ""
+"Trust Worlds Η κορυφαία πλατφόρμα διαχείρισης της ιδιωτικής και συγκατάθεσης "
+"για να βοηθήσει τις εταιρείες να συμμορφώνονται\n"
+"                                Με το GDPR, PECR, CCPA και EPRIVACY"
+
+#: templates/admin.php:227
+msgid "START PREMIUM TODAY"
+msgstr "Ξεκινήστε το Premium σήμερα"
+
+#: templates/admin.php:230
+msgid "Seers Premium Plan"
+msgstr "Seers Premium Σχέδιο"
+
+#: templates/admin.php:232
+msgid "Branding"
+msgstr "Επωνυμία"
+
+#: templates/admin.php:233
+msgid "Multi Lingual"
+msgstr "Πολύγλωσσος"
+
+#: templates/admin.php:234
+msgid "Consent Log"
+msgstr "Σύνδεση καταγραφής"
+
+#: templates/admin.php:235
+msgid "Cookie Policy"
+msgstr "Πολιτική Cookie"
+
+#: templates/admin.php:236
+msgid "Prior Consent"
+msgstr "Προηγούμενη συγκατάθεση"
+
+#: templates/admin.php:237
+msgid "6+ Design Layouts"
+msgstr "6+ σχεδιαστικές διατάξεις"
+
+#: templates/admin.php:238
+msgid "Customer Support"
+msgstr "Υποστήριξη πελατών"
+
+#: templates/admin.php:239
+msgid "Banner Customisation"
+msgstr "Προσαρμογή πανό"
+
+#: templates/admin.php:240
+msgid "Cookie Declaration Table"
+msgstr "Πίνακα δήλωσης cookie"
+
+#: templates/admin.php:241
+msgid ""
+"START PREMIUM\n"
+"                                TODAY"
+msgstr ""
+"\"Start premium\n"
+"                                DNES\""
+
+#: templates/admin.php:255
+msgid "Banner Settings"
+msgstr "Ρυθμίσεις πανό"
+
+#: templates/admin.php:260
+msgid "Banner"
+msgstr "Πανό"
+
+#: templates/admin.php:260
+msgid "Enable/disable Cookie banner"
+msgstr "Ενεργοποίηση / απενεργοποίηση banner cookie"
+
+#: templates/admin.php:279
+msgid "Cookie Expiry"
+msgstr "Έκθεση Cookie"
+
+#: templates/admin.php:279
+msgid "Set your consent cookie to expire in days."
+msgstr "Ορίστε το cookie συγκατάθεσής σας να λήγει σε ημέρες."
+
+#: templates/admin.php:291
+msgid "Language"
+msgstr "Γλώσσα"
+
+#: templates/admin.php:291
+msgid "Choose a language for the banner Settings > General."
+msgstr "Επιλέξτε μια γλώσσα για το πανό Ρυθμίσεις > Γενικά."
+
+#: templates/admin.php:475
+msgid "Show Badge"
+msgstr "Εμφάνιση σήματος"
+
+#: templates/admin.php:475
+msgid "Show a badge to enable the cookie banner to appear post consent."
+msgstr ""
+"Δείξτε ένα σήμα για να ενεργοποιήσετε το banner cookie να εμφανιστεί η "
+"συγκατάθεση."
+
+#: templates/admin.php:498
+msgid "Visual Settings"
+msgstr "Οπτικές ρυθμίσεις"
+
+#: templates/admin.php:503
+msgid "Banner Text"
+msgstr "Κείμενο banner"
+
+#: templates/admin.php:503
+msgid "Text to appear on the banner:"
+msgstr "Κείμενο που εμφανίζεται στο banner:"
+
+#: templates/admin.php:506 templates/admin.php:524
+msgid "Colour"
+msgstr "Χρώμα"
+
+#: templates/admin.php:506
+msgid "The text colour to appear on the banner:"
+msgstr "Το χρώμα του κειμένου να εμφανίζεται στο banner:"
+
+#: templates/admin.php:521
+msgid "Banner Background"
+msgstr "Banner φόντο"
+
+#: templates/admin.php:521
+msgid "You can change the background colour of the banner:"
+msgstr "Μπορείτε να αλλάξετε το χρώμα φόντου του banner:"
+
+#: templates/admin.php:524
+msgid "The background colour of the banner:"
+msgstr "Το χρώμα φόντου του banner:"
+
+#: templates/admin.php:538
+msgid "Accept Button"
+msgstr "Δεχτείτε το κουμπί"
+
+#: templates/admin.php:538
+msgid ""
+"You can change text colour, button colour and text of the 'Accept All' button"
+msgstr ""
+"Μπορείτε να αλλάξετε χρώμα κειμένου, κουμπί κουμπιού και κείμενο του "
+"κουμπιού 'Αποδοχή όλων'"
+
+#: templates/admin.php:541 templates/admin.php:572 templates/admin.php:603
+msgid "Text Colour"
+msgstr "Χρώμα κειμένου"
+
+#: templates/admin.php:541
+msgid "The text colour to appear on the 'Accept All' button:"
+msgstr "Το χρώμα του κειμένου που εμφανίζεται στο κουμπί 'Αποδοχή όλων':"
+
+#: templates/admin.php:551 templates/admin.php:582 templates/admin.php:613
+msgid "Button Colour"
+msgstr "Χρώμα κουμπιού"
+
+#: templates/admin.php:551
+msgid "The 'Accept All' button colour to appear on the banner:"
+msgstr "Το χρώμα του κουμπιού 'Αποδοχή όλων' για να εμφανιστεί στο banner:"
+
+#: templates/admin.php:569
+msgid "Reject Button"
+msgstr "Απορρίψτε το κουμπί"
+
+#: templates/admin.php:569
+msgid ""
+"You can change text colour, button colour and text of the 'Reject All' button"
+msgstr ""
+"Μπορείτε να αλλάξετε το χρώμα κειμένου, το κουμπί του κουμπιού και το "
+"κείμενο του κουμπιού 'Απόρριψη όλων'"
+
+#: templates/admin.php:572
+msgid "The text colour to appear on the 'Reject All' button:"
+msgstr "Το χρώμα του κειμένου που εμφανίζεται στο κουμπί 'Απόρριψη όλων':"
+
+#: templates/admin.php:582
+msgid "The 'Reject All' button colour to appear on the banner:"
+msgstr "Το χρώμα του κουμπιού 'Απόρριψη' για να εμφανιστεί στο Banner:"
+
+#: templates/admin.php:600
+msgid "Setting Button"
+msgstr "Κουμπί ρύθμισης"
+
+#: templates/admin.php:600
+msgid "You can change text colour and text of the 'Setting' button"
+msgstr ""
+"Μπορείτε να αλλάξετε το χρώμα κειμένου και το κείμενο του κουμπιού 'Ρύθμιση'"
+
+#: templates/admin.php:603
+msgid "The text colour to appear on the 'Setting' button:"
+msgstr "Το χρώμα του κειμένου που εμφανίζεται στο κουμπί 'Ρύθμιση':"
+
+#: templates/admin.php:613
+msgid "The 'Setting' button colour to appear on the banner:"
+msgstr "Το χρώμα του κουμπιού 'Ρύθμιση' για να εμφανιστεί στο banner:"
+
+#: templates/admin.php:624
+msgid "Setting"
+msgstr "Σύνθεση"
+
+#: templates/admin.php:632
+msgid "Fonts"
+msgstr "Γραμματοσειρές"
+
+#: templates/admin.php:632
+msgid "You can select a font for the text of the banner:"
+msgstr "Μπορείτε να επιλέξετε μια γραμματοσειρά για το κείμενο του banner:"
+
+#: templates/admin.php:684
+msgid "Select Button"
+msgstr "Επιλέξτε κουμπί"
+
+#: templates/admin.php:684
+msgid "You can select the shape of the buttons that appear on the banner."
+msgstr ""
+"Μπορείτε να επιλέξετε το σχήμα των κουμπιών που εμφανίζονται στο banner."
+
+#: templates/admin.php:688
+msgid "Default"
+msgstr "Προκαθορισμένο"
+
+#: templates/admin.php:692 templates/admin.php:702
+msgid "Flat"
+msgstr "Επίπεδος"
+
+#: templates/admin.php:695 templates/admin.php:705
+msgid "Rounded"
+msgstr "Στρογγυλεμένος"
+
+#: templates/admin.php:698 templates/admin.php:708
+msgid "Stroke"
+msgstr "Stroke"
+
+#: templates/admin.php:726
+msgid "PREVIEW"
+msgstr "Προεπισκόπηση"
+
+#: templates/admin.php:727
+msgid "SAVE"
+msgstr "ΑΠΟΘΗΚΕΥΣΕΤΕ"
+
+#: templates/admin.php:746
+msgid "Please create cookies policy page and enter URL below."
+msgstr ""
+"Δημιουργήστε τη σελίδα Πολιτικής Cookies και εισάγετε τη διεύθυνση URL "
+"παρακάτω."
+
+#: templates/admin.php:750
+msgid "Enable Policy:"
+msgstr "Ενεργοποίηση Πολιτικής:"
+
+#: templates/admin.php:767
+msgid "Cookie Policy and declaration URL:"
+msgstr "Πολιτική Cookie και Δήλωση URL:"
+
+#: templates/admin.php:770
+msgid "Policy URL"
+msgstr "Πολιτική URL"
+
+#: templates/admin.php:777
+msgid "Save"
+msgstr "ΑΠΟΘΗΚΕΥΣΕΤΕ"
+
+#: templates/admin.php:831
+msgid "Premium Plan"
+msgstr "Πριμοδότηση"
+
+#: templates/admin.php:834 templates/admin.php:1023 templates/admin.php:1032
+#: templates/admin.php:1040
+msgid "Only the users with a paid account can avail this feature."
+msgstr ""
+"Μόνο οι χρήστες με έναν πληρωμένο λογαριασμό μπορούν να επωφεληθούν αυτή τη "
+"λειτουργία."
+
+#: templates/admin.php:839
+msgid "Ok"
+msgstr "Εντάξει"
+
+#: templates/frontend-popup.php:1751
+msgid "seers logo"
+msgstr "λογότυπο seers"
+
+#: templates/frontend-popup.php:1756
+msgid "About Cookies"
+msgstr "Σχετικά με τα cookies"
+
+#: templates/frontend-popup.php:1760
+msgid "Read Cookie Policy"
+msgstr "Διαβάστε την πολιτική cookie"
+
+#: templates/frontend-popup.php:1772
+msgid "Necessary"
+msgstr "Απαραίτητη"
+
+#: templates/frontend-popup.php:1772
+msgid "Always Active"
+msgstr "Πάντα ενεργό"
+
+#: templates/frontend-popup.php:1774
+msgid ""
+"Necessary cookies help make a website usable by enabling basic functions "
+"like page navigation and access to secure areas of the website. The website "
+"cannot function properly without these cookies."
+msgstr ""
+"Τα απαραίτητα cookies βοηθούν στη χρήση ενός ιστότοπου, επιτρέποντας βασικές "
+"λειτουργίες όπως πλοήγηση σελίδων και πρόσβαση σε ασφαλείς περιοχές του "
+"ιστότοπου. Ο ιστότοπος δεν μπορεί να λειτουργήσει σωστά χωρίς αυτά τα "
+"cookies."
+
+#: templates/frontend-popup.php:1774 templates/frontend-popup.php:1784
+#: templates/frontend-popup.php:1794 templates/frontend-popup.php:1804
+#: templates/frontend-popup.php:1812
+msgid "Cookies Detail"
+msgstr "Λεπτομέρεια cookies"
+
+#: templates/frontend-popup.php:1778
+msgid "Preferences"
+msgstr "Προτιμήσεις"
+
+#: templates/frontend-popup.php:1784
+msgid ""
+"Preference cookies enable a website to remember information that changes the "
+"way the website behaves or looks, like your preferred language or the region "
+"that you are in."
+msgstr ""
+"Τα cookies προτιμήσεων επιτρέπουν σε έναν ιστότοπο να θυμάται τις "
+"πληροφορίες που αλλάζουν τον τρόπο με τον οποίο ο ιστότοπος συμπεριφέρεται ή "
+"φαίνεται, όπως η προτιμώμενη γλώσσα ή η περιοχή που βρίσκεστε."
+
+#: templates/frontend-popup.php:1788
+msgid "Statistics"
+msgstr "Στατιστική"
+
+#: templates/frontend-popup.php:1794
+msgid ""
+"Statistic cookies help website owners to understand how visitors interact "
+"with websites by collecting and reporting information anonymously."
+msgstr ""
+"Τα στατιστικά cookies βοηθούν τους κατόχους ιστότοπων να κατανοήσουν τον "
+"τρόπο με τον οποίο οι επισκέπτες αλληλεπιδρούν με ιστότοπους συλλέγοντας και "
+"αναφέροντας πληροφορίες ανώνυμα."
+
+#: templates/frontend-popup.php:1798
+msgid "Marketing"
+msgstr "Εμπορία"
+
+#: templates/frontend-popup.php:1804
+msgid ""
+"Marketing cookies are used to track visitors across websites. The intention "
+"is to display ads that are relevant and engaging for the individual user and "
+"thereby more valuable for publishers and third-party advertisers."
+msgstr ""
+"Τα cookies μάρκετινγκ χρησιμοποιούνται για την παρακολούθηση επισκεπτών σε "
+"ιστότοπους Η πρόθεση είναι να εμφανιστούν διαφημίσεις που είναι συναφείς και "
+"ελκυστικές για τον κάθε χρήστη και, ως εκ τούτου, πιο πολύτιμες για εκδότες "
+"και διαφημιστές τρίτων."
+
+#: templates/frontend-popup.php:1808
+msgid "Unclassified"
+msgstr "Αταξινόμητος"
+
+#: templates/frontend-popup.php:1812
+msgid ""
+"Unclassified cookies are cookies that we are in the process of classifying, "
+"together with the providers of individual cookies."
+msgstr ""
+"Τα μη ταξινομημένα cookies είναι cookies τα οποία βρισκόμαστε στη διαδικασία "
+"ταξινόμησης, μαζί με τους παρόχους μεμονωμένων cookies."
+
+#: templates/frontend-popup.php:1819
+msgid "Save my choices"
+msgstr "Αποθηκεύστε τις επιλογές μου"
+
+#: templates/frontend-popup.php:1825
+msgid "powered by"
+msgstr "mε την υποστήριξη του"
+
+#~ msgid "To get your Cookie ID click on Activate"
+#~ msgstr "To get your Cookie ID click on Activate"
+
+#~ msgid "Activate"
+#~ msgstr "Activate"

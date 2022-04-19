@@ -1,0 +1,643 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: seers-cookie-consent-banner-privacy-policy\n"
+"POT-Creation-Date: 2022-03-25 17:21+0500\n"
+"PO-Revision-Date: 2022-03-30 04:37-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: seers-cookie-consent-banner-privacy-policy.pot\n"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:382
+msgid "Quick Feedback"
+msgstr "ردود الفعل سريعة"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:383
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "إذا كان لديك لحظة، فيرجى إخبارنا لماذا أنت إلغاء تنشيط:"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:386
+#: inc/seers-cookie-consent-plugin-deactivate.php:387
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:154
+msgid "The banner is not in the required language"
+msgstr "اللافتة ليست باللغة المطلوبة"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:391
+msgid "The banner picks up your website language automatically. You can always sign-in on your Seers account"
+msgstr "يختار Banner لغتك موقع الويب الخاص بك تلقائيا. يمكنك دائما تسجيل الدخول في حساب Seers"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:391
+msgid "and choose the language you like. See the video"
+msgstr "واختيار اللغة التي تريدها. مشاهدة الفيديو"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:391
+#: inc/seers-cookie-consent-plugin-deactivate.php:413
+msgid "here"
+msgstr "هنا"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:395
+#: inc/seers-cookie-consent-plugin-deactivate.php:396
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:163
+msgid "Banner did not appear"
+msgstr "لم تظهر راية"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:399
+#: inc/seers-cookie-consent-plugin-deactivate.php:420
+msgid "Most of the times the compatibility issue can be fixed very quickly. Please contact"
+msgstr "معظم الأوقات يمكن إصلاح مشكلة التوافق بسرعة كبيرة. الرجاء التواصل"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:403
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:170
+msgid "Cookies are not showing in settings"
+msgstr "لا تظهرCookies  في الإعدادات"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:406
+msgid "We are scanning your website and it can take up to 12 hours for Cookies to appear. In a very few cases scanner miss a cookie. This"
+msgstr "نحن نفحص موقع الويب الخاص بك وقد يستغرق ظهور \"Cookies\" ما يصل إلى 12 ساعة. في حالات قليلة جدًا ، يفقد الماسح ملف تعريف ارتباط. هذه"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:406
+msgid "video"
+msgstr "فيديو"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:406
+msgid "explains how to add cookies manually."
+msgstr "يشرح كيفية إضافة Cookies يدويًا."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:410
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:177
+msgid "The banner did not match website theme"
+msgstr "لم يتطابق بانر موضوع الموقع"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:413
+msgid "You can fully customize the banner. Please see the video"
+msgstr "يمكنك تخصيص راية بالكامل. يرجى الاطلاع على الفيديو"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:416
+#: inc/seers-cookie-consent-plugin-deactivate.php:417
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:184
+msgid "The plugin broke my site"
+msgstr "البرنامج المساعد كسر موقعي"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:424
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:191
+msgid "I have found a better plugin"
+msgstr "لقد وجدت صيغة أفضل"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:427
+msgid "Plugin name"
+msgstr "اسم البرنامج المساعد"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:430
+msgid "The plugin is great, but i need specific feature that you do not support."
+msgstr "البرنامج المساعد رائع، لكنني بحاجة إلى ميزة محددة لا تدعمها."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:431
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:198
+msgid "The plugin is great, but i need specific feature that you don't support."
+msgstr "البرنامج المساعد رائع، لكنني بحاجة إلى ميزة محددة لا تدعمها."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:434
+msgid "Banner customisation."
+msgstr "تخصيص راية."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:438
+#: inc/seers-cookie-consent-plugin-deactivate.php:439
+#: inc/seers-cookie-consent-plugin-deactivate_old.php:206
+msgid "Other"
+msgstr "آخر"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:442
+msgid "Kindly tell us the reason so we can improve."
+msgstr "يرجى إخبارنا بالسبب حتى نتمكن من التحسن."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:445
+msgid "Submit & Deactivate"
+msgstr "تقديم وإلغاء تنشيط"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:446
+msgid "Cancel"
+msgstr "يلغي"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:451
+msgid "Skip & Deactivate"
+msgstr "تخطي وإلغاء تنشيط"
+
+#: js/admin.js:15
+msgid "Dismiss this notice."
+msgstr "رفض هذا الإشعار."
+
+#: seers-cookie-consent-banner-privacy-policy.php:135 templates/admin.php:97
+msgid "Settings"
+msgstr "إعدادات"
+
+#: seers-cookie-consent-banner-privacy-policy.php:141
+msgid "Upgrade Premium"
+msgstr "ترقية بريميوم"
+
+#: seers-cookie-consent-banner-privacy-policy.php:292 templates/admin.php:514
+#: templates/frontend-popup.php:1738 templates/frontend-popup.php:1759
+msgid "We use cookies to ensure you get the best experience"
+msgstr "نحن نستخدم Cookies  لضمان حصولك على أفضل تجربة"
+
+#: seers-cookie-consent-banner-privacy-policy.php:293 templates/admin.php:558
+#: templates/admin.php:559 templates/admin.php:561
+#: templates/frontend-popup.php:1740 templates/frontend-popup.php:1765
+msgid "Allow All"
+msgstr "أنا موافق"
+
+#: seers-cookie-consent-banner-privacy-policy.php:294 templates/admin.php:589
+#: templates/admin.php:590 templates/admin.php:592
+#: templates/frontend-popup.php:1740 templates/frontend-popup.php:1766
+msgid "Disable All"
+msgstr "أنا أعترض"
+
+#: seers-cookie-consent-banner-privacy-policy.php:295 templates/admin.php:621
+#: templates/frontend-popup.php:1740
+msgid "Preference"
+msgstr "الأفضلية"
+
+#: seers-cookie-consent-banner-privacy-policy.php:418
+#: seers-cookie-consent-banner-privacy-policy.php:446
+#: seers-cookie-consent-banner-privacy-policy.php:452
+msgid "Cookies policy added successfully."
+msgstr "تمت إضافة سياسة \"Cookie\" بنجاح."
+
+#: seers-cookie-consent-banner-privacy-policy.php:421
+msgid "Some thing went wrong. Please check url and try again"
+msgstr "هناك خطأ ما. يرجى التحقق من عنوان URL وحاول مرة أخرى"
+
+#: seers-cookie-consent-banner-privacy-policy.php:675
+msgid "Some thing went wrong."
+msgstr "هناك خطأ ما."
+
+#: seers-cookie-consent-banner-privacy-policy.php:819
+msgid "Settings has been updated successfully"
+msgstr "تم تحديث الإعدادات بنجاح"
+
+#: templates/admin.php:92 templates/admin.php:841
+msgid "Account Setup"
+msgstr "اعدادات الحساب"
+
+#: templates/admin.php:100
+msgid "Policy"
+msgstr "السياسات"
+
+#: templates/admin.php:104
+msgid "User Guide"
+msgstr "دليل المستخدم"
+
+#: templates/admin.php:119
+msgid "Your Seers Cookie Consent banner is activated."
+msgstr "تم تنشيط لافتة موافقة Seers Cookie الخاصة بك."
+
+#: templates/admin.php:123
+msgid "Your Seers Cookie Consent Banner is NOT activated because"
+msgstr "لم يتم تنشيط إعلان الموافقة على Seers Cookie بسبب"
+
+#: templates/admin.php:134
+msgid "Email"
+msgstr "بريد الالكتروني"
+
+#: templates/admin.php:145 templates/admin.php:162
+msgid "I agree Seers"
+msgstr "أوافق Seers"
+
+#: templates/admin.php:146 templates/admin.php:163
+msgid "Terms & Condition"
+msgstr "الشروط والحالة"
+
+#: templates/admin.php:148 templates/admin.php:165
+msgid "and"
+msgstr "و"
+
+#: templates/admin.php:149 templates/admin.php:167
+msgid "Privacy Policy"
+msgstr "سياسة خاصة"
+
+#: templates/admin.php:154 templates/admin.php:172
+msgid "I agree Seers to use my email and url to create an account and power the cookie banner."
+msgstr "أوافق على استخدام Seers للبريد الإلكتروني وعنوان url الخاص بي لإنشاء حساب وتشغيل لافتة cookie."
+
+#: templates/admin.php:178
+msgid "Create Account"
+msgstr "إنشاء حساب"
+
+#: templates/admin.php:181
+msgid "Cookie ID"
+msgstr "معرف Cookie"
+
+#: templates/admin.php:182
+msgid "Seers Cookie ID will be received automatically after account creation"
+msgstr "سيتم استلام معرف Cookie Seers تلقائيا بعد إنشاء الحساب"
+
+#: templates/admin.php:197
+msgid "Powering all your"
+msgstr "قوة كل ما تبذلونه من"
+
+#: templates/admin.php:198
+msgid "Privacy &amp; Data Security needs"
+msgstr "احتياجات الخصوصية وأمن البيانات"
+
+#: templates/admin.php:199
+msgid "Gain access to an extensive range of GDPR, PECR, CCPA &amp; ePrivacy compliance tools,"
+msgstr "الوصول إلى مجموعة واسعة من GDPR و PECR و CCPA و؛ أدوات الامتثال Eprivacy،"
+
+#: templates/admin.php:200
+msgid "all"
+msgstr "الكل"
+
+#: templates/admin.php:201
+msgid ""
+"designed to take the hassle out of complying with the new data\n"
+"                                protection regulations."
+msgstr ""
+"مصممة لأخذ المتاعب من الامتثال للبيانات الجديدة\n"
+"                                لوائح الحماية."
+
+#: templates/admin.php:206
+msgid "Policies Pack"
+msgstr "سياسات حزمة"
+
+#: templates/admin.php:207
+msgid "Templates Pack"
+msgstr "قوالب حزمة"
+
+#: templates/admin.php:208
+msgid "GDPR Staff eTraining"
+msgstr "موظفي GDPR Etraining"
+
+#: templates/admin.php:209
+msgid "Cookie Consent Management"
+msgstr "إدارة الموافقة على Cookie"
+
+#: templates/admin.php:212
+msgid "DPIA"
+msgstr "DPIA"
+
+#: templates/admin.php:213
+msgid "GDPR Audit"
+msgstr "مراجعة الحسابات GDPR"
+
+#: templates/admin.php:214
+msgid "Cyber Secure"
+msgstr "Cyber secure"
+
+#: templates/admin.php:215
+msgid "Subject Request Management"
+msgstr "إدارة الطلبات الموضوعية"
+
+#: templates/admin.php:217
+msgid "START FREE"
+msgstr "ابدأ"
+
+#: templates/admin.php:223
+msgid ""
+"Data Privacy &amp;\n"
+"                                Compliance. Solved"
+msgstr ""
+"خصوصية البيانات و؛\n"
+"                                امتثال. تم حلها"
+
+#: templates/admin.php:225
+msgid ""
+"Trust worlds leading privacy and consent management platform to help companies comply\n"
+"                                with GDPR, PECR, CCPA and ePrivacy"
+msgstr ""
+"الثقة في عوالم الرائدة منصة إدارة الخصوصية والموافقة للمساعدة الشركات الامتثال\n"
+"                                                                مع GDPR، PECR، CCPA و Eprivacy"
+
+#: templates/admin.php:227
+msgid "START PREMIUM TODAY"
+msgstr "بدء Premium اليوم"
+
+#: templates/admin.php:230
+msgid "Seers Premium Plan"
+msgstr "SEERS PREMIUM Plan"
+
+#: templates/admin.php:232
+msgid "Branding"
+msgstr "العلامة التجارية"
+
+#: templates/admin.php:233
+msgid "Multi Lingual"
+msgstr "متعدد اللغات"
+
+#: templates/admin.php:234
+msgid "Consent Log"
+msgstr "موافقة تسجيل الدخول"
+
+#: templates/admin.php:235
+msgid "Cookie Policy"
+msgstr "سياسة Cookie"
+
+#: templates/admin.php:236
+msgid "Prior Consent"
+msgstr "موافقة مسبقة"
+
+#: templates/admin.php:237
+msgid "6+ Design Layouts"
+msgstr "6+ تخطيطات التصميم"
+
+#: templates/admin.php:238
+msgid "Customer Support"
+msgstr "دعم العملاء"
+
+#: templates/admin.php:239
+msgid "Banner Customisation"
+msgstr "تخصيص راية"
+
+#: templates/admin.php:240
+msgid "Cookie Declaration Table"
+msgstr "جدول إعلان Cookie"
+
+#: templates/admin.php:241
+msgid ""
+"START PREMIUM\n"
+"                                TODAY"
+msgstr ""
+"ابدأ بريميوم\n"
+"                                اليوم"
+
+#: templates/admin.php:255
+msgid "Banner Settings"
+msgstr "إعدادات راية"
+
+#: templates/admin.php:260
+msgid "Banner"
+msgstr "بانر"
+
+#: templates/admin.php:260
+msgid "Enable/disable Cookie banner"
+msgstr "مكّن تعطيل Cookie Banner"
+
+#: templates/admin.php:279
+msgid "Cookie Expiry"
+msgstr "انتهاء Cookie"
+
+#: templates/admin.php:279
+msgid "Set your consent cookie to expire in days."
+msgstr "ضع موافقتك Cookie لتنتهي في غضون أيام."
+
+#: templates/admin.php:291
+msgid "Language"
+msgstr "لغة"
+
+#: templates/admin.php:291
+msgid "Choose a language for the banner Settings > General."
+msgstr "اختر لغة لإعدادات Banner> عام."
+
+#: templates/admin.php:475
+msgid "Show Badge"
+msgstr "عرض شارة"
+
+#: templates/admin.php:475
+msgid "Show a badge to enable the cookie banner to appear post consent."
+msgstr "أظهر شارة لتمكين لافتة Cookie من الظهور بعد الموافقة."
+
+#: templates/admin.php:498
+msgid "Visual Settings"
+msgstr "إعدادات بصرية"
+
+#: templates/admin.php:503
+msgid "Banner Text"
+msgstr "راية النص"
+
+#: templates/admin.php:503
+msgid "Text to appear on the banner:"
+msgstr "النص لتظهر على راية:"
+
+#: templates/admin.php:506 templates/admin.php:524
+msgid "Colour"
+msgstr "لون"
+
+#: templates/admin.php:506
+msgid "The text colour to appear on the banner:"
+msgstr "لون النص لتظهر على شعار:"
+
+#: templates/admin.php:521
+msgid "Banner Background"
+msgstr "بانر خلفية"
+
+#: templates/admin.php:521
+msgid "You can change the background colour of the banner:"
+msgstr "يمكنك تغيير لون الخلفية للشعار:"
+
+#: templates/admin.php:524
+msgid "The background colour of the banner:"
+msgstr "لون خلفية اللافتة:"
+
+#: templates/admin.php:538
+msgid "Accept Button"
+msgstr "قبول زر"
+
+#: templates/admin.php:538
+msgid "You can change text colour, button colour and text of the 'Accept All' button"
+msgstr "يمكنك تغيير لون النص، لون زر ونص زر 'قبول الكل'"
+
+#: templates/admin.php:541 templates/admin.php:572 templates/admin.php:603
+msgid "Text Colour"
+msgstr "لون النص"
+
+#: templates/admin.php:541
+msgid "The text colour to appear on the 'Accept All' button:"
+msgstr "لون النص لتظهر على زر 'قبول الكل':"
+
+#: templates/admin.php:551 templates/admin.php:582 templates/admin.php:613
+msgid "Button Colour"
+msgstr "لون زر"
+
+#: templates/admin.php:551
+msgid "The 'Accept All' button colour to appear on the banner:"
+msgstr "'قبول كل' لون زر الظهور على شعار:"
+
+#: templates/admin.php:569
+msgid "Reject Button"
+msgstr "رفض زر"
+
+#: templates/admin.php:569
+msgid "You can change text colour, button colour and text of the 'Reject All' button"
+msgstr "يمكنك تغيير لون النص، لون زر ونص زر 'رفض الكل'"
+
+#: templates/admin.php:572
+msgid "The text colour to appear on the 'Reject All' button:"
+msgstr "يحتوي لون النص على زر 'رفض الكل':"
+
+#: templates/admin.php:582
+msgid "The 'Reject All' button colour to appear on the banner:"
+msgstr "لون زر زر 'رفض الكل' لتظهر على شعار:"
+
+#: templates/admin.php:600
+msgid "Setting Button"
+msgstr "زر الإعداد"
+
+#: templates/admin.php:600
+msgid "You can change text colour and text of the 'Setting' button"
+msgstr "يمكنك تغيير لون النص والنص الزر 'الإعداد'"
+
+#: templates/admin.php:603
+msgid "The text colour to appear on the 'Setting' button:"
+msgstr "لون النص ليظهر على زر 'الإعداد':"
+
+#: templates/admin.php:613
+msgid "The 'Setting' button colour to appear on the banner:"
+msgstr "لون زر 'الإعداد' لتظهر على راية:"
+
+#: templates/admin.php:624
+msgid "Setting"
+msgstr "ضبط"
+
+#: templates/admin.php:632
+msgid "Fonts"
+msgstr "الخطوط"
+
+#: templates/admin.php:632
+msgid "You can select a font for the text of the banner:"
+msgstr "يمكنك تحديد خط لنص Banner:"
+
+#: templates/admin.php:684
+msgid "Select Button"
+msgstr "حدد زر"
+
+#: templates/admin.php:684
+msgid "You can select the shape of the buttons that appear on the banner."
+msgstr "يمكنك تحديد شكل الأزرار التي تظهر على Banner."
+
+#: templates/admin.php:688
+msgid "Default"
+msgstr "تقصير"
+
+#: templates/admin.php:692 templates/admin.php:702
+msgid "Flat"
+msgstr "عريضة"
+
+#: templates/admin.php:695 templates/admin.php:705
+msgid "Rounded"
+msgstr "مدور"
+
+#: templates/admin.php:698 templates/admin.php:708
+msgid "Stroke"
+msgstr "Stroke"
+
+#: templates/admin.php:726
+msgid "PREVIEW"
+msgstr "معاينة"
+
+#: templates/admin.php:727
+msgid "SAVE"
+msgstr "حفظ"
+
+#: templates/admin.php:746
+msgid "Please create cookies policy page and enter URL below."
+msgstr "الرجاء إنشاء صفحة سياسة cookie وإدخال URL أدناه."
+
+#: templates/admin.php:750
+msgid "Enable Policy:"
+msgstr "تمكين السياسة:"
+
+#: templates/admin.php:767
+msgid "Cookie Policy and declaration URL:"
+msgstr "سياسة cookie والإعلان URL:"
+
+#: templates/admin.php:770
+msgid "Policy URL"
+msgstr "عنوان URL للسياسة"
+
+#: templates/admin.php:777
+msgid "Save"
+msgstr "حفظ"
+
+#: templates/admin.php:831
+msgid "Premium Plan"
+msgstr "خطة متميزة"
+
+#: templates/admin.php:834 templates/admin.php:1023 templates/admin.php:1032
+#: templates/admin.php:1040
+msgid "Only the users with a paid account can avail this feature."
+msgstr "فقط المستخدمين الذين لديهم حساب مدفوع يمكنهم الاستفادة من هذه الميزة."
+
+#: templates/admin.php:839
+msgid "Ok"
+msgstr "نعم"
+
+#: templates/frontend-popup.php:1751
+msgid "seers logo"
+msgstr "شعار SEER"
+
+#: templates/frontend-popup.php:1756
+msgid "About Cookies"
+msgstr "حول Cookies"
+
+#: templates/frontend-popup.php:1760
+msgid "Read Cookie Policy"
+msgstr "اقرأ سياسة Cookie"
+
+#: templates/frontend-popup.php:1772
+msgid "Necessary"
+msgstr "ضرورية"
+
+#: templates/frontend-popup.php:1772
+msgid "Always Active"
+msgstr "دائما نشط"
+
+#: templates/frontend-popup.php:1774
+msgid "Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies."
+msgstr "Cookies اللازمة تساعد على جعل موقع إلكتروني صالح للاستخدام من خلال تمكين الوظائف الأساسية مثل تصفح الصفحات والوصول إلى المناطق الآمنة من الموقع. الموقع لا يمكن أن يعمل بشكل صحيح بدون هذه cookies."
+
+#: templates/frontend-popup.php:1774 templates/frontend-popup.php:1784
+#: templates/frontend-popup.php:1794 templates/frontend-popup.php:1804
+#: templates/frontend-popup.php:1812
+msgid "Cookies Detail"
+msgstr "تفاصيل Cookies"
+
+#: templates/frontend-popup.php:1778
+msgid "Preferences"
+msgstr "التفضيلات"
+
+#: templates/frontend-popup.php:1784
+msgid "Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in."
+msgstr "Cookies التفضيل تمكن الموقع من تذكر المعلومات التي تغير الطريقة التي يتصرف بها الموقع أو يبدو بها ، مثل لغتك المفضلة أو المنطقة التي أنت فيها."
+
+#: templates/frontend-popup.php:1788
+msgid "Statistics"
+msgstr "إحصائية"
+
+#: templates/frontend-popup.php:1794
+msgid "Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously."
+msgstr "وتساعد الإحصاءات Cookies أصحاب المواقع على فهم كيفية تفاعل الزوار مع المواقع على الإنترنت عن طريق جمع المعلومات والإبلاغ عنها دون الكشف عن هويتها."
+
+#: templates/frontend-popup.php:1798
+msgid "Marketing"
+msgstr "تسويقية"
+
+#: templates/frontend-popup.php:1804
+msgid "Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third-party advertisers."
+msgstr "تستخدم cookies التسويقية لتعقب الزوار عبر مواقع الإنترنت. والقصد من ذلك هو عرض إعلانات ذات أهمية وإشراك لفرادى المستخدمين ، ومن ثم تكون أكثر قيمة للناشرين وللمعلنين من طرف ثالث."
+
+#: templates/frontend-popup.php:1808
+msgid "Unclassified"
+msgstr "غير مصنف"
+
+#: templates/frontend-popup.php:1812
+msgid "Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies."
+msgstr "Cookies غير المصنفة هي الكوكيز التي نحن بصدد تصنيفها ، جنبا إلى جنب مع مقدمي الكوكيز الفردية."
+
+#: templates/frontend-popup.php:1819
+msgid "Save my choices"
+msgstr "حفظ خياراتي"
+
+#: templates/frontend-popup.php:1825
+msgid "powered by"
+msgstr "يعمل بواسطة"
+
+#~ msgid "To get your Cookie ID click on Activate"
+#~ msgstr "To get your Cookie ID click on Activate"
+
+#~ msgid "Activate"
+#~ msgstr "Activate"

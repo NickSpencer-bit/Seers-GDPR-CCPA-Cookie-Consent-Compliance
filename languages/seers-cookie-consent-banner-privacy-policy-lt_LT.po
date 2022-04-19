@@ -1,0 +1,620 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: seers-cookie-consent-banner-privacy-policy\n"
+"POT-Creation-Date: 2022-03-16 17:05+0500\n"
+"PO-Revision-Date: 2022-03-30 04:58-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: seers-cookie-consent-banner-privacy-policy.pot\n"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:350
+msgid "Quick Feedback"
+msgstr "Greitas atsiliepimas"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:351
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Jei turite momentą, praneškite mums, kodėl jūs išjungiate:"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:354 inc/seers-cookie-consent-plugin-deactivate.php:355 inc/seers-cookie-consent-plugin-deactivate_old.php:154
+msgid "The banner is not in the required language"
+msgstr "Baneris nėra reikalinga kalba"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:359
+msgid "The banner picks up your website language automatically. You can always sign-in on your Seers account"
+msgstr "Baneris automatiškai surenka jūsų svetainės kalbą. Jūs visada galite prisijungti prie savo Seers paskyros"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:359
+msgid "and choose the language you like. See the video"
+msgstr "ir pasirinkite norimą kalbą. Žiūrėkite vaizdo įrašą"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:359 inc/seers-cookie-consent-plugin-deactivate.php:381
+msgid "here"
+msgstr "čia"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:363 inc/seers-cookie-consent-plugin-deactivate.php:364 inc/seers-cookie-consent-plugin-deactivate_old.php:163
+msgid "Banner did not appear"
+msgstr "Baneris nepasirodė"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:367 inc/seers-cookie-consent-plugin-deactivate.php:388
+msgid "Most of the times the compatibility issue can be fixed very quickly. Please contact"
+msgstr "Dauguma laikų suderinamumo problemos gali būti nustatyta labai greitai. Prašau susisiekti"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:371 inc/seers-cookie-consent-plugin-deactivate_old.php:170
+msgid "Cookies are not showing in settings"
+msgstr "Cookies nerodomi nustatymuose"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:374
+msgid "We are scanning your website and it can take up to 12 hours for Cookies to appear. In a very few cases scanner miss a cookie. This"
+msgstr "Mes nuskaitoime jūsų svetainę ir Cookies gali užtrukti iki 12 valandų. Labai mažai atvejų skaitytuvas praleidžia cookie. Tai"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:374
+msgid "video"
+msgstr "video"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:374
+msgid "explains how to add cookies manually."
+msgstr "paaiškina, kaip rankiniu būdu pridėti cookies."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:378 inc/seers-cookie-consent-plugin-deactivate_old.php:177
+msgid "The banner did not match website theme"
+msgstr "Baneris neatitiko svetainės temos"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:381
+msgid "You can fully customize the banner. Please see the video"
+msgstr "Galite visiškai pritaikyti reklamą. Žiūrėkite vaizdo įrašą"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:384 inc/seers-cookie-consent-plugin-deactivate.php:385 inc/seers-cookie-consent-plugin-deactivate_old.php:184
+msgid "The plugin broke my site"
+msgstr "Plugin sumušė mano svetainę"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:392 inc/seers-cookie-consent-plugin-deactivate_old.php:191
+msgid "I have found a better plugin"
+msgstr "Radau geresnį papildinį"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:395
+msgid "Plugin name"
+msgstr "Įskiepio pavadinimas"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:398
+msgid "The plugin is great, but i need specific feature that you do not support."
+msgstr "Įskiepis yra puikus, bet man reikia konkrečios funkcijos, kurios nepalaiko."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:399 inc/seers-cookie-consent-plugin-deactivate_old.php:198
+msgid "The plugin is great, but i need specific feature that you don't support."
+msgstr "Įskiepis yra puikus, bet man reikia specialios funkcijos, kurios nepalaiko."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:402
+msgid "Banner customisation."
+msgstr "Reklamos pritaikymas."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:406 inc/seers-cookie-consent-plugin-deactivate.php:407 inc/seers-cookie-consent-plugin-deactivate_old.php:206
+msgid "Other"
+msgstr "Kita"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:410
+msgid "Kindly tell us the reason so we can improve."
+msgstr "Maloniai pasakykite mums priežastį, kad galėtume pagerinti."
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:413
+msgid "Submit & Deactivate"
+msgstr "Pateikti & Deaktivate"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:414
+msgid "Cancel"
+msgstr "Atšaukti"
+
+#: inc/seers-cookie-consent-plugin-deactivate.php:419
+msgid "Skip & Deactivate"
+msgstr "Skip & Deaktivate"
+
+#: js/admin.js:15
+msgid "Dismiss this notice."
+msgstr "Atmesti šį pranešimą."
+
+#: seers-cookie-consent-banner-privacy-policy.php:133 templates/admin.php:97
+msgid "Settings"
+msgstr "Nustatymai"
+
+#: seers-cookie-consent-banner-privacy-policy.php:139
+msgid "Upgrade Premium"
+msgstr "Atnaujinti priemoką"
+
+#: seers-cookie-consent-banner-privacy-policy.php:290 templates/admin.php:740 templates/frontend-popup.php:1738 templates/frontend-popup.php:1759
+msgid "We use cookies to ensure you get the best experience"
+msgstr "Mes naudojame cookies, siekdami užtikrinti geriausią patirtį"
+
+#: seers-cookie-consent-banner-privacy-policy.php:291 templates/admin.php:784 templates/admin.php:785 templates/admin.php:787 templates/frontend-popup.php:1740 templates/frontend-popup.php:1765
+msgid "Allow All"
+msgstr "Leisti visiems"
+
+#: seers-cookie-consent-banner-privacy-policy.php:292 templates/admin.php:815 templates/admin.php:816 templates/admin.php:818 templates/frontend-popup.php:1740 templates/frontend-popup.php:1766
+msgid "Disable All"
+msgstr "Viską išjungti"
+
+#: seers-cookie-consent-banner-privacy-policy.php:293 templates/admin.php:847 templates/frontend-popup.php:1740
+msgid "Preference"
+msgstr "Nustatymai"
+
+#: seers-cookie-consent-banner-privacy-policy.php:416 seers-cookie-consent-banner-privacy-policy.php:444 seers-cookie-consent-banner-privacy-policy.php:450
+msgid "Cookies policy added successfully."
+msgstr "Cookies politika sėkmingai pridėta."
+
+#: seers-cookie-consent-banner-privacy-policy.php:419
+msgid "Some thing went wrong. Please check url and try again"
+msgstr "Kai kurie dalykai negerai. Patikrinkite URL ir bandykite dar kartą"
+
+#: seers-cookie-consent-banner-privacy-policy.php:670
+msgid "Some thing went wrong."
+msgstr "Kai kurie dalykai negerai."
+
+#: seers-cookie-consent-banner-privacy-policy.php:806
+msgid "Settings has been updated successfully"
+msgstr "Nustatymai sėkmingai atnaujinami"
+
+#: templates/admin.php:92 templates/admin.php:1067
+msgid "Account Setup"
+msgstr "Sąskaitos sąranka"
+
+#: templates/admin.php:100
+msgid "Policy"
+msgstr "Politika"
+
+#: templates/admin.php:104
+msgid "User Guide"
+msgstr "Naudotojo gidas"
+
+#: templates/admin.php:119
+msgid "Your Seers Cookie Consent banner is activated."
+msgstr "Įjungta jūsų Seers Cookie sutikimo reklama."
+
+#: templates/admin.php:123
+msgid "Your Seers Cookie Consent Banner is NOT activated because"
+msgstr "Jūsų Seers Cookie sutikimo reklama nėra įjungta, nes"
+
+#: templates/admin.php:134
+msgid "Email"
+msgstr "El. paštas"
+
+#: templates/admin.php:145 templates/admin.php:162
+msgid "I agree Seers"
+msgstr "Sutinku Seers"
+
+#: templates/admin.php:146 templates/admin.php:163
+msgid "Terms & Condition"
+msgstr "Sąlygos ir sąlygos"
+
+#: templates/admin.php:148 templates/admin.php:165
+msgid "and"
+msgstr "ir"
+
+#: templates/admin.php:149 templates/admin.php:167
+msgid "Privacy Policy"
+msgstr "Privatumo politika"
+
+#: templates/admin.php:154 templates/admin.php:172
+msgid "I agree Seers to use my email and url to create an account and power the cookie banner."
+msgstr "Sutinku, kad Seers naudoja mano el.I agree Seers to use my email and url to create an account and power the cookie banner."
+
+#: templates/admin.php:178
+msgid "Create Account"
+msgstr "Sukurti paskyrą"
+
+#: templates/admin.php:181
+msgid "Cookie ID"
+msgstr "Cookie ID"
+
+#: templates/admin.php:182
+msgid "Seers Cookie ID will be received automatically after account creation"
+msgstr "Seers cookie ID bus automatiškai priimami po paskyros kūrimo"
+
+#: templates/admin.php:197
+msgid "Powering all your"
+msgstr "Vairo maitinimas"
+
+#: templates/admin.php:198
+msgid "Privacy &amp; Data Security needs"
+msgstr "Privatumas ir; Duomenų saugumo poreikiai"
+
+#: templates/admin.php:199
+msgid "Gain access to an extensive range of GDPR, PECR, CCPA &amp; ePrivacy compliance tools,"
+msgstr "Prieiga prie plataus GDPR, PECR, CCPA ir; EPRIVACY atitikties priemonės,"
+
+#: templates/admin.php:200
+msgid "all"
+msgstr "viskas"
+
+#: templates/admin.php:201
+msgid ""
+"designed to take the hassle out of complying with the new data\n"
+"                                protection regulations."
+msgstr ""
+"sukurta, kad būtų laikomasi naujų duomenų\n"
+"                               Apsaugos taisyklės."
+
+#: templates/admin.php:206
+msgid "Policies Pack"
+msgstr "Politikos paketas"
+
+#: templates/admin.php:207
+msgid "Templates Pack"
+msgstr "Šablonų pakuotė"
+
+#: templates/admin.php:208
+msgid "GDPR Staff eTraining"
+msgstr "GDPR personalo eTraining"
+
+#: templates/admin.php:209
+msgid "Cookie Consent Management"
+msgstr "Cookie sutikimo valdymas"
+
+#: templates/admin.php:212
+msgid "DPIA"
+msgstr "Dpia"
+
+#: templates/admin.php:213
+msgid "GDPR Audit"
+msgstr "GDPR auditas"
+
+#: templates/admin.php:214
+msgid "Cyber Secure"
+msgstr "Cyber ​​saugus"
+
+#: templates/admin.php:215
+msgid "Subject Request Management"
+msgstr "Dalyko užklausos valdymas"
+
+#: templates/admin.php:217
+msgid "START FREE"
+msgstr "Pradėkite NEMOKAMAI"
+
+#: templates/admin.php:223
+msgid ""
+"Data Privacy &amp;\n"
+"                                Compliance. Solved"
+msgstr ""
+"Duomenų privatumas ir;\n"
+"                               Laikymasis. Išspręsta"
+
+#: templates/admin.php:225
+msgid ""
+"Trust worlds leading privacy and consent management platform to help companies comply\n"
+"                                with GDPR, PECR, CCPA and ePrivacy"
+msgstr ""
+"Pasitikėjimo pasauliai pirmaujanti privatumo ir sutikimo valdymo platforma padėti įmonėms laikytis\n"
+"                                Su GDPR, PECR, CCPA ir EPRIVACY"
+
+#: templates/admin.php:227
+msgid "START PREMIUM TODAY"
+msgstr "Pradėkite priemoką šiandien"
+
+#: templates/admin.php:230
+msgid "Seers Premium Plan"
+msgstr "Seers Premium planas"
+
+#: templates/admin.php:232
+msgid "Branding"
+msgstr "Branding"
+
+#: templates/admin.php:233
+msgid "Multi Lingual"
+msgstr "Multi Lingual"
+
+#: templates/admin.php:234
+msgid "Consent Log"
+msgstr "Sutikimo žurnalas"
+
+#: templates/admin.php:235
+msgid "Cookie Policy"
+msgstr "Cookie politika"
+
+#: templates/admin.php:236
+msgid "Prior Consent"
+msgstr "Išankstinis sutikimas"
+
+#: templates/admin.php:237
+msgid "6+ Design Layouts"
+msgstr "6+ dizaino išdėstymas"
+
+#: templates/admin.php:238
+msgid "Customer Support"
+msgstr "Pagalba klientams"
+
+#: templates/admin.php:239
+msgid "Banner Customisation"
+msgstr "Reklamos pritaikymas"
+
+#: templates/admin.php:240
+msgid "Cookie Declaration Table"
+msgstr "Cookie deklaracijos lentelė"
+
+#: templates/admin.php:241
+msgid ""
+"START PREMIUM\n"
+"                                TODAY"
+msgstr ""
+"Pradėkite priemoką \n"
+"                                šiandien"
+
+#: templates/admin.php:255
+msgid "Banner Settings"
+msgstr "Banerio nustatymai"
+
+#: templates/admin.php:260
+msgid "Banner"
+msgstr "Banner"
+
+#: templates/admin.php:260
+msgid "Enable/disable Cookie banner"
+msgstr "Įgalinti / išjungti Cookie reklamą"
+
+#: templates/admin.php:279
+msgid "Cookie Expiry"
+msgstr "Cookie galiojimo pabaiga"
+
+#: templates/admin.php:279
+msgid "Set your consent cookie to expire in days."
+msgstr "Nustatykite savo sutikimo cookie pasibaigs dienomis."
+
+#: templates/admin.php:291
+msgid "Language"
+msgstr "Kalba"
+
+#: templates/admin.php:291
+msgid "Choose a language for the banner."
+msgstr "Pasirinkite banerio kalbą."
+
+#: templates/admin.php:701
+msgid "Show Badge"
+msgstr "Rodyti ženklelį"
+
+#: templates/admin.php:701
+msgid "Show a badge to enable the cookie banner to appear post consent."
+msgstr "Parodykite ženklelį, kad cookie reklama būtų rodoma pranešimo sutikimu."
+
+#: templates/admin.php:724
+msgid "Visual Settings"
+msgstr "Vizualiniai nustatymai"
+
+#: templates/admin.php:729
+msgid "Banner Text"
+msgstr "Banerio tekstas"
+
+#: templates/admin.php:729
+msgid "Text to appear on the banner:"
+msgstr "Tekstas, rodomas reklama:"
+
+#: templates/admin.php:732 templates/admin.php:750
+msgid "Colour"
+msgstr "Spalva"
+
+#: templates/admin.php:732
+msgid "The text colour to appear on the banner:"
+msgstr "Teksto spalva, kuri pasirodo ant reklama:"
+
+#: templates/admin.php:747
+msgid "Banner Background"
+msgstr "Banerio fonas"
+
+#: templates/admin.php:747
+msgid "You can change the background colour of the banner:"
+msgstr "Galite keisti banerio fono spalvą:"
+
+#: templates/admin.php:750
+msgid "The background colour of the banner:"
+msgstr "Banerio fono spalva:"
+
+#: templates/admin.php:764
+msgid "Accept Button"
+msgstr "Priimti mygtuką"
+
+#: templates/admin.php:764
+msgid "You can change text colour, button colour and text of the 'Accept All' button"
+msgstr "Galite keisti teksto spalvą, mygtuką 'Priimti visus' mygtuką"
+
+#: templates/admin.php:767 templates/admin.php:798 templates/admin.php:829
+msgid "Text Colour"
+msgstr "Teksto spalva"
+
+#: templates/admin.php:767
+msgid "The text colour to appear on the 'Accept All' button:"
+msgstr "Teksto spalva, rodanti 'Priimti visus' mygtuką:"
+
+#: templates/admin.php:777 templates/admin.php:808 templates/admin.php:839
+msgid "Button Colour"
+msgstr "Mygtuko spalva"
+
+#: templates/admin.php:777
+msgid "The 'Accept All' button colour to appear on the banner:"
+msgstr "'Priimti visus' mygtuką spalva pasirodyti ant reklama:"
+
+#: templates/admin.php:795
+msgid "Reject Button"
+msgstr "Atmesti mygtuką"
+
+#: templates/admin.php:795
+msgid "You can change text colour, button colour and text of the 'Reject All' button"
+msgstr "Galite pakeisti teksto spalvą, mygtuką \"Atmesti All\" mygtuką"
+
+#: templates/admin.php:798
+msgid "The text colour to appear on the 'Reject All' button:"
+msgstr "Teksto spalva, rodanti \"Atmesti visus\" mygtuką:"
+
+#: templates/admin.php:808
+msgid "The 'Reject All' button colour to appear on the banner:"
+msgstr "\"Atmesti visus\" mygtuką \"Atstatymas\" Rašyti ant reklama:"
+
+#: templates/admin.php:826
+msgid "Setting Button"
+msgstr "Nustatymo mygtukas"
+
+#: templates/admin.php:826
+msgid "You can change text colour and text of the 'Setting' button"
+msgstr "Galite pakeisti teksto spalvą ir mygtuko \"Nustatymo\" tekstą"
+
+#: templates/admin.php:829
+msgid "The text colour to appear on the 'Setting' button:"
+msgstr "Teksto spalva, rodanti \"nustatymą\" mygtuką:"
+
+#: templates/admin.php:839
+msgid "The 'Setting' button colour to appear on the banner:"
+msgstr "\"Nustatymas\" mygtuko spalva, kad būtų rodoma ant reklama:"
+
+#: templates/admin.php:850
+msgid "Setting"
+msgstr "Nustatymas"
+
+#: templates/admin.php:858
+msgid "Fonts"
+msgstr "Šriftai"
+
+#: templates/admin.php:858
+msgid "You can select a font for the text of the banner:"
+msgstr "Galite pasirinkti šriftą už reklama teksto:"
+
+#: templates/admin.php:910
+msgid "Select Button"
+msgstr "Pasirinkite mygtuką"
+
+#: templates/admin.php:910
+msgid "You can select the shape of the buttons that appear on the banner."
+msgstr "Galite pasirinkti mygtukų formą, rodomą ant reklama."
+
+#: templates/admin.php:914
+msgid "Default"
+msgstr "Numatytas"
+
+#: templates/admin.php:918 templates/admin.php:928
+msgid "Flat"
+msgstr "Butas"
+
+#: templates/admin.php:921 templates/admin.php:931
+msgid "Rounded"
+msgstr "Suapvalinta"
+
+#: templates/admin.php:924 templates/admin.php:934
+msgid "Stroke"
+msgstr "Stroke"
+
+#: templates/admin.php:952
+msgid "PREVIEW"
+msgstr "Peržiūra"
+
+#: templates/admin.php:953
+msgid "SAVE"
+msgstr "SUTAUPYTI"
+
+#: templates/admin.php:972
+msgid "Please create cookies policy page and enter URL below."
+msgstr "Sukurkite cookie politikos puslapį ir įveskite žemiau esančią URL."
+
+#: templates/admin.php:976
+msgid "Enable Policy:"
+msgstr "Įgalinti politiką:"
+
+#: templates/admin.php:993
+msgid "Cookie Policy and declaration URL:"
+msgstr "Cookie politika ir deklaracijos URL:"
+
+#: templates/admin.php:996
+msgid "Policy URL"
+msgstr "Politikos URL"
+
+#: templates/admin.php:1003
+msgid "Save"
+msgstr "SUTAUPYTI"
+
+#: templates/admin.php:1057
+msgid "Premium Plan"
+msgstr "Premium planas"
+
+#: templates/admin.php:1060 templates/admin.php:1249 templates/admin.php:1258 templates/admin.php:1266
+msgid "Only the users with a paid account can avail this feature."
+msgstr "Tik vartotojai su mokama sąskaita gali pasinaudoti šia funkcija."
+
+#: templates/admin.php:1065
+msgid "Ok"
+msgstr "Gerai"
+
+#: templates/frontend-popup.php:1751
+msgid "seers logo"
+msgstr "seers logotipas"
+
+#: templates/frontend-popup.php:1756
+msgid "About Cookies"
+msgstr "Apie cookie"
+
+#: templates/frontend-popup.php:1760
+msgid "Read Cookie Policy"
+msgstr "Skaitykite cookie politiką"
+
+#: templates/frontend-popup.php:1772
+msgid "Necessary"
+msgstr "Būtinas"
+
+#: templates/frontend-popup.php:1772
+msgid "Always Active"
+msgstr "Visada aktyvus"
+
+#: templates/frontend-popup.php:1774
+msgid "Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies."
+msgstr "Būtini cookies padeda padaryti svetainę tinkama, nes įgalina pagrindines funkcijas, tokias kaip puslapio naršymas ir prieiga prie saugių svetainės sričių. Svetainė negali tinkamai veikti be šių cookies."
+
+#: templates/frontend-popup.php:1774 templates/frontend-popup.php:1784 templates/frontend-popup.php:1794 templates/frontend-popup.php:1804 templates/frontend-popup.php:1812
+msgid "Cookies Detail"
+msgstr "Cookies išsamiai"
+
+#: templates/frontend-popup.php:1778
+msgid "Preferences"
+msgstr "Nuostatos"
+
+#: templates/frontend-popup.php:1784
+msgid "Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in."
+msgstr "Pirmenybės cookies įgalina svetainę prisiminti informaciją, kuri keičia kelią svetainėje elgiasi ar atrodo, kaip jūsų pageidaujama kalba ar regionas, kad esate."
+
+#: templates/frontend-popup.php:1788
+msgid "Statistics"
+msgstr "Statistika"
+
+#: templates/frontend-popup.php:1794
+msgid "Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously."
+msgstr "Statistiniai cookies padeda svetainių savininkams suprasti, kaip lankytojai sąveikauja su svetainėmis, anonimiškai rinkdami ir teikdami informaciją."
+
+#: templates/frontend-popup.php:1798
+msgid "Marketing"
+msgstr "Marketingas"
+
+#: templates/frontend-popup.php:1804
+msgid ""
+"Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third-party "
+"advertisers."
+msgstr "Rinkodaros cookies naudojami lankytojams stebėti visose svetainėse. Siekiama rodyti skelbimus, kurie yra aktualūs ir patrauklūs atskiram vartotojui, taigi vertingesni leidėjams ir trečiųjų šalių reklamuotojams."
+
+#: templates/frontend-popup.php:1808
+msgid "Unclassified"
+msgstr "Neklasifikuota"
+
+#: templates/frontend-popup.php:1812
+msgid "Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies."
+msgstr "Neklasifikuoti cookies yra cookies kuriuos mes klasifikuojame kartu su atskirų cookies teikėjais."
+
+#: templates/frontend-popup.php:1819
+msgid "Save my choices"
+msgstr "Išsaugok mano pasirinkimą"
+
+#: templates/frontend-popup.php:1825
+msgid "powered by"
+msgstr "parėmė"
+
+#~ msgid "To get your Cookie ID click on Activate"
+#~ msgstr "To get your Cookie ID click on Activate"
+
+#~ msgid "Activate"
+#~ msgstr "Activate"
