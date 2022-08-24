@@ -46,7 +46,7 @@ if (!class_exists('SCCBPP_WpCookie_Save')) {
         public $plugin;
         public $cookiename = 'SeersCMPConsent';
         public $textdomain = 'seers-cookie-consent-banner-privacy-policy';
-        public $apisecrekkey = '$2y$10$9ygTfodVBVM0XVCdyzEUK.0FIuLnJT0D42sIE6dIu9r/KY3XaXXyS';
+        public $apisecrekkey = '---------------------secretkey-----------------------------';
         public $defaultfontsize = 12;
 
         public function __construct()
